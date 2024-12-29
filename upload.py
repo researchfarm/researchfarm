@@ -15,16 +15,18 @@ print("? File copied to repository successfully.")
 os.chdir(REPO_PATH)
 
 try:
-    subprocess.run(["git", "add", "."], check=True)
-    # Commit if there are changes, else force an empty commit
-    subprocess.run(["git", "commit", "-m", "Automated update from local source"], check=True)
-    subprocess.run(["git", "push"], check=True)
-    print("? Changes pushed to GitHub successfully.")
-except subprocess.CalledProcessError as e:
-    # Force an empty commit if no changes are detected
-    if "nothing to commit, working tree clean" in str(e):
-        subprocess.run(["git", "commit", "--allow-empty", "-m", "Automated update (no changes detected)"], check=True)
-        subprocess.run(["git", "push"], check=True)
-        print("? Empty commit pushed successfully.")
+    # Check if there are changes to commit
+    status_output = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+    if status_output.stdout.strip():
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", "Automated update from local source"], check=True)
+        print("? Changes committed successfully.")
     else:
-        print(f"? Error during Git operations: {e}")
+        print("?? No changes detected. Skipping commit.")
+
+    # Ensure SSH is used and push changes
+    subprocess.run(["git", "push", "origin", "main"], check=True)
+    print("? Changes pushed to GitHub successfully.")
+
+except subprocess.CalledProcessError as e:
+    print(f"? Error during Git operations: {e}")
