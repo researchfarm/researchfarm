@@ -3730,3 +3730,8 @@ Traceback (most recent call last):
     with open(src, 'rb') as fsrc:
          ^^^^^^^^^^^^^^^
 FileNotFoundError: [Errno 2] No such file or directory: '/home/pi/NPS/data/DATA_VIS.txt'
+To github.com:researchfarm/researchfarm.git
+   7617a00..4c618eb  main -> main
+? File copied to repository successfully.
+?? No changes detected. Skipping commit.
+? Changes pushed to GitHub successfully.
