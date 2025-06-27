@@ -3,7 +3,7 @@ import shutil
 import os
 
 # Define paths
-LOCAL_FILE = "/media/pi/9E8E534B8E531B5B1/data/Test_Usha121.txt"
+LOCAL_FILE = "/home/pi/NPS/data/DATA_VIS.txt"
 REPO_FILE = "/home/pi/researchfarm/data.txt"
 REPO_PATH = "/home/pi/researchfarm"
 
