@@ -2897,3 +2897,1382 @@
 2025-07-04 15:26:35, b"Received packet 'Sender 1:,0, S1M1: ,133.49,S1M2: ,154.59,S1T1: ,-127.00,S1T2: ,30.62\r\
 2025-07-04 15:26:39, b"Received packet 'Sender 1:,0, S1M1: ,130.15,S1M2: ,150.21,S1T1: ,-127.00,S1T2: ,30.62\r\
 2025-07-04 15:26:44, b"Received packet 'Sender 1:,0, S1M1: ,125.52,S1M2: ,145.33,S1T1: ,-127.00,S1T2: ,30.69\r\
+2025-07-04 18:37:13,0, b'LoRa Receiver\r\
+2025-07-04 18:37:14,1, b'LoRa Initializing OK!\r\
+2025-07-04 18:37:14,2, b"Received packet 'pW\x02Q\x84y\xd5\xb0T\xc9\xb8\xae<\x80\xfc\xfb\xc6\xaf\x1e\x176q\xc6*\xdb\x0b\x9b\xccJ\x11\xa6(\xa6D\xdck-^\
+2025-07-04 18:46:05,3, b'\xeev\x1f\xfc,\x182a?\xb5\xd1\r\
+2025-07-04 18:46:05,4, b"Received packet 'Sender 1:,, S1M1: ,46.79,S1M2: ,46.79,S1T1: ,-127.00,S1T2: ,30.81\r\
+2025-07-04 19:15:18,0, b'LoRa Receiver\r\
+2025-07-04 19:15:20,1, b'LoRa Initializing OK!\r\
+2025-07-04 19:15:20,2, b"Received packet 'Sender 1:,, S1M1: ,45.10,S1M2: ,45.10,S1T1: ,-127.00,S1T2: ,30.75\r\
+2025-07-04 19:33:55,3, b"Received packet '\xdc\xf2B4\xb5\xf4\x8f%m \xcd{\xc3\r\
+2025-07-04 19:37:25,4, b"Received packet '\xc0\xfc\xa4PhD+\xa0O\x04\xd11\x15\x94\xe6+\xc6\xc3\x0c^;\x0cs0\x81\x10\xb9\x12\xa8\xd0\xe99\x05\xe3}\xcb\x96\xf8\t^W\xcb\xc9\x1f\xa9\xbdA\x85\x86\xed\xd4x\x08\xe5\xed[\x86\x82\xf5\xd6\x99\xb9\x1b\xc9\x159'E|\xcc\x94\xb20r\xd2|4@jx_o\xc3G\xc4\xbdZ\xf2\xe6\xf1\x13\xb0\xdd\xf7\xa9\xea\t\x15\xa4\xc6\xa0\xbfU<\xb9\xa35\xd7.\x973\xef\xdb\x07\xf0\x91v\xa7Z\xaf\xcc\x91\xb2\xeerD\x99\xf6\x9d\xfc\xcd\xca\xf5\xa8\xde\x03\xa1+\x1f!p\x1e\xe5\xff\x12}\xaa\xd1vP\xb1\xea\xcd\x91\xd0\x9b\xa5@\xee\xae\xf8\x00l\xe9n\xf0\xb0gIu\xd7}\x89\xf2\xb8\xd4\xdc\x8e\x1d\t\xb7\x01Y*a~\x97\xe9h\xed\x7f\xa6@V\xcf\xdciw\r\
+2025-07-04 19:46:05,5, b"Received packet 'Sender 1:,, S1M1: ,41.25,S1M2: ,40.81,S1T1: ,-127.00,S1T2: ,30.75\r\
+2025-07-04 20:03:58,6, b"Received packet 'Sender 1:,, S1M1: ,42.57,S1M2: ,41.90,S1T1: ,-127.00,S1T2: ,30.75\r\
+2025-07-04 20:34:01,7, b"Received packet 'Sender 1:,, S1M1: ,41.25,S1M2: ,41.03,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-04 21:04:03,8, b"Received packet '|{t\x0fJ\
+2025-07-04 21:08:28,9, b'\xa3^b\xfb\x8f\x86\xccsa\xc9\x87\xa0\xec\xe7t\xaad0\x16\xd3\x8e\xaa\x7fd\xd1\r\
+2025-07-04 21:08:28,10, b"Received packet 'Sender 1:,, S1M1: ,42.57,S1M2: ,43.02,S1T1: ,-127.00,S1T2: ,30.69\r\
+2025-07-04 21:34:06,11, b'Received packet \'\xa3\xbe\xb5u\x1d\x01\x99kL\x10\x83,\x00_2"e\x1a\x1e\x8ci\xa6\xf1\x83\xb1A\xde<Q~\xb4,\xce\x8cU\x7f\xed\xe2]\x19,uN\xb3\x1c\x94>\x9f\xa6\xe1\xca\xe7D\xe0X~\xc9\x86p\xc2h\xbe\x11\x10\xab\xaf]#i\xc0\xd8I\x0f\x17\xdb\xbc\xbd\rc\xe1\x04$\xbc\xf9\xe6\x1b\xe3\xe3\xca\xda\x800\xce\x8d\x8e\x01K\xb9\xb5\x9c\x08\xcet\xe1FEt{<g\x96\x7fgiW\xf4d\xfd\x88\xb6\xf3\xe8\x81\x18\x9b/\x17\xb9N\xaf\xdb\xba\xe5\xdc\x83q\x8e\x1c\xa9{j\xd7\xd1\xbd\xc7^\xe2\xf2\xad\xbc*\xb6\xd5c\x86\xa30\xb5\xfbH\x9a,;\x88g\xb4\xbf)\xf1\xed\xac\xb2\xa2\xf6\xabc\x9f\xbf\r|S\x8d\x12@\x17c\x8f\xd5\xd4\xe4V\xb4@\xd8\xf4f2N\x1c\x92\xaeJ\xb7\x89\xcb\xf9k\xf9\x8d\xf6=\xea\xab0Lw\x8a\x00\x17\xa6\x9d\x14XX\x83\x94\xa6\xf2\xfcH\xf0_\xa9\x11y\xeb\xbb|F\xf0\x96\xa5\r\
+2025-07-04 21:56:05,12, b"Received packet 'Sender 1:,, S1M1: ,42.34,S1M2: ,42.57,S1T1: ,-127.00,S1T2: ,30.69\r\
+2025-07-04 22:04:09,13, b'Received packet \'po\xa1s"zv\xf2\x85\x93\xf3\xe5\x99E\x8cS\xb7\x84T\r\
+2025-07-04 22:06:54,14, b"Received packet 'Sender 1:,, S1M1: ,43.24,S1M2: ,42.79,S1T1: ,-127.00,S1T2: ,30.62\r\
+2025-07-04 22:34:12,15, b"Received packet '\xad\x0e\xf0\x08\xfa\x8d\x8f\xf5k\xb7\xb5\xb5\xb9H\x91\xcaE\xddu\xa7\\\x05#\r\
+2025-07-04 23:01:22,16, b"Received packet 'Sender 1:,, S1M1: ,45.58,S1M2: ,45.82,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-04 23:04:14,17, b"Received packet '\xa8\x0f\x08\x94\xd3\xb4j8`+\xfc\x08\xff\x98=\x81\xd0\xac3,\xb8\xc8F\xf2\xdc\x7f!\xb53\xa4\x83\rO\xe9\xce\x1f\x00N\xf1dp\x91\xf7\xfa\xc1\x99\
+2025-07-04 23:09:45,18, b'\x93\x0fP\xc6~\x008\xc4\x8f\xeb\xca\xdc\x83\xc1@\xf5\x86O@\x00:7L\x9b\xc7bb\xb2\x11|\x028\x0e\x17\xc2>e\xe1dJQ\xac\x1b+;\x84\xb4\xc54\xc56\xc2\x8e\x8577\xe6@3\xa6\xfbm\xdd1\xae\xd1{a/\xf03z\xac\x1d\x08\xeem\x05\x97\xe3\x89,\xa8\x0f\r\
+2025-07-04 23:09:45,19, b"Received packet 'Sender 1:,, S1M1: ,46.30,S1M2: ,46.54,S1T1: ,-127.00,S1T2: ,30.56\r\
+2025-07-04 23:34:17,20, b'Received packet \'M\xb6\xdbT\x0e\xdb\xf3\xc45\xf9|\xc1R\xc7=\xb6\x87\xe5\x1d;\xa1\xd4x\x83\xa4\x9f\xf85\x03\xc2\xfe\xf6\x17_\x14u\x19\xc9K\xf3\xa1\xcdJ#\x1a\x7f\xfe\x053\x03o\xb7h\x1eJb\x15O\xfc\xe9\x82\x0c\xd4`\xb2\x02\xfd~\x82$\xef\xca"\xb5\x14TSj\x9b\xad6\xd6\xe0\xcby\x8d\xa8\x05\xbf\xc9\x12\x8b\x85\xbe\x8c\xb5\xbaX\x80P\
+2025-07-04 23:51:54,21, b's\x0b\x01\x0f\xbbh\xa71\xde\xf0\x19D\xec~\x1e=\x14\x80\xa5&\xcd\xdbi|ca\xbfH\xaa;\x8e \xdf\r:\x83\xac\xb6\xbcE#\x98v-\xb1\xb3a\xfc\xa2\xa7\xb7W\x08\x1df\x07\xc3\xad\xdam\x05\xec\xe6H\x8b\x94([\
+2025-07-04 23:51:54,22, b'\xa5?\x1au\xabR#1\xf8\xcf\x95\xae\xad\x88|\xd6\xbc\xb7\x8b(\xd9{\xc6\xbb<\x19\xa5ey|\xb4\xc8W\xe4>\xa5\xd7\xf1\x9a\x90wh4\x80W\xed\xfa\x82mg\x9b\xf1\r\
+2025-07-04 23:51:54,23, b"Received packet 'Sender 1:,, S1M1: ,47.53,S1M2: ,47.28,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 00:04:20,24, b"Received packet 'Sender 1:,, S1M1: ,45.10,S1M2: ,44.63,S1T1: ,-127.00,S1T2: ,30.44\r\
+2025-07-05 00:34:23,25, b"Received packet 'Sender 1:,, S1M1: ,48.29,S1M2: ,48.54,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 01:04:25,26, b"Received packet 'Sender 1:,, S1M1: ,46.30,S1M2: ,46.06,S1T1: ,-127.00,S1T2: ,30.25\r\
+2025-07-05 01:34:28,27, b"Received packet 'Sender 1:,, S1M1: ,45.10,S1M2: ,44.63,S1T1: ,-127.00,S1T2: ,30.31\r\
+2025-07-05 02:04:31,28, b"Received packet 'Sender 1:,, S1M1: ,45.10,S1M2: ,44.63,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 02:34:34,29, b"Received packet 'Sender 1:,, S1M1: ,45.82,S1M2: ,46.06,S1T1: ,-127.00,S1T2: ,30.19\r\
+2025-07-05 03:04:37,30, b"Received packet '\xdc\xd0\r\
+2025-07-05 03:19:16,31, b"Received packet 'Sender 1:,, S1M1: ,46.30,S1M2: ,46.79,S1T1: ,-127.00,S1T2: ,30.06\r\
+2025-07-05 03:34:40,32, b"Received packet 'Sender 1:,, S1M1: ,46.54,S1M2: ,46.54,S1T1: ,-127.00,S1T2: ,30.12\r\
+2025-07-05 04:04:43,33, b"Received packet 'Sender 1:,, S1M1: ,47.53,S1M2: ,48.03,S1T1: ,-127.00,S1T2: ,30.12\r\
+2025-07-05 04:34:46,34, b'Received packet \'\xef\xe2]=:bn;\x14\x827\xd6\xfd\xc5X\xcb\xd1\xf1\xca\x1a[/\xdd\x17\xa8\xd9:\x19r\xa1\x19\xde\r\xb1\x86QK\xa7\x97\xe5\r\xf3\xb8\xcb\x96\xdd\xb0x\xcb\xd1R\xe3a\xcf\xe3\xb8\xed\xfa\x04\x8a\xf2\'\xf1\x11\xfb\x0cx\x9aT4\xd1m\xd1\xc0\x0b\x00\xc0\xce\x8fO\x1c\xee\x89V*7\x11\xba^:\x16\x7f\xc8\xab.\x89Uc(\xa3\xc3\xf1\rm5G;?0a\xfa\x973\xeb\xb2\xbe\xf1\x8c(\x9bf\xf4\x81\xc7\xda\xee\xdb\x9bfL\xec?"\x9a\xf25K\xaf,\x1e\xefW\xe1\xabd\xbaTLdl,1O\xb9G%:6\xcb\x91\xb1`\x97_\x83\xcb\x12*O\xc1*\xa3/d\x07\x98\xf9X\xfac\x80\xee\x93\xd8\
+2025-07-05 04:53:05,35, b'\xcc.\xe8\xdf\xd5\xc7\x88\xb1\x175\x1bT)v(\xb8Q\xa3\x0bN\xb1\xd3\x90\x93f\xcc\xba\xe1\x8ax\x04\x97\xa7:\xb0\xc3(P\xbdx\x7f\x84I\r\xc1\xe3\r\
+2025-07-05 04:53:05,36, b"Received packet '\xc1\xff\xa8j6\x0e0\xee\xbcr\x04\x8c9\xc1\r\
+2025-07-05 05:01:12,37, b"Received packet 'Sender 1:,, S1M1: ,47.28,S1M2: ,47.28,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 05:04:48,38, b"Received packet 'Sender 1:,, S1M1: ,44.63,S1M2: ,44.39,S1T1: ,-127.00,S1T2: ,30.06\r\
+2025-07-05 05:34:51,39, b"Received packet '\xf9b\r\
+2025-07-05 06:03:48,40, b"Received packet 'Sender 1:,, S1M1: ,44.16,S1M2: ,44.39,S1T1: ,-127.00,S1T2: ,30.00\r\
+2025-07-05 06:04:54,41, b"Received packet '\x19\xa8\x14\xee\x82\xa0v'\xdd\x05\x07\xbd\x14\x0e\x13\xf9\xbd\xfa\x11n1\xd0.\xabO\xcbW\x0b\x11\x04\xdfC\x97:\x80\xe0\xb4.\xfe<\x12\xef\xaf\xe8~@!0\x1f\x95\x98D\xc7P\xd2\x0c\x97\xb1U%?\xc8\xc8\xaf,\x02\xbe\xe5V\x9d\xfbp\x17\xc6\xa8\xec\x8c\xa9\x83=\x8b\x9f\x1b\xc3\x1d\x06@n2S\xdccI\xda<|\x04\xbc\xaep\xef<\x8d\x18\xb5\xe6h\xdb\x7f\xf6:7\xca1'\x95=1$I\xfe}S\x191*-w%\x17\xb0\xbf\x81\xfa\xbe\xd45m+\x12\xc3\xbe\xe6A9#c\x8d\xe7wE\x92\xdc\xde\x015\x1b\xf3?@\xa7\x1a\xc6\xa7\xec\xd3\x03\xe1\x84\xc3\x0b(\tM\xd1G*\xa2\x14;\x7f\x91\x8b[\x03<\x0b\x12\xa2\xac\x11\x81o\xe5ouz>\xad\xd7\x02n\xf6\xe8\xdf\xcf\xff\x96R\r\
+2025-07-05 06:30:51,42, b"Received packet 'Sender 1:,, S1M1: ,44.39,S1M2: ,43.93,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 06:34:57,43, b"Received packet 'Sender 1:,, S1M1: ,43.24,S1M2: ,42.79,S1T1: ,-127.00,S1T2: ,29.81\r\
+2025-07-05 07:05:00,44, b"Received packet 'Sender 1:,, S1M1: ,41.90,S1M2: ,41.46,S1T1: ,-127.00,S1T2: ,29.81\r\
+2025-07-05 07:35:03,45, b"Received packet '\xde\x12:\xd6#\xe9F\x17\xd6\xdd\xf3\xcd\x97\x9b\xd7\x97\xc8\xf3\xbf\xa7p+\x03\x0f8-\xa0\xb8\\-\x0f]\x1a\xd6\xdfM5Q$\xf0\x12\xe1,\x9dn\xb4ro\xd9\xd9\rT\x16{ft\xdb\xfb\x90\x01\x03\x05\xaf\xb79\x13\xec\r\
+2025-07-05 09:34:46,46, b"Received packet 'Sender 1:,, S1M1: ,37.34,S1M2: ,37.93,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 09:48:57,47, b"Received packet 'Sender 1:,, S1M1: ,37.15,S1M2: ,37.54,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 10:18:59,48, b"Received packet 'Sender 1:,, S1M1: ,37.73,S1M2: ,37.73,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 10:49:02,49, b"Received packet 'Sender 1:,, S1M1: ,38.33,S1M2: ,38.13,S1T1: ,-127.00,S1T2: ,-127.00\r\
+2025-07-05 11:19:04,50, b"Received packet ')\x16 \xccpBi\xe5K\xe0m\x87\x0e\t\x9f\x95\xa6%s\xef\xb30\x0b\xd9@\x0f\x84\xcb\x07\x80\x07|\xd8\xd5\xb1s\xa7_\xfb\xd8%\xdd\xb4J\x1cdB>\x00\r\
+2025-07-05 13:11:00,51, b'Received packet \'\xd4Ej\xbab\xed\xc8\xcd\x86\x03J\xf3\xc0\x02\xf0!\x04\r\x10\x1ai\xc1\t\xde&\x1aw\xbcpO\xc1\xf7sJ\xa0E"z\xdeB0z\x8a=\x91\xd3+V:>\xe4R\\\xe8|\x08!\xb5\x1c@\x0f1\xb1:Gd\x16M\x83\x85\xa7\x84H\x88F\xa7\x9d\x10&\xaf-\t\x11,\x13\xda\xe6\x9d\xff\x150\xa1\x1f\xf9\x8b\xf9\x9fw&\xfbp\xef\xb5\xccY\xee\x12P\x98\x19\x93N\x90Yy\x05\xc9JVovS`s\x83\x03qy\xba\x0c\xe3\xd1\xd0\r\
+2025-07-05 13:17:20,52, b'Received packet \'\x91\xf6v\xfa\xdc<\xdf\x98\xdd\xceh]\x99\x04=\x01\x82Uy;Y:I\xf6\xb1\x81"5(\xa0\x8a\xd8\x93\xc9p\xea@N\xac\xb4\x97\x8f\xdf\xe5\x13\xd2\x12w\xf5\x0cTg/k\x9b\x7f\xed\x83B\xf1d\xe9\xb7\x1c}mh\xf0"lX\x8b\xb0\xe9\xbdR\x93\x03\xf67\xbb\xbbF\xacQ\xb9\x87\x9cZ\x9bb\xbe\xe3\xcd\xff(5\xcb\xe5v_*\x8f\x17\xe8\xa0*\xa8\';\x02\xf6g|\x9e\xc9\xad\xd5\x08\xd3\x1dH\x87\x15)\x80!\xf7\x16\xc5\xaf$\xc1J\x02\xd7L;2>g\x01\x81(G\xd0\xba\xec\xb1\x10\x83\xe6\x83\xe3\xd3\xac\xdb=1\'xE\xc5yK|W\x1f\x01),\x1d3n\x19\xc3\x1f\x86Jl#\x7f\x13\x15\xf1\x8e7\x02C\xda/\xc9\xd2\x15\xcf\xc3\x98f%\x10D:\xabP;\xaf"\xfe\xb8\xea`\xa7\xf0\xf9\x1b\xb4\xc7\xc9\xe5\x16B\xe3\x92\xa6\x8b\x08\x12\xcc\xa3\t\xa0\xf7\xad\r\
+2025-07-05 13:44:42,53, b"Received packet '\xd0\xfe\xcfjw\xffu\x17\x94\xf8\r\
+2025-07-05 13:56:05,54, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.12\r\
+2025-07-05 13:59:39,55, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,55.33,S2T1: ,-127.00,S2T2: ,30.12\r\
+2025-07-05 13:59:42,56, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-05 14:08:40,57, b"Received packet 'Sender 2:,0, S2M1: ,58.28,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.25\r\
+2025-07-05 14:23:43,58, b"Received packet 'Sender 2:,0, S2M1: ,59.20,S2M2: ,58.59,S2T1: ,-127.00,S2T2: ,30.31\r\
+2025-07-05 14:38:45,59, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,55.91,S2T1: ,-127.00,S2T2: ,30.31\r\
+2025-07-05 14:53:48,60, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,30.37\r\
+2025-07-05 15:08:50,61, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.37\r\
+2025-07-05 15:23:53,62, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.37\r\
+2025-07-05 15:38:56,63, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.37\r\
+2025-07-05 15:53:58,64, b"Received packet '\x88\x99\x80B\xf2c\x89\xd0\x13\xc8\xea\xd8\xe6;]@\xcdsz\x00\xb4\x12D\xe7$\xd3\xdb]\x86\x84m%\x05\xf8E\xdd\xd9\xe4=\xd6\x07\x94!p\xe1\x8dv\x02\xf2p\xe1\x1aI\x04\xafJJA$\x85\xb3\xa6\x95\x93\xb8j\x06\xe6]\xe6\xf6\x0e}G\xb0\x15\xc9U\xa6\xf8*\x13\x15)\x02\xa3\xb4\xa3\x86\xf6?RS\x8fy\xa1\xcb\xee\x8a(\xb8\x80i\x9d\xd7\xea\xae\xde\xc7\r\x13d\xe7g\xf6\xc4\x06\x1c\x1c\xc2\xa9\xe5\x02\xb4\xeeT\xc4&\xc0'\t\x01dba\x0bxH\xf5\xa8|\r\
+2025-07-05 16:04:39,65, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.44\r\
+2025-07-05 16:09:01,66, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.37\r\
+2025-07-05 16:24:03,67, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.44\r\
+2025-07-05 16:39:06,68, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,\x056.20,SRRQ:F,-127.00,S2\xd4\xbe\xb2 ,30.50\r\
+2025-07-05 17:09:11,69, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,55.04,S2T1: ,-127.00,S2T2: ,30.50\r\
+2025-07-05 17:24:14,70, b"Received packet 'Sender 2:,0, S2M1: ,55.33,S2M2: ,55.91,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 17:39:16,71, b"Received packet 'Sender 2:,0, S2M1: ,55.33,S2M2: ,55.04,S2T1: ,-127.00,S2T2: ,30.50\r\
+2025-07-05 17:54:19,72, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 18:09:21,73, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.62\r\
+2025-07-05 18:24:24,74, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 18:39:26,75, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 18:54:29,76, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,55.91,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 19:09:31,77, b"Received packet '\xd6u\r\
+2025-07-05 19:12:56,78, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 19:24:34,79, b"Received packet 'Sender 2:,0, S2M1: ,57.98,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 19:39:36,80, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 19:54:39,81, b"Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 20:09:41,82, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 20:24:44,83, b"Received packet '\x0bl\xcc\xd3\xf4\xeb\xa1\xd1>T\x8e\
+2025-07-05 20:31:06,84, b'\xdc\x86\xde\x95\x1f-#\xd4\xda\x00\xce\x90b\x08\rD\x08O\xa5\xa2\x15L\xe9\xbcC\xae\xd2\xb0)\xeb\xa9\xd3dA>\xd3\xe9\xbf\xee\xef,\xab\xa2\x9c0\xe1g\xc9\x1fI~\x86 `\xe5\x13\xde\xd3\x98\xb36p\xd1\x9c\x86G?\xd7\xd0L\x92\xb2\xc7q\xc4\x94&\x13\xe8j#\xbfE\xa2\xb1\xea\x87\x8cE\x9d\x8d\xd5=\xec\xa9\xd0\xa6\x04\x94i4\x16\x115\xc2\xd8a\x9e\xc6I\x03\xbdq\xea\xd2G\x9b\x16#\x85)\xd1\x87\x94\x7f+;?\xf1\xe3\xc75\xcc\xe7\xd3N;\x91\xfce;=S\xddY\x99R\x8f\x860\
+2025-07-05 20:31:06,85, b'Q\xe8\x9f\xad\xc0D\x89\xca\x99X\xc7\xe4<\xe7\xac\x8e_F\xfe\r\
+2025-07-05 20:31:06,86, b"Received packet 'f\xaa\xa0/\xf9^pU\xca\xc2\xaf\x97\xdd\xea\xcc\x81\r\
+2025-07-05 20:35:42,87, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 20:39:46,88, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.50\r\
+2025-07-05 20:54:49,89, b"Received packet '\x98F%\x89\xb0\xd4\xea\xd5d\x19a\x18\xd5\xe4*7\xcf\x8ah9\x04V\xa3w\xcc\xd2\xbf\xe3\xf9\x03 n@\xb8Y\xa1\x11\xc2\t\xea\xdb\x95\x94z\x84\x89\xedQ\x9d\x80\xe0\xff9R\xa9\xa5\xdcW\xb4\t\x8b}\xbd\xe7\r\
+2025-07-05 20:56:09,90, b"Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.56\r\
+2025-07-05 21:09:51,91, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,30.50\r\
+2025-07-05 21:24:54,92, b'Received packet \'\xae,\xab&\xccp+\x87x\x9a\xb7\x0b^\xdc<\xe0\xb8\x92T\x91\xc8\xe0\xf0jN\t\x95\x84\xa4r\x08\xb4\xb5\xdf\x94U4\xabZ"\xeb2\x87.\xfd\xb9\x1b,%\xf9\x10u<\xfa\x16:\xc7\xed7\xcc &\xbb_\xd3\x9e\x97\xb9m\x92\xedKx\xb1\xc8\xa9\x89\x9d!\x93p\xdf\x88\x80@\xbfkd\x12c\x07\xb4\x06\xfd\x1c\x8eH\xe8\xb4\'\t1g\xd1\x0c\xa2\x08\xfaF\x19\xee\xbd\x02U\xa9c]KT\x04I\xa6$P\xb4\xd1\x87\x12\xa9\xbf\xac\x1b\r\
+2025-07-05 21:36:14,93, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.50\r\
+2025-07-05 21:39:56,94, b"Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.50\r\
+2025-07-05 21:54:59,95, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.44\r\
+2025-07-05 22:10:01,96, b"Received packet 'Sender 2:,0, S2M1: ,57.38,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.44\r\
+2025-07-05 22:25:04,97, b"Received packet '\x88\xc00Q\x98\x95d\xeb8C\x14\x8f$(e\xcdm\x9b\xfb\x92\xea\xec8\xf1\xe0\xcbK\xae\xf8?\xbd\x99\t#Xt\xf7\xae?\xc3\x81\x97\x887\x18\x8c\x06\xe2\
+2025-07-05 22:29:07,98, b'\xa6\xb7\xe6\xc6#\x89%\xb5\x99\xb3N\xe5\xd5\xc0z\xcb\x851\t\xf1\xee~\xd3\x91;\xbb\xed\x06dTOk\x97$^\x1e\xaa\xdb\x00\xc2\x159\xa0\xc6\x13\x17\xb5)\x83\x82\xca\x8d\x7f\xa0\
+2025-07-05 22:29:07,99, b'8\xd2Jo\x17"\xed.k?\xe1^J\x93\xac\x90w\xe5&o\x11\xb4\xbe(\xd1F9\xbcr\x03\x04\r\
+2025-07-05 22:29:07,100, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.44\r\
+2025-07-05 22:40:06,101, b"Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.44\r\
+2025-07-05 22:55:09,102, b"Received packet '\
+2025-07-05 23:09:03,103, b'\r\
+2025-07-05 23:09:03,104, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.44\r\
+2025-07-05 23:10:11,105, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.37\r\
+2025-07-05 23:25:14,106, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.31\r\
+2025-07-05 23:40:16,107, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,30.37\r\
+2025-07-05 23:55:19,108, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.98,S2T1: ,-127.00,S2T2: ,30.31\r\
+2025-07-06 00:10:21,109, b'Received packet \'\x9c\xb6\xd0\xd4\xc6\xc1\x8dxe\xa8\xafC\x86K\x1e\xed%\xb5\x18wh\xc0\xc0t\x14\x01\xab\xaceQg\xf7O\xfd\xfe\x18\x93U\x1fn)G\x04.\x19\xa4K\x9aF\xf8a\xed^OVr\xb3E%@\xa5\x87\x8e\x01\x94;\x07\x81\xb4\xea\xec\xc8\xd21\x81\xa6\x11\xd4\x9d\xe0\xd9\xfd\x9e\xedBD\xdc\x10\x01"\x17\x0b\x8f!\x1b\x1e\x87\'^\x91\xb5\xd0K\x02\xdd\xee\xee\xe6\x82p\xe0}\xde\xd0\xce\x1c\xd1\xcdj\xae\xea\x98\x14\xe3a\x94\x0f\xa4\r\
+2025-07-06 00:20:00,110, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.31\r\
+2025-07-06 00:25:24,111, b'Received packet \'~b0x\x89\xb6\xdd\x83\x06\x90\x17}6D\x88E`1\x08\x7f\xf2\x80:\x04E\x10\xfa\xb9\xd3\xc5\x1b\x8b\x98\xeb\x82\x9a\xfc\xbb\xc67\xa4\xd2B\xe2\x89PD\xe5\xd2\xdd\x96\xadD\xacbl\x8d\xad;\xef\x97\x93\xa3\xcc\xcbw\xdfGU\xe3\xae&r\xc3\x86j\xc6\x9e\xc0Z\xf7\xde\x85\xbf\x1d\x08\x999<\xf1yI%\xe3\xe5\xd8a\xbc\xfb+]\xf4f\x1f\xa8~o\xf5\xb5\xd5T\x17\xd3T{\xa8\xfex\x95l"S\r\x06\xe0t\xa10Y\xe8\xde\xb6+\xc8\x93\x89t\xa2\xcfR\x01\xcc\x00?\xa2\x8btB\xfcX\xe0>\xd3\x98\x81aY\xad\xbc)\xa1\x0b\xe9\xef\xd6\x8e4\xdd\xd8\xb6}\xaaS\x90\xb99j \x9dyHN\xf8\x98\x0eZ\xce1\xd7\xbcwltw^\xcc\x85\x14\x93\x8e\x86\xeb\tT\x90\x8f\xaf,\xde \x15)\r\
+2025-07-06 00:28:25,112, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.31\r\
+2025-07-06 00:40:26,113, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.25\r\
+2025-07-06 00:55:29,114, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,30.31\r\
+2025-07-06 01:10:31,115, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-06 01:25:34,116, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-06 01:40:36,117, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-06 01:55:39,118, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-06 02:10:41,119, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-06 02:25:44,120, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-06 02:40:46,121, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-06 02:55:49,122, b"Received packet 'Sender 2:,0, S2M1: ,57.98,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.19\r\
+2025-07-06 03:10:51,123, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,30.12\r\
+2025-07-06 03:25:54,124, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,30.06\r\
+2025-07-06 03:40:56,125, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.12\r\
+2025-07-06 03:55:59,126, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.06\r\
+2025-07-06 04:11:01,127, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,57.98,S2T1: ,-127.00,S2T2: ,30.06\r\
+2025-07-06 04:26:04,128, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,30.06\r\
+2025-07-06 04:41:06,129, b"Received packet 'Sender 2:,0, S2M1: ,57.38,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.00\r\
+2025-07-06 04:56:09,130, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.94\r\
+2025-07-06 05:11:11,131, b'Received packet \'9\xf1\xccU\x88\x13\xdd\xfc\xda{\xa3\xe7\xeex\xbdM\x81\xe1\xe5\xd3\x99s\x99\xbay\xbbI\xf7\x0cM\x80p\xee\x1b\x02\x04#\xba\x1a\x18\x95:T\x8a\xc5\xb5\xa5\x9d\xdc\xc3+{\x92v.c\xe9{E\xbd\x1b\xb90\xf0\xa7\xabXf\xd52e\xf1l!Qt-\x03\xa8\x18~\x9b\xfd\xe9\x9f\t\\\xff\xb8\x15\x06y\xe0\x80\xd9\xfe\xba\xec\xd4o?!,\x82\r~\x84\xe6\x93\xc6\x1b\\\xc0\xc2"\xb6mcT\xa9M\xf2%t\x06\x06\xe5c\xfc\xb1\xbdTm\xc7\xdf\x1c\x1e\x9dP\x89\xe0\x80\xda\x94\x0e\t\x8d^G\xb64>/N\x0e\x96R\x80\x99\xb1\x86\xfb;`\xbb\xc9D\xdb\xa70`\x03\xa8\xdf\xd8u\x81\xdb\x89Zm\'\xac\x93\x90\xbf`\x12e\x04ZW\xff)y\x9f\xb2\'\xcdz\xb0\xef\r\
+2025-07-06 05:18:31,132, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,30.00\r\
+2025-07-06 05:26:14,133, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.94\r\
+2025-07-06 05:41:17,134, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.00\r\
+2025-07-06 05:56:19,135, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-06 06:11:22,136, b"Received packet 'Sender 2:,0, S2M1: ,57.98,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,29.94\r\
+2025-07-06 06:26:24,137, b"Received packet 'Sender 2:,0, S2M1: ,57.38,S2M2: ,57.98,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-06 06:41:27,138, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-06 06:56:29,139, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-06 07:11:32,140, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-06 07:26:34,141, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,29.81\r\
+2025-07-06 07:41:37,142, b"Received packet 'Sender 2:,0, S2M1: ,57.98,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-07 13:37:15,0, b'LoRa Receiver\r\
+2025-07-07 13:37:17,1, b'LoRa Initializing OK!\r\
+2025-07-07 13:37:17,2, b"Received packet '\xeb\xc9\x16#\xd6\xe3\x84\x88S4+\x92\xf8\xbc\x83%\xceo\xd5F\xadT\x1b\xd2\xc9\x90\x85>\x94\xf8+Q\xd3Y\tU\x8c\xcc\xf5U\xf5\x07xL9\xb8Q{S\xda\xdc:\xfd\xff%'\x0f\t{\xfb\xf8\xa6\xbf&\xc6\xf7\xb0\xf9\x03\xb4\xea\x91(\x9e*\xc1;3\xc3P\x98\xb3\r\
+2025-07-07 15:38:09,3, b'Received packet \'\xcc\xf4%0_\x9c\xb0\x89\x03e\xb5\xed\xebM,}^\xb6`Yk)\xf8\xd4=o\'\x15\xd0p\xf0l\xb3M\x1e\x8e%\xe6\x8c\xa36?\xcb\x00.z\xb0\xe1\xf8\xad\xf0\x821\x9aWX\x17\xa1\x16\xd9\x06\x83;\xa5\x8f|\xe0\xadK\x17\x1f#m\x7f/\x03y\x90\x1eb\xfd\xe5\xb2egt\x9fm\xd7|(]n\x17M\x92\x05.C]<\x94\xb72\xb3\x9a\x15X\xf1r#\xecz\xbb@$\x17)\xb6\x9a\x8f\x99\x98H.M\xb8\x15\xd0\xa5\xcc\xe9\xa2\xa7\x1a\xa9\x82"}\x12~\xad\x0byLS\xb6LJ\x90\xf7i\r\x9bK\xb84\xad?\x12:\xa9n\xecKz\xba\'F\xc6\xd8\xa6q\\\xdb\x8c\xf1\x98P\x0c;S\'\xa1\x18\xac\xf6\xdb>S\':\x8e\x9e\x0c\xe9\xb4\xdf-5\xd5\xfbv#\x89S\r\
+2025-07-07 16:06:14,4, b'Received packet \'\xea\xf9\x12`\x8dj\xe4\xaa".\xa2\x8d\xcb6D\x14O\xd1\xbb7\xa5\xf9\xde/\r\
+2025-07-08 13:36:51,0, b'LoRa Receiver\r\
+2025-07-08 13:36:53,1, b'LoRa Initializing OK!\r\
+2025-07-08 13:36:53,2, b"Received packet 'n\x94\xcc\xf9\xd9\xc7\x88d\x01\xc4\x89\xeb\x01\xc0\xf3\x7fA\xec\t\xa9dR\x12\xa8\x8b\x13\xc6T\x97\xc1\x16\rb\xcc:\xd1\x85\xf8\x8b&\x80\xce\x18\x88\xa0\xf5\xd0\xc0>\xc5kJ\x8d\xd8\x88\x97\x1al\xca@\xbf\x0cQ\xe9\x15,%\x1f.\xdf\xcf\x9e\t\xdb\x85\xac\x11\xbd\xa9\xf2\xe1\xdfT\xcc4z\xf2`\xa9\xeb:c\x1b~\xaa\xd8\xc8lD\x03n\x17D\x0b\xef\xd3,k#\xe8e\x9a\x16v\x19\
+2025-07-08 14:34:54,3, b'#\xa3\xfd\xa4\xa9\xd0\x06|\x08{\xbc\x8f\xf3N\x92\xff\xe0\x98Bio\x90\xe9\x84+\xa2\xad.ue\xb5\xf2\xb1\xad\xfc!Pp\xf0 \t7 \x82\xech\xfd\x10\xef\xb3\xf8el\xb0[\xec\xab\r\xf1%y@\x1dznvR\xbc\x98\
+2025-07-08 14:34:54,4, b"A\xc8,\xbe\x046\xf1\x8c{\xcc\x17\x7fO*\x9c*R\xb5\xc3\xf8\xe4\xa0\x0f\xf6A8`\x83\xc0\xdd\x81\x11|\xe0\xd0T\xa9\x92\x0c'f!\xebt!O\x8c\r\
+2025-07-08 14:34:54,5, b"Received packet '\xb3\xa5\x12\x03f\xc0\xa3\x82K\xdfd\xf7c<\xf1\x8eF\x9emn\\Vv\x9e\xf4\xd2\xfc\\\xe8\x07\x07nf\x81@\x1aY\xc2\x13_\x15\xb9\xd4\xe6\xb8\x1b\x16\xbe\x1e\xa2\xb4t\x05m\xb0(\x8aD3\x1aE\x05M\xfd\xb7\x0eA\xef8\xec\xb9\x99m]E\xf9\xf8e\x88\xf5i\r64\xe8\x14\xbc_2\xde\x18`\x08N\x189\xf4\x07\xaa\x94F^n\xd7q\xd9:\x8f+\xbe$`p5|\xb23f\xef\
+2025-07-08 15:08:56,6, b'\xc6\xdb\x91+\xf9\r\
+2025-07-08 15:08:56,7, b"Received packet '\xdf$N\x87\r\
+2025-07-08 15:47:52,8, b"Received packet 'Sender 2:,0, S2M1:,51.42, S2M2:,62.02, S2T1:,29.50, S2T2:,-127.00, RainVolume:,0.00\r\
+2025-07-08 15:52:57,9, b"Received packet 'Sender 2:,0, S2M1:,41.25, S2M2:,48.29, S2T1:,29.50, S2T2:,-127.00, RainVolume:,0.00\r\
+2025-07-08 16:09:37,10, b"Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,55.04,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 16:09:44,11, b"Received packet 'Sender 2: TIP, count: 1\r\
+2025-07-08 16:11:28,12, b"Received packet 'Sender 2: TIP, count: 2\r\
+2025-07-08 16:11:57,13, b"Received packet 'Sender 2:,1, S2M1:,42.34, S2M2:,48.80, S2T1:,29.50, S2T2:,-127.00, RainVolume:,16.00\r\
+2025-07-08 16:24:38,14, b"Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 16:24:46,15, b"Received packet 'Sender 2: TIP, count: 3\r\
+2025-07-08 16:27:20,16, b"Received packet '\x9a\xf0Yy\t\xf0t\x82\xf0klY\xe8\xb1*\xf9\xce\xe4\xcb\xe7\xc9\x82i~\x85~\x8286\xa22d\x9b\xb8\x98\x04'\x07\xfd>\xb5:\xb5y\xf4e%\x8f~5\xa4\xf5C\
+2025-07-08 16:29:42,17, b'\x02\xb0\x0f\x9a\xa1E\x12\x94\xd6[\x00X+\xa5\xa2$q\\Ir\x9a\xd3\x90\x88\x07n#\xe1rt\xca\xb4\xee\xd5\xd3\xdb\xaem\xe9\x91\xad\x10n\xbc`.\x00X\x8dir\\\xee\xf63\xcf\\\r\x8c\xfdw\xa2\xeb\x08\xd3\x05\x8d\xf2\xf2u\xdf[5 \xe7\xa1\x0b\x05A"b\xaf{>>K\x11\xb3\x80=\x82\xe1\xec\xef\x91@\xac\xd4\xcfZ\x19\xfe\x1db\x01E\\\xc0?\x99%\xa6\xd6D\x1e\'\r\
+2025-07-08 16:29:42,18, b"Received packet 'Sender 2: TIP, count: 4\r\
+2025-07-08 16:32:55,19, b"Received packet 'Sender 2:,2, S2M1:,42.12, S2M2:,49.05, S2T1:,29.50, S2T2:,-127.00, RainVolume:,32.00\r\
+2025-07-08 16:39:39,20, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 16:39:49,21, b"Received packet 'Sender 2: TIP, count: 5\r\
+2025-07-08 16:52:13,22, b"Received packet '\xb7\x7f\xdc.\x00\xbe'\xd1\xe1eLF:\x1bI_R.(\xa6\xc0\x13\xa7g\xbf\x93\xd0\xc0\r\
+2025-07-08 16:52:48,23, b"Received packet 'Sender 2:,3, S2M1:,42.12, S2M2:,48.80, S2T1:,29.50, S2T2:,-127.00, RainVolume:,40.00\r\
+2025-07-08 16:54:40,24, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 16:54:51,25, b"Received packet 'Sender 2: TIP, count: 6\r\
+2025-07-08 17:01:26,26, b"Received packet 'Sender 2:,4, S2M1:,41.03, S2M2:,48.29, S2T1:,29.50, S2T2:,-127.00, RainVolume:,48.00\r\
+2025-07-08 17:09:40,27, b"Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 17:09:54,28, b"Received packet 'Sender 2: TIP, count: 7\r\
+2025-07-08 17:21:33,29, b"Received packet 'Sender 2:,5, S2M1:,41.68, S2M2:,48.29, S2T1:,29.50, S2T2:,-127.00, RainVolume:,56.00\r\
+2025-07-08 17:24:41,30, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 17:24:57,31, b"Received packet 'Sender 2: TIP, count: 8\r\
+2025-07-08 17:32:35,32, b"Received packet 'Sender 2: TIP, count: 9\r\
+2025-07-08 17:34:47,33, b"Received packet 'Sender 2: TIP, count: 10\r\
+2025-07-08 17:35:33,34, b"Received packet 'Sender 2: TIP, count: 11\r\
+2025-07-08 17:37:46,35, b"Received packet 'Sender 2: TIP, count: 12\r\
+2025-07-08 17:38:53,36, b"Received packet 'Sender 2:,6, S2M1:,42.34, S2M2:,48.80, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 17:39:42,37, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,55.91,S2T1: ,-127.00,S2T2: ,29.81\r\
+2025-07-08 17:39:59,38, b"Received packet 'Sender 2:,7, S2M1:,42.12, S2M2:,48.80, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 17:54:43,39, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 17:55:02,40, b"Received packet '\x913\xec\x0f\x84>O\x9febHe\xe6\xbd\xcdH\xb3\xb9\xbaV\xee\xcc\x84\x88\
+2025-07-08 18:08:57,41, b"b\x1f\xed}\xb7]\xd8t\x99\xfel\xf9fo\x87H\x89\xdc\xf9\xeb5;\xa2.\x80\xd1\x0c\xd3\xf0:XP3H\x8a\xca\xb9\xdc&\x95\xb8<\x8b\xca\xf0\xfc'\x0cM\x98\x06\xb3\xc5\xee\xde\x89\r\
+2025-07-08 18:08:57,42, b"Received packet 'Sender 2:,8, S2M1:,41.25, S2M2:,48.29, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 18:09:44,43, b"Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 18:10:04,44, b"Received packet 'G_\xc8\x00.\xf05c\xc6\x03\xa7\xaeQ\
+2025-07-08 18:15:05,45, b'k\x83c\x18\x0fps\xd6w\xe2\xdf\x1e\x16\xe5\r\
+2025-07-08 18:15:05,46, b"Received packet 'Sender 2:,9, S2M1:,41.68, S2M2:,49.05, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 18:24:44,47, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,29.87\r\
+2025-07-08 18:25:07,48, b"Received packet 'Sender 2:,10, S2M1:,41.68, S2M2:,49.05, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 18:39:45,49, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,29.81\r\
+2025-07-08 18:40:09,50, b"Received packet 'Sender 2:,11, S2M1:,42.79, S2M2:,49.83, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 18:54:46,51, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,58.28,S2T1: ,-127.00,S2T2: ,29.81\r\
+2025-07-08 18:55:12,52, b"Received packet 's'?\x9d\xe3h\xce\xc4\xef\xcf#T_F\xf6\x9a\xab;\x03\x86\x1b\x8c\xb2\xf3\x1a:=<\x03\x00w(\xc4\xd8\xbd-C\x08\xb0\xf3).\x85\xba(>sc\x87\xb2\xd0\x8b\x9f\x12u\x96\x17r\xf5\xe5\xedw0=y0\xc71\x9cj$\x91=\xb2u\xf8o\x1c\xd7F\xa1\xe0\x1aSZH\xce\x8byG\x0f\xb0u\x0f \x9e\xe4e\x90\x96\xb9\x03\xa6\xa7k\xf7\xa1\xee\xad\xec\xeev{\xb6I?\x8d\x83\xa2\xa5\xb556\xdf\xd7U^z\xbdQ\x7f\xb3\xd6\x8f\x8a\x81V\x93-1[a\xe7\x18\xf6\xf9\xe5\xe8\xd87\x17\x83s\x89^N\xb8\xa1\x00\xdfr.\xe3,F`C5\r\
+2025-07-08 19:05:14,53, b"Received packet 'Sender 2:,12, S2M1:,42.12, S2M2:,49.57, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 19:09:47,54, b"Received packet 'Sender 2:,0, S2M1: ,57.98,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.81\r\
+2025-07-08 19:10:14,55, b"Received packet '\xa6k`\xf0\xdc)B,M\x92\xfe\x04\xf5_\x0b\x01q.*\x0b;\x0b\xc7\xc1\x15L2\x02\x1f\x97\xcdq\xae\\u\xb6\x10\x86zm)\xcf\x93X\x1ah\xfd\x1fz\x80\x91G\r\
+2025-07-08 19:15:45,56, b"Received packet 'Sender 2:,13, S2M1:,42.12, S2M2:,49.83, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 19:24:48,57, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,29.81\r\
+2025-07-08 19:25:17,58, b"Received packet '\x98U[V\x8d\xa2\
+2025-07-08 19:29:53,59, b'\xecw%}\xf7\xc7\xc8}\x19\xd7\xf8\x1aI\x13\xccu:>\xf2\xbd\xb5\xa7\x00\xf8q\r\x1b\xfa\xcf\x0f\x0e\xea\x00>\x11\xfcV\x9e\x924>x\xf3\xaaFt\xcb\x87\x0e\xee*\xc1Y\xff\xba\xa9{\xba\x0c\x0b\x86\x1ev\xd7\xe4,\x86\x16\xc9`\x10\xff5\x1cq\xd6\
+2025-07-08 19:29:53,60, b's\xfe\xa5\xa3\xfd\x9f\x06\x19Q3\xc1\x9b\xca\xcd,*&\x13=a\x8b\xd0+e-d\\0\xd3\xc2\xd1\x137p\x9d\
+2025-07-08 19:29:53,61, b'\x11~z\x145a\x92\xac\x9d\x9b6s\x13\x19\x05\xd6\xe2\xf4\xe0\xb3\xf4\xf7\x96\xad\x9c\x85\xc3R>\xd5\xa0\x83\xddSp\x83\x10=Vd\xa55P\xff:"\x88{zj\xfa\x947\xc0\x87\xdd\'K\x82\'4H\xf6\xb94\x8e\x1d\x85\xc2J\x9d\x83f\x81\xbc\r\
+2025-07-08 19:29:53,62, b"Received packet 'nn\xdd#\xd6c\xbbO \xa5g\xe8\x9c\xed\xb06U\x1e\
+2025-07-08 19:37:37,63, b'\xa3T\xc3\x81\x07\xa9$\x90W\xa4F,\x9e+\x08\x88\xca_\xe3\xe8\xf6\xafK;`I\x14\x7fN\x05\xefX\xfd\x84\xf4\x8e\x06\xed4%)\x1f\x1fr\xd1\xcc\xcb\x99\xe9\x04\xf1sV\x10J\xe9c\x12\xf5\x1f\xde\x86\x012g\xa6\xa9F\x8e\xe6\x87\xe4p\xa8\xe1\x15~.\x0by\x8e_\x1e\x88X\xf7\x00,\x7f\xfa\xa1Dh\x08K\xa6\xd8v`@s\xb3\x1d@\x17C\xa63\xff\xc6A\xbbx\xff\xc6\xff\x9b.\xb2\xf4/r#\x14O\x00T\x1eN\xf0\xf8\xa3\x01o\xbbv\xa3\xee\x8f\x17Ggz\xfe$\x0cj^#%\xab\x9f_%Y4]\xcc\x96\x1d{\xf7xm\x89\x11\xb51B\xa3\xfd\xb7\xb7\x97k\xce\xb1\x92UP\xe6\x01\xdd\x02X$\xb1\x96\xa1\xdb:I\xe8}\x83\x9e\xe8\xf4\xb9\xba\x18\x01!sr*\r\
+2025-07-08 19:37:38,64, b"Received packet 'Sender 2:,14, S2M1:,42.34, S2M2:,50.09, S2T1:,29.56, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 19:39:48,65, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.81\r\
+2025-07-08 19:40:19,66, b"Received packet 'Sender 2:,15, S2M1:,41.68, S2M2:,48.80, S2T1:,29.50, S2T2:,-127.00, RainVolume:,96.00\r\
+2025-07-08 19:54:49,67, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-08 19:55:22,68, b"Received packet 'Sender 2:,16, S2M1:,42.12, S2M2:,48.80, S2T1:,29.56, S2T2:,-127.00, Ra\r\
+2025-07-08 20:09:49,69, b"Received packet 'Sender 2:,0, S2M1: ,57.38,S2M2: ,57.98,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-08 20:10:24,70, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-08 20:25:27,71, b"Received packet 'Sender 2:,0, S2M1: ,57.98,S2M2: ,57.98,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-08 20:40:29,72, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,29.81\r\
+2025-07-08 20:55:32,73, b"Received packet 'Sender 2:,0, S2M1: ,57.98,S2M2: ,57.98,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-08 21:10:34,74, b"Received packet 'Sender 2:,0, S2M1: ,57.38,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,29.69\r\
+2025-07-08 21:25:37,75, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-08 21:40:39,76, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.69\r\
+2025-07-08 21:55:42,77, b'Received packet \'\x8f\xfd@\xeb,\xf9\xe86\xa2\x8b\xf5\x84\xec\xb8\xd4\xd3\x01\x86^\xd3c\xe3D"\x8e4Z\x9a\xac\xbc\x1a\x8e\x97\xeaL\xdb\xebPl\x1a\xda\x11\x99\xc8\xf8$\xd9\xd0\xc1}\x81\x8eg\x19\xc3|\x11\xbd\x9fh#9t\xb1|n\x00\xfav\x9dY\x81\x18\t\xa1\xdf\xc0\xd9\x88\xbc0\xf3f\xbd\xb9}m{{\xf0\x93\x18\xa4\x83\x80\xe0\xea^g1\xdc"\xc6!\xed\xd7~\xe9$D&\x91C\xd3\x0b\x84\x0e]\x15X(\x1fW\r\
+2025-07-08 22:02:13,78, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-08 22:10:45,79, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,29.69\r\
+2025-07-08 22:25:47,80, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,29.75\r\
+2025-07-08 22:40:50,81, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,29.69\r\
+2025-07-08 22:55:52,82, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,29.62\r\
+2025-07-08 23:10:55,83, b'Received packet \'\xa9\xb5h8\xaf)\xc3\x8e>\xdd\x97\xa6p[<\xdf\x86\xc4 \xb0K\xf3\x9aW\xf6u$d\xa2&\xb5\xecsP\xb9XI\xbaI\x16A\xc9+\xa1o\xbf#\x90\xe9\x0cQ\xdd\x80N\xf6\xd6\x1b\xba\xe1k\xf1\xa0\x96\'\x86\x9f\xc1\xb5\xe1\xed\xec\x91y\xc7E\xbc\x06\x89\x01\xb2C2\xbe\t\x08\xb6\x82\xe4%?1\\0+\x9c\x9fDb,\xdf\xe2\xf2n}\xe2"\x8d\xf1\xfa\xf7\x99\xd3q\x14\x98T\xcb\xe9\x17\xe5\xfe\xef\xfb\x18\xd2L\x96\xa3\x00\xbe\x06+\x05h\x08\x88!\xa9\xb1\xf4\xe2\xbf\xf4\xd6`\xd3\xe1\xcd\xc7\x9a\xb1\r\
+2025-07-08 23:14:11,84, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.62\r\
+2025-07-08 23:17:14,85, b"Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,29.62\r\
+2025-07-08 23:32:17,86, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,29.62\r\
+2025-07-08 23:47:19,87, b"Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,29.62\r\
+2025-07-09 00:02:22,88, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,29.62\r\
+2025-07-09 00:17:24,89, b'Received packet \'\xe2\xed"\xe1\xe4\x032\xb4:\xca\x18W\xe5:\xddh\x07%\x0f\xa5I\xe6\xa5\x95\xd3\x0f W\xd8|wI[\xd5\x05q$2\x8f\x920$\xad\xd7\x00\
+2025-07-09 00:24:57,90, b'\xe86:\x0f\r\
+2025-07-09 00:24:57,91, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.56\r\
+2025-07-09 00:32:27,92, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,29.56\r\
+2025-07-09 00:47:29,93, b"Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,29.56\r\
+2025-07-09 01:02:32,94, b"Received packet 'Sender 2:,0, S2M1: ,57.38,S2M2: ,57.68,S2T1: ,-127.00,S2T2: ,29.56\r\
+2025-07-09 01:17:35,95, b"Received packet '\xdf[p\xf1\t\xc3\xd2\xad\xfb\x08\x8dK\xef1\xfe\xa9\x13\x87{\xc3\x18\xd1\xfc;C\xd6\xc5\xadw\x15\xab\x01<\xfa\x94*+-X\x01>\xe9\xcc\xc7\x9a\x17\xb3\xe4\xf6\x89\xb5\x10\x82gX\xbc\xb6\x82\xb3W\xb9\xa1'@\xc8\x07o\xde\x8a\xbc\xcb.\xffd\xb6\xc3#\xd0\x80\xaf=\x89T\xfd\x04{!\xe1\xe3o\xf2M\x82\r\
+2025-07-09 01:27:46,96, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,57.38,S2T1: ,-127.00,S2T2: ,29.56\r\
+2025-07-09 01:32:37,97, b'Received packet \';\xab5d\x9a\xb6\xef\xff\xe96\t\x08\x91\x14"\xb6\x04\x14\xa9\xedx\x18WK\t\xdc\xaa\xb9\xdb~\x0f\x92dD\xdb@\xa2n\x1b>x\x99\'\xffp\xf6\x835]\x0b\x03\xbe\x1e(\xbdC\
+2025-07-09 02:09:41,98, b'\xfa\x04*\xf1\xaa\xa3(\x1b\\\xea\x88\x9b\xf8\xe9\t\xc1\xff\xb1\x00\x03\x14\xd2N\xb9k\r\x07\xee(5x\x86\\\xaec!q\xfbj\xe7 \x05\x10\xb3Q\xb6e)<\xa5\xfdt\x0f?M\xe4\x94\xf8\x91\xd8\xce\x0f\xdd2\xeaH,QF\x1d\x18\xf0\x1fj\xd1j\xc4*\xd2\xf8b\xac\xf7\xf9\x01\x85lb\r\
+2025-07-09 12:11:21,0, b'LoRa Receiver\r\
+2025-07-09 12:11:22,1, b'LoRa Initializing OK!\r\
+2025-07-09 12:11:22,2, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,55.04,S2T1: ,-127.00,S2T2: ,28.81\r\
+2025-07-09 12:19:25,3, b"Received packet 'Sender 1:, S1M1:51.42, S1M2:56.49, S1T1:29.12, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 12:20:40,4, b"Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,54.75,S2T1: ,-127.00,S2T2: ,28.81\r\
+2025-07-09 12:34:28,5, b"Received packet 'Sender 1:, S1M1:58.89, S1M2:54.75, S1T1:29.12, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 12:35:58,6, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,55.04,S2T1: ,-127.00,S2T2: ,28.81\r\
+2025-07-09 12:49:31,7, b"Received packet 'Sender 1:, S1M1:60.75, S1M2:55.04, S1T1:29.12, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 12:51:15,8, b"Received packet 'Sender 2:,0, S2M1: ,55.33,S2M2: ,55.62,S2T1: ,-127.00,S2T2: ,28.81\r\
+2025-07-09 13:04:33,9, b"Received packet 'Sender 1:, S1M1:62.02, S1M2:54.75, S1T1:29.12, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 13:06:32,10, b"Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,55.04,S2T1: ,-127.00,S2T2: ,28.87\r\
+2025-07-09 13:19:36,11, b"Received packet 'Sender 1:, S1M1:60.44, S1M2:55.33, S1T1:29.12, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 13:21:49,12, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,55.91,S2T1: ,-127.00,S2T2: ,28.94\r\
+2025-07-09 13:34:38,13, b"Received packet 'Sender 1:, S1M1:59.82, S1M2:54.75, S1T1:29.12, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 13:37:06,14, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,55.62,S2T1: ,-127.00,S2T2: ,28.87\r\
+2025-07-09 13:49:41,15, b"Received packet 'Sender 1:, S1M1:60.13, S1M2:54.75, S1T1:29.12, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 13:52:22,16, b"Received packet '\x956\x9c\xa0\xd3q\x12,\x10\xd8\xa8\x9e \x9e\xeac\x18\tj\x0c,Z\x99J\x8b\xabj&\xc2;\x8dm\x17Nr\xe65\x88\x8c\xd1\r\
+2025-07-09 13:57:23,17, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,28.94\r\
+2025-07-09 14:04:43,18, b"Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,55.91,S2T1: ,-127.00,S2T2: ,28.87\r\
+2025-07-09 14:19:46,19, b"Received packet 'Sender 1:, S1M1:61.70, S1M2:55.04, S1T1:29.06, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 14:22:51,20, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,55.62,S2T1: ,-127.00,S2T2: ,28.94\r\
+2025-07-09 14:34:48,21, b"Received packet 'Sender 1:, S1M1:59.51, S1M2:55.62, S1T1:29.06, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 14:37:59,22, b"Received packet '\xa9\xb2\x97W\xebF+\x13\x0b\x16\xb7\x90\xf5\xc9\x96\xe6\xd0\xa4g\xd5!\xa4\
+2025-07-09 14:47:50,23, b'\xd3O_\x10t\xb7C+Uq\xde\xbd\xddo\xce\xeaO=\x8em\x9e\xc8\x13A\xe9"\x88\x06\
+2025-07-09 14:47:50,24, b'\xf9\xf1\xeab\x89q\xff\x99\xb6:F\xdd\x8f\xd1\\\xfa\xe1\xb3-L\xc7\xc1\x06\x17iI4\x84>,\xb8\xe8\x96^k#\xefX\xdc%M\x86\x9an\xedN\xfcWOV_\x1f~r%8<4\x0e\xda5\t"E\xda9\\,*\xb7\x8c\xec\xf1\x19\x1b~\x1a[E\xe8d\xaa\xd5#\xf3~&\xf4\xddt\xfe\xbdd*\xc5\x0fE\xfep`%\
+2025-07-09 14:47:50,25, b'ipZF=\x8f\xfe+\xf9\xc0\x0c\x92\xaa\xa3\xeaK\xde->/^\x85(}\x87\xdd0\r\
+2025-07-09 14:47:50,26, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,55.33,S2T1: ,-127.00,S2T2: ,28.94\r\
+2025-07-09 14:49:51,27, b"Received packet 'Sender 1:, S1M1:62.02, S1M2:55.33, S1T1:29.06, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 14:53:13,28, b"Received packet 'Sender 2:,0, S2M1: ,57.38,S2M2: ,56.20,S2T1: ,-127.00,S2T2: ,28.94\r\
+2025-07-09 15:04:53,29, b"Received packet 'Sender 1:, S1M1:61.38, S1M2:55.91, S1T1:29.06, S1T2:-127.00,\x02DepthLfRain 0.00\r\
+2025-07-09 15:08:30,30, b"Received packet 'Sender 2:,0, S2M1: ,55.62,S2M2: ,55.91,S2T1: ,-127.00,S2T2: ,28.94\r\
+2025-07-09 15:19:56,31, b"Received packet 'Sender 1:, S1M1:61.38, S1M2:54.75, S1T1:29.06, S1T2:-127.00, DepthOfRain 0.00\r\
+2025-07-09 15:23:46,32, b"Received packet 'Sender 2:,0, S2M1: ,56.49,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,28.94\r\
+2025-07-09 15:34:58,33, b"Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,42.57,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 15:38:34,34, b"Received packet 'Sender 2:,0, S2M1: ,61.38,S2M2: ,50.62,S2T1: ,-127.00,S2T2: ,28.94,DepthOfRain: ,0.00\r\
+2025-07-09 15:51:18,35, b"Received packet 'Sender 1:,0, S1M1: ,29.48,S1M2: ,48.54,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 15:53:51,36, b"Received packet 'Sender 2:,0, S2M1: ,71.22,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,28.94,DepthOfRain: ,0.00\r\
+2025-07-09 16:06:08,37, b"Received packet 'Send%2d1:,0, S1M1: ,39.55,B0M2: ,48.29,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 16:09:08,38, b"Received packet 'Sender 2:,0, S2M1: ,70.50,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,28.94,DepthOfRain: ,0.00\r\
+2025-07-09 16:20:59,39, b"Received packet 'Sender 1:,0, S1M1: ,41.46,S1M2: ,48.54,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 16:24:26,40, b"Received packet 'Sender 2:,0, S2M1: ,71.94,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,28.94,DepthOfRain: ,0.00\r\
+2025-07-09 16:35:49,41, b"Received packet 'Sender 1:,0, S1M1: ,41.46,S1M2: ,49.31,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 16:39:43,42, b"Received packet 'Sender 2:,0, S2M1: ,72.68,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 16:50:39,43, b'Received packet \'VZYy\xad\xd2\xe11\xebII\x8c\x80\x02\xf5\xeeB\x93\xb1\x83\xcb\x8c\xf1b|\xea\xc4\xf7G\xe7\xe5Z\xc5\x1b\xce\xd1\xb4\xf6K!I|(\x89\x1aF\x10\xea\x8fBBt\x1f]\xc1\xa4\x93\xc6\xcd\x98\xd3\x150\xae\x95\xce,\xb5\x91\xf2\x9f\xbanv\x16\x8e\x8au\x98\xfem!\xe8\xae\x0b\xb5dc9\xc94A\x01\x0c\xe2\x8c7d\x82%\xe0\x1f\xbf\x7fwP*T\xd0\xffN\xea_e\x8eF\x8d"\xbc5\xd1\x88\xc4e[\x06np\xf2\xaau\x9ep\x1e\x03j\x1b\x98r\xa8\xddB\xfb\xe4\xd8\xd9\xd2f\xe2\xbb8\xcdu\xa8\xac\xe58\xd1\x1e\xc5\x9e[\xceB\xa41\x14\x11\xdf\x18\xf9\x01\x89\x80\xf4\xd1;d\x044\xacH\x8d2\x1f\xb2\x8e\xe6(\xc4sL+\xaff\x9eM.\xbf\xe1\x95!\x8e\x03\x95\xe9z\xab\x01\xc1\x11}\xe4\xf0\xd1\xd0\xc9\
+2025-07-09 16:51:46,44, b'ws\r\
+2025-07-09 16:51:46,45, b"Received packet 'Sender 1:,0, S1M1: ,38.73,S1M2: ,48.29,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 16:55:00,46, b"Received packet 'Sender 2:,0, S2M1: ,74.54,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,28.94,DepthOfRain: ,0.00\r\
+2025-07-09 17:05:29,47, b"Received packet 'Sender 1:,0, S1M1: ,40.60,S1M2: ,48.54,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:10:17,48, b"Received packet 'Sender 2:,0, S2M1: ,73.05,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:20:19,49, b"Received packet 'Sender 1:,0, S1M1: ,42.34,S1M2: ,49.05,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:25:34,50, b"Received packet 'Sender 2:,0, S2M1: ,70.50,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:35:09,51, b"Received packet 'Sender 1:,0, S1M1: ,41.25,S1M2: ,47.53,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.51\r\
+2025-07-09 17:40:43,52, b"Received packet 'Sender 2:,0, S2M1: ,71.94,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:51:50,53, b"Received packet 'Sender 1:,0, S1M1: ,53.90,S1M2: ,48.03,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:51:50,54, b"Received packet 'Sender 2:,0, S2M1: ,72.31,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:02,55, b"Received packet 'Sender 1:,0, S1M1: ,54.47,S1M2: ,47.53,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:03,56, b"Received packet 'Sender 2:,0, S2M1: ,74.16,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:15,57, b"Received packet 'Sender 1:,0, S1M1: ,55.62,S1M2: ,49.31,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:15,58, b"Received packet 'Sender 2:,0, S2M1: ,72.68,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:27,59, b"Received packet 'Sender 1:,0, S1M1: ,55.04,S1M2: ,48.54,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:28,60, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,50.62,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:40,61, b"Received packet 'Sender 1:,0, S1M1: ,55.33,S1M2: ,48.80,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:40,62, b"Received packet 'Sender 2:,0, S2M1: ,71.94,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:52:55,63, b"Received packet 'Sender 1:,0, S1M1: ,56.20,S1M2: ,49.57,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:53:07,64, b"Received packet 'Sender 2:,0, S2M1: ,72.31,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,28.94,DepthOfRain: ,0.00\r\
+2025-07-09 17:53:19,65, b"Received packet 'Sender 2:,0, S2M1: ,72.31,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,28.94,DepthOfRain: ,0.00\r\
+2025-07-09 17:53:31,66, b"Received packet 'Sender 2:,0, S2M1: ,70.50,S2M2: ,51.16,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:53:43,67, b"Received packet 'Sender 2:,0, S2M1: ,69.78,S2M2: ,50.62,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:53:55,68, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,50.62,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:54:07,69, b"Received packet 'Sender 2:,0, S2M1: ,73.05,S2M2: ,51.16,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:54:19,70, b"Received packet 'Sender 1:,0, S1M1: ,56.79,S1M2: ,48.54,S1T1: ,29.00,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 17:54:19,71, b'Received packet \'\xaf/\x7f\x81b,\xce\x8c\x8e\x06U\xcci\xa8\xb8?\xf5\x12?Z\xfc}9\xbf"p\xb0G\xdd|\x9d\xfb\xba\x0cf\xab@T\x92\x9b\xee?\x1a\x01\x9dj\xe7}\xec\xe3\xa42^@\x170\x9c\x86!24\x8f\x88\x10? <\xe59\x90j~\x0e)Yx\x7f\x02\x85\xcb33"\xcf\xd3\xeee\xe4y\xcc\x94\x9d\xb6e\xfe\x89a\xb0\xfb\x07\xef#\xb1\x9b\xbc6\xfa\xae\x01\xb4_\xbf\x96dY\xdd\xed\x84\xef\xfa:\x8a\x8c*H\x10)\xb6(\xee\x13\xcdeC\x83qw\xa4\x94\x85\xa5v\x89F\x9d\x9d\x8a\x97\\\xb9!Fm!*\xfcPM\xab\\3 C&\xcc\xb7\xbdt\xec+\x17\xc9\x86\x11\xa15i$\xb0M\xecv\xb8\x16V \xa1\xf0\xad\x8e\x00\xce\\c\x1a\xab\xbd\xf0\x9a\xe8\xa1\x89\xd0\xe3\x0f\x9e\x18!\x96\x16\xa4\x16<\xc4\x84\x06\xba\xb6\xd8;\xd1sZj\xc4G8\x16xO\xa6v\xdaPC]t\x930:\xa4\x94&\xd3\xba\xe0\xafz\xf1_\x89\x04\x96O\r\
+2025-07-09 17:59:41,72, b"Received packet 'Sender 2:,0, S2M1: ,68.73,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 18:09:08,73, b"Received packet 'Sender 1:,0, S1M1: ,42.12,S1M2: ,48.54,S1T1: ,29.00,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 18:09:36,74, b"Received packet 'Sender 2:,0, S2M1: ,69.78,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 18:23:58,75, b"Received packet 'Sender 1:,0, S1M1: ,40.60,S1M2: ,47.53,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 18:24:52,76, b"Received packet 'Sender 2:,0, S2M1: ,69.78,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 18:38:47,77, b"Received packet 'Sender 1:,0, S1M1: ,38.73,S1M2: ,49.31,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 18:40:09,78, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 18:53:35,79, b"Received packet 'Sender 1:,0, S1M1: ,34.90,S1M2: ,48.03,S1T1: ,29.00,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 18:55:25,80, b"Received packet 'Sender 2:,0, S2M1: ,70.50,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 19:08:24,81, b"Received packet 'Sender 1:,0, S1M1: ,36.19,S1M2: ,48.54,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 19:10:41,82, b"Received packet 'Sender 2:,0, S2M1: ,69.08,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 19:23:13,83, b"Received packet 'Sender 1:,0, S1M1: ,36.76,S1M2: ,48.29,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 19:25:58,84, b"Received packet 'Sender 2:,0, S2M1: ,71.58,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 19:38:02,85, b"Received packet 'Sender 1:,0, S1M1: ,38.33,S1M2: ,49.83,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 19:41:14,86, b'Received packet \'\x90"\x95\xc1yB+6\xec\x15j\xe8\x85\x1fgg\xab\x91q\xec\xa5\xf0\xc1\x82\xde\xcbQ\x0b\x07\xd8\xce\xa0D2\xb9-e\xad\x1cWD\x1aM\x0e\xcc\x868A\x81\xfd\x0f\xfa+)\x15]\x95\x18\x08,Gs\x17\xb3\xd6T\x98P\xc6\xd9\xd1tG\xc4\xbbrl\x19K\xa5\x8aD2\x0f\xc0\xa1\xa7\x9a\']\xc8uv\xcf+.b\r\
+2025-07-09 19:52:29,87, b"Received packet 'Sender 1:,0, S1M1: ,37.54,S1M2: ,49.83,S1T1: ,R9.00,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 19:56:30,88, b"Received packet '\xfb\xf0(r\xe29\xa7\xb1\x8dfi\xd6r\xfc\xa8\xb7\xeb\xf9\x97\xf1*\x93\xa7\x9bpB\x02\x87\xdb\x10\xde\x80\xfb\xd6\x84b\xa0AJ\x8dm^\xc4\xfaJ\xf1\xe8{\xf9\x12\x03\xe5{\xef\xfa\xea\xcc\x1b\xb1k\xbc \\\x03\xa2\xf2\xc8\xf8O\x1d\xc9M\xf9\x83\xa8da\xc5t$\xafE\xdcW\x83\x82\
+2025-07-09 20:03:11,89, b'\x9531\xce<\xb9\xfd<a\xb9\xb9\xc2\xb0NW\xb3\xb5\xfc\x8aTQ\xba\x9cLl6\x9b\xeaq/Y/4a\xabl\\\xcd\xaer\xb8\x8aF\x1bEf\xc6\xd8UR\xcd\xf6\xab<\x17!\xcf\xb7\xac\xcf97\x84\x98+e\xae\x9f}\xe1\x1f\x14\x98\x99\xf0at\xc2\x1f\xd0\x83Du\xf7u\x86 \r\
+2025-07-09 20:03:11,90, b"Received packet 'Sender 2:,0, S2M1: ,70.50,S2M2: ,50.36,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 20:07:39,91, b"Received packet 'Sender 1:,0, S1M1: ,39.34,S1M2;!,49.31,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,P.00\r\
+2025-07-09 20:11:46,92, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,50.62,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 20:22:27,93, b"Received packet 'Sender 1:,0, S1M1: ,36.57,S1M2: ,48.80,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 20:27:02,94, b"Received packet 'Sender 2:,0, S2M1: ,69.78,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 20:37:16,95, b"Received packet 'Sender 1:,0, S1M1: ,37.93,S1M2: ,48.80,S1T1: ,29.00,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 20:42:18,96, b"Received packet 'Sender 2:,0, S2M1: ,70.50,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 20:52:04,97, b"Received packet 'Sender 1:,0, S1M1: ,36.95,S1M2: ,49.57,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 20:57:34,98, b"Received packet 'Sender 2:,0, S2M1: ,69.43,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 21:06:53,99, b"Received packet 'BI\x84:YO&\x04Y{\xc1\x17\xec8:n\xff+\x12~e@\x8aF\xc2#\xc1\x03\x08`F\xf1\x17\xac\x99!x\xe4\x03\x98\xbfU\xbc}7\x1eQz\x0b\xc4B@\x99(/\x83 \xab\xe9L\xc1\x95H\xf3+=\x0b\x8fu\xb6\x14h\xb9\r\
+2025-07-09 21:09:56,100, b"Received packet 'Sender 1:,0, S1M1: ,37.15,S1M2: ,49.57,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 21:12:51,101, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 21:21:41,102, b"Received packet '\xd7\xb6\x11\xf6\xb1\xf6\x9adJ\x16\x9fS\x1f\x84\xd5bT\xf8PZ*\xff}@\x10\xfa\xd4\x9f'&`\xbbU\xf4\x86L\xad\rv:\xc3(6XKd\xaa\xf4yy&\xe8B\xcc\xc2\xee\xb2x\x80~\xc8\x93:\xe2\xd5CVB\r\xe8b\x89rc\xcfR7\xf5^Hd\x17\xe2\xaf^\x0c\xbbl\xbf\xb0$\xb1+,!\xd3\xa5@\x10g\xff\x16\x1f\xf1\x19\xf1\x11\xe8\xde3\xc67\xc5\xeb\xb1\xd8\xf7Mm\xc0\xc0\x13\xab\x01\x1a\xb4\x1eB\xe1\x8d\x9a\x95K\xa5\xc5\xa7$\xb3\xc7(H\xaf&d\xfb\xab\xcf7\xed\x8f\xfc\xf1\xc9-\x82\x1948x\r\
+2025-07-09 21:24:37,103, b"Received packet '\xff\x03bher 3:\x0c\xb0\xac [1\x881? ,37.34J31\r\x16Z\xe0,<1.57,S1T\xf9~\xac 29.00,S1T2\xfa\xf0\xe0!127.00,DepthOfRain: ,0-0\xa3\r\
+2025-07-09 21:28:07,104, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,50.62,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 21:36:30,105, b"Received packet 'Sender 1:,0, S1M1: ,31.98,S1M2: ,50.09,S1T1: ,29.00,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 21:43:22,106, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 21:51:18,107, b"Received packet 'Sender 1:,0, S1M1: ,36.00,S1M2: ,48.80,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 21:58:38,108, b"Received packet 'Sender 2:,0, S2M1: ,70.86,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,29.00,DepthOfRain: ,0.00\r\
+2025-07-09 22:06:06,109, b"Received packet 'Sender 1:,0, S1M1: ,36.76,S1M2: ,49.05,S1T1: ,29.00,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-09 22:13:54,110, b"Received packet 'Sender 2:,0, S2M1: ,71.22,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,29.06,DepthOfRain: ,0.00\r\
+2025-07-09 22:20:55,111, b'Received packet \'\xc7\x9c\x1d\xfa\x02\'\x99\xd3\x01Z\xbe\xb4\xfe@\x95\xca\xdf3\xd0\xaf\xfb\xfb\xd9\x81(\xcb\xc0M\xe0\x92\x89p\xc7\x19\xfc\xf4\xb8`\xaa\xaf_\xdc\xfd\xd7k\xfa\x04\x90@\xa2\xe8\xcb\xe7\x01\\\x84\xb1\xa5\x14\x88"`i\xaa\x91+\xe9\x98\x91\xa54K\xba\x16\xa5\xa6\x984\xfa\xd0\x07kZ\xd5\xcd\xb4\xcac\xb6?=O\xcdW\xc3\xb6\t\xc3\x1bx6\xbeI%1?W\x10\xc3S\x93:\x91=.\xeb\x92\xdcX\xdcG\xb0W_m]%&\xfe\xec:{\x84(&\xc0Y\'1\x9e\xbeHiq(\xb1\xd2\xc6(#\xfd\xca\x16N\xac\xb8E\x14\xe2\xad,\xd1\xad\x04\xf8>\x97\xc1\xec\xab\x04\x80rQ\xac\xb0"l\x9c\t\x8dU\xd5\x80\x1e\x02\xa6sBH\x8f\xff\xa5\x9d\xb2\xa0\xd7\x82B-\xf7\xbf\xc5G\x00\xf1\xa4\xbb\xf9\xba\xd6\x04\x8c\xb5\xa2\xa7\xba\xa0\x83\xe6G\xc0\xefQ\xd6l\x90\xb0D\xdc\xb6\xe1\xcbA\x8f\xcf\r\
+2025-07-10 01:06:42,112, b"Received packet 'G^\xa0\xe7\xfeO\x1aF\x18\xf0\xdf\xdf\xb1\xc0e\xaa\xaf\x95\x80\x1f\x89P\x8dw\x9a5\xa8-\xf0C\x85S\xff\xfc!\xd7\x1b(|\x1cJ\x0e#4s\xa2\xf7>r\x0b\xf6\x16\x07W:\x82\x99\x8cO\xe9\xfd?;\xaa\x1d\xad\x1c\x81\xd2\x0f\x04\xd1\xdf\xae9\
+2025-07-10 04:08:13,113, b'\xcd0*\xe3/\xa1\xbf\xb8\xe6\x82\x00\xd13q\x93\xe2\xa8\xfcn\xb0}\xe2j9\x86\xd2\x83\x16\xdb\xd3\xa0\xf18\xbd\x82\xe7^\x99\x8aY\xa9\x9a\x0bM\xb9\xaf\x8f\xab\xa3\x7f\xba\xa0\xa5\x0bt<\xde\xd2}\x94\xe7\x19\xfd\xb8\x000\xca\xf0\x93\xa1\xd9\xd7:\xf9\xa9q\x89\x8d\x80Bf(\xf6\xe1\xef\x900%\xdfJT,\x1an`\x16\xd8>tp\x9a\xd48l\x85X]\x82\xaco\xd0\r\
+2025-07-10 17:24:26,0, b'LoRa Receiver\r\
+2025-07-10 17:24:28,1, b'LoRa Initializing OK!\r\
+2025-07-10 17:24:28,2, b"Received packet 'Sender 1:,0, S1M1: ,49.31,S1M2: ,49.05,S1T1: ,29.06,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 17:27:01,3, b"Received packet 'Sender 2:,0, S2M1: ,56.79,S2M2: ,47.78,S2T1: ,-127.00,S2T2: ,30.44,DepthOfRain: ,0.00\r\
+2025-07-10 17:30:08,4, b"Received packet '\xd9\x90\xfc\x94\xc1\x9e*\xdbE}\xc77A\x84\xf4&]\xc3\xdfp:+\xe7o\xf9\x06o@QE#\xa9l\r\x91B\xe0\x85\xd0\xbc@\x97l\xcf\x0c\x04\x17\xfc7\x1af\xe7\xf5\xfe\xd0CmI\xc2>Ft\xda\xb0d\x0b\xce]~B\xf4d\xa7>\xdc~bs\xf4\x1c\x15\xe8\xc1O\xdb)\x86\xd8X\x90~Z\x12E\x9f# }H\xe6\t\xd5\xc4\x85\x1a\xdf\xc8@V\x89]\xb8\x85\xd4\xee\xa8r\xe0|![~\xdbc\x8c\xf6\xae5\x17\x0b5\x18L\xb0:\xb0\x12\xa4\x98\xf8)\xc1<\xf38N\xf1\xe4\xfc\x98\xa1B6\x087\x93\x011\xe8t|\xaa\r\
+2025-07-10 17:40:55,5, b"Received packet 'Sender 2:,0, S2M1: ,55.33,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,30.44,DepthOfRain: ,0.00\r\
+2025-07-10 17:45:00,6, b"Received packet 'Sender 1:,0, S1M1: ,47.78,S1M2: ,49.83,S1T1: ,29.12,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 17:57:36,7, b"Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,48.03,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 18:10:12,0, b'LoRa Receiver\r\
+2025-07-10 18:10:13,1, b'LoRa Initializing OK!\r\
+2025-07-10 18:10:14,2, b"Received packet 'Sender 1:,0, S1M1: ,48.29,S1M2: ,48.29,S1T1: ,29.19,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 18:12:54,3, b"Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 18:14:42,4, b"Received packet 'Sender 1:,0, S1M1: ,47.04,S1M2: ,48.54,S1T1: ,29.19,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 18:28:11,5, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 18:29:32,6, b'Received packet \'few4or\xa8\r:\xac0O\x0cSTM9:#\xacd8(86\'S1t\xa7:\x11L\x94;>\x18\xbf,\x03\x11\xf4\x916\xe0t4u.1?\xbcWx^2?\xa3,-\xfb26\x1ep\xb0,\x87exDmGfR}i~\xbc ,\x00"pP\r\
+2025-07-10 18:43:27,7, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 18:44:23,8, b"Received packet 'Sender 1:,0, S1M1: ,47.78,S1M2: ,49.05,S1T1: ,29.25,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 18:58:44,9, b"Received packet 'Vegder 2:,0/ S2M1: \xac54\xee42$S2-2: ,47+57,S2T1: ,-127\xee00,S2T2: |30.5\xf0,DepthCfRqin: ,0.00\r\
+2025-07-10 18:59:13,10, b"Received packet 'Sender 1:,0, S1M1: ,47.53,S1M2: ,49.05,S1T1: ,29.25,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 19:14:01,11, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.56,DepthOfRain: ,0.00\r\
+2025-07-10 19:14:02,12, b"Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 19:28:52,13, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,49.83,S1T1: ,29.31,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 19:29:17,14, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 19:43:42,15, b"Received packet 'Sender 1:,0, S1M1: ,49.57,S1M2: ,50.62,S1T1: ,29.31,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 19:44:34,16, b"Received packet 'Sender 2:,0, S2M1: ,55.33,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 19:58:32,17, b"Received packet 'Sender 1:,0, S1M1: ,49.57,S1M2: ,50.89,S1T1: ,29.31,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 19:59:50,18, b"Received packet ':\x04\x1a\x93I\x82\xd2\x0bx\x93l\x80@\xa4\x00\x91\x13\x15 e\x17\xf4\x8c\xd3\x1cSC\xaa\x1f\xac\xc07\xc4\x1a\xdeA\xf4h1\x87r\xd0\xceN2\x19\x95\xf1{\xea\xdb\x93\xd6\xa5\x06\xda\xa30\x13\xb9q\x82#\x05Z\xae\xfa_\x0c\xd1B\xa3\x9b\x9b\x8191\xc3\xc7F\xfb\xc3\xd9\xfd\xee\xbe\x84\x8c\x83\xb7\xfds\xd8\xda\xe5.\xb0\xa9\xe0\xea\xf0|\xb3l$\xa1C\x8c\x1f\x19bY?\x86\
+2025-07-10 20:07:14,19, b'7\x98\x9a\xe9\x7f\xa9\xd2\xc0\x15n\xa0\xba\x14\xcf\x83Ka\xcb\xb9\xb0\xe7\x10\xdd\xe6\xd4<\x0c\xd0\xbc\x16\xe5\xba\xeb\xf43\x8c<f\xd7\xe1\x08-\x86\xc2/\xa7\xceq}\xfb\xddD\xd5\x908\xf3bG\xbf\xc8\x93\x7fr\x9cULU\xd5\x16p\xb1G\xabO$[\xd2$f\x02\x0b\xd6D\x87\xbbb\xb4B\xa5\xfcs+\xba\xfb\r\
+2025-07-10 20:07:14,20, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 20:13:21,21, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.09,S1T1: ,29.37,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 20:15:07,22, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,30.44,DepthOfRain: ,0.00\r\
+2025-07-10 20:28:11,23, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.09,S1T1: ,29.37,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 20:30:23,24, b"Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 20:43:01,25, b"Received packet 'Sender 1:,0, S1M1: ,49.05,S1M2: ,50.36,S1T1: ,29.37,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 20:45:39,26, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 20:57:50,27, b"Received packet 'Sender 1:,0, S1M1: ,48.29,S1M2: ,49.83,S1T1: ,29.44,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 21:00:56,28, b"Received packet 'Sender 2:,0, S2M1: ,53.90,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,30.44,DepthOfRain: ,0.00\r\
+2025-07-10 21:12:40,29, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.62,S1T1: ,29.44,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 21:16:12,30, b"Received packet 'Sender 2:,0, S2M1: ,53.62,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.50,DepthOfRain: ,0.00\r\
+2025-07-10 21:27:29,31, b"Received packet 'Sender 1:,0, S1M1: ,49.05,S1M2: ,51.16,S1T1: ,29.44,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 21:31:28,32, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,30.44,DepthOfRain: ,0.00\r\
+2025-07-10 21:42:19,33, b"Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,50.36,S1T1: ,29.44,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 21:46:45,34, b"Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,30.37,DepthOfRain: ,0.00\r\
+2025-07-10 21:57:08,35, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.89,S1T1: ,29.50,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 22:02:01,36, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.44,DepthOfRain: ,0.00\r\
+2025-07-10 22:11:57,37, b"Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,50.89,S1T1: ,29.50,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 22:17:17,38, b"Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,30.37,DepthOfRain: ,0.00\r\
+2025-07-10 22:26:47,39, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,49.83,S1T1: ,29.50,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 22:32:33,40, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,30.31,DepthOfRain: ,0.00\r\
+2025-07-10 22:41:36,41, b"Received packet 'Sender 1:,0, S1M1: ,49.31,S1M2: ,51.42,S1T1: ,29.50,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 22:47:50,42, b"Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.37,DepthOfRain: ,0.00\r\
+2025-07-10 22:56:26,43, b"Received packet 'Sender 1:,0, S1M1: ,49.31,S1M2: ,51.16,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 23:03:06,44, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.31,DepthOfRain: ,0.00\r\
+2025-07-10 23:11:15,45, b"Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,50.36,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 23:18:22,46, b"Received packet 'Sender 2:,0, S2M1: ,53.62,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.25,DepthOfRain: ,0.00\r\
+2025-07-10 23:26:05,47, b"Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,51.16,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 23:33:38,48, b"Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,30.25,DepthOfRain: ,0.00\r\
+2025-07-10 23:40:54,49, b"Received packet 'Sender 1:,0, S1M1: ,49.31,S1M2: ,50.89,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-10 23:48:54,50, b"Received packet 'Sender 2:,0, S2M1: ,53.90,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,30.25,DepthOfRain: ,0.00\r\
+2025-07-10 23:55:43,51, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 00:04:10,52, b"Received packet 'Sender 2:,0, S2M1: ,53.34,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,30.25,DepthOfRain: ,0.00\r\
+2025-07-11 00:10:32,53, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 00:19:27,54, b"Received packet 'Sender 2:,0, S2M1: ,53.62,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,30.25,DepthOfRain: ,0.00\r\
+2025-07-11 00:25:22,55, b"Received packet 'Sender 1:,0, S1M1: ,47.78,S1M2: ,50.36,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 00:34:43,56, b"Received packet 'Sender 2:,0, S2M1: ,53.06,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,30.19,DepthOfRain: ,0.00\r\
+2025-07-11 00:40:11,57, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 00:49:59,58, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,30.19,DepthOfRain: ,0.00\r\
+2025-07-11 00:55:00,59, b"Received packet 'Sender 1:,0, S1M1: ,47.78,S1M2: ,49.83,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 01:05:15,60, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,30.12,DepthOfRain: ,0.00\r\
+2025-07-11 01:09:50,61, b"Received packet 'Sender 1:,0, S1M1: ,48.29,S1M2: ,50.36,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 01:20:31,62, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.12,DepthOfRain: ,0.00\r\
+2025-07-11 01:24:39,63, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 01:35:47,64, b"Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,30.12,DepthOfRain: ,0.00\r\
+2025-07-11 01:39:28,65, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 01:51:03,66, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,30.12,DepthOfRain: ,0.00\r\
+2025-07-11 01:54:18,67, b"Received packet 'Sender 1:,0, S1M1: ,48.29,S1M2: ,50.62,S1T1: ,29.62,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 02:06:19,68, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.06,DepthOfRain: ,0.00\r\
+2025-07-11 02:09:07,69, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.36,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 02:21:36,70, b"Received packet 'Sender 2:,0, S2M1: ,53.06,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,30.06,DepthOfRain: ,0.00\r\
+2025-07-11 02:23:56,71, b"Received packet 'Sender 1:,0, S1M1: ,48.29,S1M2: ,50.89,S1T1: ,29.62,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 02:36:52,72, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,30.00,DepthOfRain: ,0.00\r\
+2025-07-11 02:38:45,73, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 02:52:08,74, b"Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,30.00,DepthOfRain: ,0.00\r\
+2025-07-11 02:53:35,75, b"Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,50.89,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 03:07:24,76, b"Received packet 'Jw\x92\xdf\x01\xc7\xd4\x1fF\x96f\xb0Hz\x8e\xbf\xf3\x1b\xe8\x08}\xd9\xbe\xe4\x7fn8~'\xbe\x07~\xa2\x18\xac\xf4I\x98>p@\x92\xcc=>\xa8\x0b`\xa2\xf1\x91\x17\xa6H\x8ab\xd3\x8aahX\x9d\xe9\x83T\x85V\xdc\x93d\r\x04|\xa4!Zu\xde\xbaBf\xc5,\xe62\xadv!\x10u\x92M=\xb84\x08\xc8\xa1\xd6{\xdc\xaa|t_\x05\xa8D\xafZ\x14\xbd\xbc\x82\xad}\r\xa7\x92;D\x04\xb8\x82\xf6u\x85)\xeai\x8a1|aA\xa3\xc7\x8a\r\
+2025-07-11 03:08:06,77, b"Received packet 'Sender 2:,0, S2M1: ,53.90,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,30.06,DepthOfRain: ,0.00\r\
+2025-07-11 03:08:24,78, b"Received packet 'C\xd62\xde\xb0$R\xf1&A\x12B\xdd\xf4\xb8\x1b\xec)\xf8\xd3r\x05=\x8c\x12%\xd2\xba\x1c)\xda\x9f\xdcz!9/\xca\xce\xe7o\xfb\x7fMR\xcc\x13&t\x8f\x96bm>\xd7L\x90\x99z\xde4\xc1Pg\xa0\xda\xe4\x9aGf\x1c,o\x99\x96\x11c\xb9-\x1e\x01\x99\
+2025-07-11 03:19:36,79, b'\x90TZU\x93\xfc):T{\x94>Z\x11^\xf1E\xe2\xe8\xef\x10c\x1c\x83w7\xad\xdbd\x8d\rV\xc4\xda\x16\xdb\xbd\xdd;Q\xcaj\x14K\x1b\xd2\xf2y\xa7n\x90\xc6\x0fX\xdc\xd9Do\xbe\x05a)\xf3D,\xb3\xf5Q.t\x1d\xa5?\xf4\x11;i\\\x01US1`\xc39\xe2\xda\xea\x0e\x83\x9a\xae\xfb)Ft\rU\xce\xcc\xb7d>O\xcc\xc9G\x89\xdc\xed\xf7\xcf\x9f\xab\x00\x11\xd3\x96I\xfb\x04:u\x97\xab\x1c\xd7L\xecy\x10a\xa7\x05s\xadv\xc6\xa6\x18\
+2025-07-11 03:19:36,80, b'\x1b;}\x00\x81i\xf5\rv\x03\xbd\xd8\x8c\xb1\xd9\xec.5\x10(t\xad\xc4G7\x02\x9d~?\xa5\r\
+2025-07-11 03:19:36,81, b"Received packet 'Sender 2:,0, S2M1: ,53.34,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,30.00,DepthOfRain: ,0.00\r\
+2025-07-11 03:23:13,82, b'Received packet \'\xc7nM$:i\x00\x07M\xd3\x1b\'m\\\xae$\x8e5k\x11\xfex\x95\x8c\x98\xd9\x88h"j\x06\xde\x948n\x86<MH\xaa\x86\xfa\xb4\xad\xdc{\xd2\x0f\x1e+\xcb\xe6\xbf\xb7\x92\x9c\xabL\xa2zg\xb0f\xc6\xe7\x8cAfUF\xb0\xfcf\x12\x1b\x9f\xc2\x89\xbd0Z\x1d\xe6%\xef\xf9UgM\x18\x81o\xb9E\r\
+2025-07-11 03:27:15,83, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 03:37:56,84, b"Received packet 'Sender 2:,0, S2M1: ,53.\xfc6,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,30.00,DepthOfRain: ,0.0<\r\
+2025-07-11 03:38:02,85, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,29.94,DepthOfRain: ,0.00\r\
+2025-07-11 03:52:51,86, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,50.09,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 03:53:12,87, b"Received packet 'Sender 2:,0, S2M1: ,53.06,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,29.94,DepthOfRain: ,0.00\r\
+2025-07-11 04:07:41,88, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 04:08:29,89, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,29.87,DepthOfRain: ,0.00\r\
+2025-07-11 04:22:30,90, b"Received packet 'Sender 1:,0, S1M1: ,48.29,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 04:23:45,91, b"Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,29.94,DepthOfRain: ,0.00\r\
+2025-07-11 04:37:19,92, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 04:39:01,93, b"Received packet '\xff\xf3\xdb1\x98\xc3vx\x82\xb8=\x15\xf1+\x00\x9c\x9c\x19u\xdcbi\xaab\x98UG4\xfcP\xfbU\xda7!5n\xc2Q\
+2025-07-11 04:45:06,94, b'q\xcdi<\xab\xa7\xfbU\xe6\xf6!@D\x05v1\xe5Q\xdc%\xd4V\xc4\xe5\x97~\x03\xee\xae\xa3\xbf\xfb\xe3\x04\xae\x9dCx+\x81\x83D\xd6\xe8\xe9M\xe8W.\xbb\xa8\x9d}\xadrj\xb0\x9c*-\x7f2\xf9K\xea\x9ev\x11\xf7;\xcb\xd1\x7f\xe8&b~\xa5:\xaeM\xc1\xa9\xf2\xdex\xf4\x087D`\x14\x8e\xef\xd9M\xedo\x02\xa9N\x0e\x94l\xddH)I\xbe\xf8QH\xe1\x9821\xd3H\\\xbd\xed\xd8(\xb6z\x91\xd6\x7f\x1e\xd4\x18e\x0b\xec\xa7\xc0\xef1%\x91KB\xe4\x15`H\xd9\xd7fc\x125\xd3|G\x7f\xb5<\xddT\xf0E5\xec\x11\xd1\'\'f\xb4\xbb\x1a\xdf\xbbY\xab\xd7]\xfc\xbc\xb7\x1a\xce\xa3!y3\xe8\xd4\xf1\xb0Q\x8b"\x9d\x90\xdb\xe7\x08o5\xc3\'\xe9\x14[\xac\xdd\x01\x89\x88\r\
+2025-07-11 04:45:07,95, b"Received packet 'Sender 2:,0, S2M1: ,53.34,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,29.94,DepthOfRain: ,0.00\r\
+2025-07-11 04:52:08,96, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,50.09,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 04:54:17,97, b"Received packet 'Sender 2:,0, S2M1: ,5\xb4.?=,W2M2: ,48.54,S2T1: ,-127.00,S2T2: ,29.87,DepthOf\x12ain: |0~`0\r\
+2025-07-11 05:06:57,98, b"Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,50.89,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 05:09:33,99, b"Received packet 'Sender 2:,0, S2M1: ,53.90,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,29.87,DepthOfRain: ,0.00\r\
+2025-07-11 05:21:46,100, b"Received packet 'Sender 1:,0, S1M1: ,47.78,S1M2: ,50.09,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 05:24:50,101, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,29.87,DepthOfRain: ,0.00\r\
+2025-07-11 05:36:35,102, b"Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,50.62,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 05:40:06,103, b"Received packet 'Sender 2:,0, S2M1: ,53.34,S2M2: ,47.78,S2T1: ,-12=.\x900,S2T2: ,29.81,DepthO\xf6\xc2a`n: ,0.00\r\
+2025-07-11 05:51:24,104, b"Received packet 'Sender 1:,0, S1M1: ,47.28,S1M2: ,49.83,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 05:55:23,105, b"Received packet 'Sender 2:,0, S2M1: ,53.06,S2M2: ,48.03,S2T1: ,-127.00,S2T2: ,29.81,DepthOfRain: ,0.00\r\
+2025-07-11 06:06:14,106, b"Received packet 'Sender 1:,0, S1M1: ,47.78,S1M2: ,50.09,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 06:10:39,107, b"Received packet 'Sender 2:,0, S2M1: ,52.51,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,29&09$DepthOfRain: ,0.00\r\
+2025-07-11 06:21:03,108, b"Received packet 'Sender 1:,0, S1M1: ,48.29,S1M2: ,50.36,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 06:25:56,109, b"Received packet 'Sender 2:,0, S2M1: ,53.06,S2M2: ,48.03,S2T1: ,-127.00,S2T2: ,29.75,DepthOfRain: ,0.00\r\
+2025-07-11 06:35:53,110, b"Received packet 'Sender 1:,0, S1M1: ,48.29,S1M2: ,49.83,S1T1: ,29.56,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 06:41:13,111, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,49.05,S1T1: ,29.50,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 06:56:30,112, b"Received packet 'Sender 2:,0, S2M1: ,53.06,S2M2: ,47.53,S2T1: ,-127.00,S2T2: ,29.75,DepthOfRain: ,0.00\r\
+2025-07-11 07:05:33,113, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,49.57,S1T1: ,29.50,S1T2: ,-127.00,DepthOfRain: ,0.00\r\
+2025-07-11 07:11:47,114, b"Received packet 'Sen\xa4`\xb2,2:,0, S2M1: ,59\x8e9\xb0$S:\x1d2: ,47.7|,S7T1: \xac\x01\xb3\x987.0\xb0\xa4\xd3\xba\x120Z ,29\xbb\xa2<\tDer\xe4\xe0\xcegRain: ,0.0\xb8\r\
+2025-07-11 07:20:24,115, b"Received packet 'Send\xb2r 1:,0, S1M1:\x90,47.04\x96\xa91M2: \x9650.36,S1T\x98: ,29.60,\xa91T2: ,-1\x997.00,\xa2ept\xb4OfRain: \x96\x98.0\x98\xd8\r\
+2025-07-11 07:27:05,116, b"Received packet 'Sender 2:,0, S2M1: ,53.34,S2M2: ,48.03,S2T1: ,-127.00,S2T2: ,29.75,DepthOfRain: ,0.00\r\
+2025-07-11 07:35:14,117, b"Received packet 'Send\xb2r\x901:,0, \xa91M1:\x90,47.78\x96\xa9\x98M2: \x9649.57,S1V1: ,29.60,\xa91\xaa2: ,-127.00,\xa2ept\xb4OfRain: ,\x98.0\x98\xda/\r\
+2025-07-11 07:42:22,118, b"Received packet 'Sender 2:,0, S2M1: ,53.06,S2M2: ,48.03,S2T1: ,-127.00,S2T2: ,29.75,DepthOfRain: ,0.00\r\
+2025-07-11 07:50:05,119, b"Received packet 'Sender 2:,0, S2M1: ,53.34,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,29.69,DepthOfRain: ,0.00\r\
+2025-07-11 08:04:57,120, b"Received packet 'Sender 2:,0, S2M1: ,53.34,S2M2: ,48.03,S2T1: ,-127.00,S2T2: ,29.69,DepthOfRain: ,0.00\r\
+2025-07-11 08:19:49,121, b"Received packet 'Sender 2:,0, S2M1: ,52.51,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,29.69,DepthOfRain: ,0.00\r\
+2025-07-11 08:34:43,122, b"Received packet 'Sender 2:,0, S2M1: ,52.24,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,29.62,DepthOfRain: ,0.00\r\
+2025-07-11 09:04:35,123, b"Received packet '\x84\x9d\x9a\xa5x\xe9\x06X\xec\xf8k\xd2\xac\xf2\xad\xbaF\xe7.\xd3M\xe8d\xdd\xdb\xd7\x80\x0f!f\x8c\x0ey{-\x1b\xa8\x0c\x94B>\x92t\x99\xc9r\xb5)\x15\xee\xa0>\xf0m\xf8$uv3\x92\x93\xe9\x88\xbf\x1fO\x86H.\xa5~\xf5\x8e\xd7\xa0\xdf\x1f\x05\xc9Gja\x97\xe1V-f\x80\xb8\xf4\x11q,\x18lO\r:\x1cI\xc1\x868'\x87\xd39\x04\xf8\x14aj\xa0\xeedy\x12\xcb\xb0\x1dU\xba\x11\xd1\xf6\xfc\xe3?\xfd\xab&\xd2\x08\xcdK\xf1\x94\xe2\x8e\x15\xd0\xe0\x8bE\xa9\xff\xfdS\x84\xb9\x00\xaeS\xa5H\xcaJ=\xefEE\x0cTg\t\xd2=\xba\x96\xbf,?\xe7N\xc4\xd4\xfd\xd5O\t\x17\x8ftb\xf0(\
+2025-07-11 09:18:00,124, b'\xfce4\xc5\xdb\x8f\xa7<-Cr\x07\x1f\r\
+2025-07-11 09:18:00,125, b"Received packet 'Sender 2:,0, S2M1: ,53.90,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,29.69,DepthOfRain: ,0.00\r\
+2025-07-11 09:19:31,126, b"Received packet 'Sender 2:,0, S2M1: ,53.90,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,29.62,DepthOfRain: ,0.00\r\
+2025-07-11 09:34:29,127, b"Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,48.29,S2T1: ,-127.00,S2T2: ,29.69,DepthOfRain: ,0.00\r\
+2025-07-11 09:49:27,128, b'Received packet \'y\xc8\x05\xe3\xa3\xe5\xd8""K\xcf\\\xf2\xa8\xf0\xec#W\x01\xc7~\x8e\x80\x9eI\xd1R&Y\xbbQ\x9a\xb8\x86\x90\xdf\xfaf\xa6HT7\xd7X\xc2\xa9W\xc2\x0c[\x9c\x96\x06\xc9\xcc\x03\xcc3f\xf1\xa1(xsc\x14\x88\xd7\xa0I\xaf#\x16\xdc\xfa\x02\xde\xdc9&a\x00\x0e\xe3\x17\x9b[\x1f\xdfY\xf6\xc3\xe6\r\
+2025-07-11 10:03:22,129, b"Received packet 'E\x9cX\xf6uk\xd0\xd7\xaf\xd9\x8e\t\xe3zz\x81\xd4}\x15TJ3\x9bO\x18\x02\xc5\x97\xe0\x01\x9ff\x10<\xcbYl\x98\x9frd\xda7\xebXpl\x9d\x05\x8f\xef\xdc\x1b\xdf\x1c\x17\x7f\xdb*O\xb2k\xca\x89v7\xcd\x87G\xf6\xb8\xb4A\xf3a\x07 L\x88\xc2\x1aT\xf6aA\x81\x9e{V\xee\x117\x05D\x0b\x0c\xb9\xf9\xb6\x1b\x92\xc3!V\x08V\xc6\xe8/U\x9f^\r\
+2025-07-11 10:14:25,130, b"Received packet 'Sender 2:,0, S2M1: ,53.62,S2M2: ,49.05,S2T1: ,-127.00,S2T2: ,29.69,DepthOfRain: ,0.00\r\
+2025-07-11 10:19:25,131, b"Received packet 'Sender 2:,0, S2M1: ,53.62,S2M2: ,48.03,S2T1: ,-127.00,S2T2: ,29.75,DepthOfRain: ,0.00\r\
+2025-07-11 10:34:25,132, b"Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,47.04,S2T1: ,-127.00,S2T2: ,29.75,DepthOfRain: ,0.00\r\
+2025-07-11 10:49:26,133, b"Received packet '\xca9\x1b\r\
+2025-07-11 10:51:11,134, b"Received packet 'Sender 2:,0, S2M1: ,52.51,S2M2: ,48.80,S2T1: ,-127.00,S2T2: ,29.81,DepthOfRain: ,0.00\r\
+2025-07-11 11:19:22,135, b"Received packet 'Sender 2:,0, S2M1: ,52.79,S2M2: ,48.54,S2T1: ,-127.00,S2T2: ,29.87,DepthOfRain: ,0.00\r\
+2025-07-11 11:34:22,136, b'Received packet \'\xf3\xba\xacPa]\x84M\x83\x8b\x13K\\&\xce\x98\xd43\x92UlP\xa6\xc82\xb3NS\xddw2bLa\x1b7\x97\x02=\x9a\xb8B\x0c\xe8\xf2\x0b\xf2&\xd0\xedOm<\x0f }P\x15\xf7}wK\xef\xc1\xdb\xa9\xea\xa80\x12\xa96"V\xce#\xcd\xbd\x9a\x1d\xfa\xcf\xb1\xf7\x11$\x83k\xe8\xc1\x7f\x19z\xe9*?\xcd\x01\x823%Wg\x10\xcb\xd8\xb6\xe4\xc7\xb8\xce\x7f\xa2o\xec\xbe\x15>\xd8\xf2\xdc\xce\xb7\x12\x8f\xb7o\xcb,\xd3>gW\xb2\xf3\x8d\xf4;\x06=\x9b^\xf7|\x9e\x8d:\xa54y\xa0\xc7\x88\x8e4o~<\x08\x97\x8c3\xa1\x93\xf5\xeeyDA\xfe\x920K\x04\xe1/\x82\xc2\xae\xb5x^`C\r\
+2025-07-11 11:42:33,137, b"Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,47.53,S2T1: ,-127.00,S2T2: ,29.87,DepthOfRain: ,0.00\r\
+2025-07-11 11:49:23,138, b"Received packet 'Sender 3:,0, S3M1: ,9.70,S3M2: ,9.48,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5185\r\
+2025-07-11 12:16:14,139, b"Received packet 'Sender 3:,0, S3M1: ,9.70,S3M2: ,9.48,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5185\r\
+2025-07-11 12:16:18,140, b"Received packet 'S\xf5nder 3:,0, S3M9: ,14\xee27,S3M2: ,a4.70,S3T1\xfa!,-12>/00,S3T2: L-127.00\x8cDepthOfRalj: ,0.08|527\x00\r\
+2025-07-11 12:19:03,0, b'LoRa ACK Receiver\r\
+2025-07-11 12:19:05,1, b'LoRa Initializing OK! Waiting for packets...\r\
+2025-07-11 12:19:05,2, b"Received packet 'Sender 3:,0, S3M1: ,14.27,S3M2: ,14.70,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:19:17,3, b"Received packet 'Sender 3:,0, S3M1: ,14.27,S3M2: ,14.70,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:19:22,4, b"Received packet 'Sender 3:,0, S3M1: ,14.27,S3M2: ,14.70,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:25:03,0, b'LoRa ACK Receiver\r\
+2025-07-11 12:25:05,1, b'LoRa Initializing OK! Waiting for packets...\r\
+2025-07-11 12:25:05,2, b"Received packet 'Sender 3:,0, S3M1: ,14.09,S3M2: ,14.55,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:25:20,3, b"Received packet 'Sender 3:,0, S3M1: ,14.18,S3M2: ,14.65,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:25:42,4, b"Received packet 'Sender 3:,0, S3M1: ,14.09,S3M2: ,14.55,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:26:04,5, b"Received packet 'Sender 3:,0, S3M1: ,14.13,S3M2: ,14.60,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:26:25,6, b"Received packet 'Sender 3:,0, S3M1: ,14.18,S3M2: ,14.60,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:26:47,7, b"Received packet 'Sender 3:,0, S3M1: ,14.13,S3M2: ,14.60,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:27:09,8, b"Received packet 'Sender 3:,0, S3M1: ,14.13,S3M2: ,14.60,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:27:31,9, b"Received packet 'Sender 3:,0, S3M1: ,14.18,S3M2: ,14.60,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:27:53,10, b"Received packet 'Sender 3:,0, S3M1: ,14.22,S3M2: ,14.65,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:28:15,11, b"Received packet 'Sender 3:,0, S3M1: ,14.18,S3M2: ,14.65,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:28:36,12, b"Received packet 'Sender 3:,0, S3M1: ,14.18,S3M2: ,14.65,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:28:58,13, b"Received packet 'Sender 3:,0, S3M1: ,14.13,S3M2: ,14.55,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:29:20,14, b"Received packet 'Sender 3:,0, S3M1: ,14.18,S3M2: ,14.60,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:29:42,15, b"Received packet 'Sender 3:,0, S3M1: ,14.13,S3M2: ,14.55,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:30:04,16, b"Received packet 'Sender 3:,0, S3M1: ,14.09,S3M2: ,14.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:30:26,17, b"Received packet 'Sender 3:,0, S3M1: ,14.09,S3M2: ,14.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:30:47,18, b"Received packet 'Sender 3:,0, S3M1: ,14.04,S3M2: ,14.46,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:31:09,19, b"Received packet 'Sender 3:,0, S3M1: ,14.04,S3M2: ,14.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:31:31,20, b"Received packet 'Sender 3:,0, S3M1: ,14.27,S3M2: ,14.70,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:31:53,21, b"Received packet 'Sender 3:,0, S3M1: ,14.13,S3M2: ,14.55,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:32:15,22, b"Received packet 'Sender 3:,0, S3M1: ,14.27,S3M2: ,14.70,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:32:37,23, b"Received packet 'Sender 3:,0, S3M1: ,14.32,S3M2: ,14.75,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:32:59,24, b"Received packet 'Sender 3:,0, S3M1: ,13.64,S3M2: ,14.13,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:33:20,25, b"Received packet 'Sender 3:,0, S3M1: ,14.18,S3M2: ,14.60,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:33:42,26, b"Received packet 'Sender 3:,0, S3M1: ,14.13,S3M2: ,14.55,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 12:34:04,27, b"Received packet 'Sender 2:,0, S2M1: ,50.62,S2M2: ,38.13,S2T1: ,-127.00,S2T2: ,30.06,DepthOfRain: ,0.00'\r\
+2025-07-11 12:49:02,28, b"Received packet 'Sender 2:,0, S2M1: ,50.62,S2M2: ,38.13,S2T1: ,-127.00,S2T2: ,30.06,DepthOfRain: ,0.00'\r\
+2025-07-11 13:15:59,0, b'LoRa ACK Receiver\r\
+2025-07-11 13:16:01,1, b'LoRa Initializing OK! Waiting for packets...\r\
+2025-07-11 13:16:01,2, b"Received packet 'Sender 3:,0, S3M1: ,10.29,S3M2: ,10.41,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 13:20:08,3, b"Received packet 'Sender 3:,0, S3M1: ,13.68,S3M2: ,13.86,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 13:20:30,4, b"Received packet 'Sender 3:,0, S3M1: ,12.65,S3M2: ,12.85,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:39:17,5, b"Received packet 'Sender 3:,0, S3M1: ,14.46,S3M2: ,14.36,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:39:34,6, b"Received packet 'Sender 2:,0, S2M1: ,14.84,S2M2: ,14.65,S2T1: ,-127.00,S2T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:40:57,7, b"Received packet 'Sender 3:,0, S3M1: ,13.60,S3M2: ,13.73,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:43:36,8, b"Received packet 'Sender 3:,0, S3M1: ,15.20,S3M2: ,16.85,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:43:58,9, b"Received packet 'Sender 3:,0, S3M1: ,16.01,S3M2: ,17.64,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:44:19,10, b"Received packet 'Sender 3:,0, S3M1: ,16.13,S3M2: ,17.64,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:44:41,11, b"Received packet 'Sender 3:,0, S3M1: ,15.96,S3M2: ,17.64,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:45:03,12, b"Received packet 'Sender 3:,0, S3M1: ,15.57,S3M2: ,17.17,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:45:25,13, b"Received packet 'Sender 3:,0, S3M1: ,11.67,S3M2: ,14.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:45:47,14, b"Received packet 'Sender 3:,0, S3M1: ,13.99,S3M2: ,16.01,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:46:08,15, b"Received packet 'Sender 3:,0, S3M1: ,13.22,S3M2: ,15.41,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:46:30,16, b"Received packet 'Sender 3:,0, S3M1: ,11.36,S3M2: ,13.99,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:46:52,17, b"Received packet 'Sender 3:,0, S3M1: ,19.18,S3M2: ,19.75,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:47:14,18, b"Received packet 'Sender 3:,0, S3M1: ,15.52,S3M2: ,16.54,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:47:36,19, b"Received packet 'Sender 3:,0, S3M1: ,19.50,S3M2: ,19.83,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:48:01,20, b"Received packet 'Sender 3:,0, S3M1: ,17.77,S3M2: ,18.12,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:48:22,21, b"Received packet 'Sender 3:,0, S3M1: ,15.36,S3M2: ,15.79,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:48:44,22, b"Received packet 'Sender 3:,0, S3M1: ,14.50,S3M2: ,14.99,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:49:06,23, b"Received packet 'Sender 3:,0, S3M1: ,14.89,S3M2: ,15.25,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:49:28,24, b"Received packet 'Sender 3:,0, S3M1: ,13.99,S3M2: ,14.46,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:49:50,25, b"Received packet 'Sender 3:,0, S3M1: ,14.94,S3M2: ,15.20,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:50:12,26, b"Received packet 'Sender 3:,0, S3M1: ,14.13,S3M2: ,14.60,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:50:33,27, b"Received packet 'Sender 3:,0, S3M1: ,16.54,S3M2: ,16.48,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:50:55,28, b"Received packet 'Sender 3:,0, S3M1: ,15.25,S3M2: ,15.36,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 15:51:17,29, b"Received packet 'Sender 3:,0, S3M1: ,6.98,S3M2: ,6.80,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 16:13:15,30, b"Received packet 'Sender 3:,0, S3M1: ,14.50,S3M2: ,15.73,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 16:14:50,31, b"Received packet 'Sender 3:,0, S3M1: ,15.25,S3M2: ,16.07,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 16:16:24,32, b"Received packet 'Sender 3:,0, S3M1: ,15.46,S3M2: ,16.42,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 16:17:59,33, b"Received packet 'Sender 3:,0, S3M1: ,15.90,S3M2: ,16.91,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:19:14,0, b'LoRa ACK Receiver with Enhanced Debugging\r\
+2025-07-11 17:19:15,1, b'LoRa Initializing OK! Configuration:\r\
+2025-07-11 17:19:15,2, b'Frequency: 868 MHz, Sync Word: 0xF3\r\
+2025-07-11 17:19:15,3, b'Checking LoRa health...\r\
+2025-07-11 17:19:15,4, b'LoRa health check passed - module responding to commands\r\
+2025-07-11 17:19:15,5, b'Waiting for packets...\r\
+2025-07-11 17:19:15,6, b'Raw packet received (1) [92 bytes, RSSI: -46 dBm, SNR: 10.00 dB]: Sender 3:,0, S3M1: ,18.12,S3M2: ,18.79,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5281\r\
+2025-07-11 17:19:30,7, b'Checksum validation: Received=5281, Calculated=5281 [VALID]\r\
+2025-07-11 17:19:30,8, b"Received packet 'Sender 3:,0, S3M1: ,18.12,S3M2: ,18.79,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:19:30,9, b'Sending ACK: ACK3\r\
+2025-07-11 17:19:30,10, b'ACK sent successfully\r\
+2025-07-11 17:19:30,11, b'---\r\
+2025-07-11 17:19:30,12, b'Raw packet received (2) [85 bytes, RSSI: -46 dBm, SNR: 10.00 dB]: er 3:,0, S3M1: ,18.12,S3M2: ,18.79,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5281\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.12,S3M2: ,18.79,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5281\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.12,S3M2: ,18.79,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5281\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.12,S3M2: ,18.79,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5281\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:19:34,13, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:19:34,14, b"Received packet ''\r\
+2025-07-11 17:19:34,15, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:19:34,16, b'---\r\
+2025-07-11 17:19:34,17, b'Raw packet received (3) [92 bytes, RSSI: -46 dBm, SNR: 9.50 dB]: Sender 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\r\
+2025-07-11 17:19:52,18, b'Checksum validation: Received=5278, Calculated=5278 [VALID]\r\
+2025-07-11 17:19:52,19, b"Received packet 'Sender 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:19:52,20, b'Sending ACK: ACK3\r\
+2025-07-11 17:19:52,21, b'ACK sent successfully\r\
+2025-07-11 17:19:52,22, b'---\r\
+2025-07-11 17:19:52,23, b'Raw packet received (4) [85 bytes, RSSI: -46 dBm, SNR: 9.50 dB]: er 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:19:57,24, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:19:57,25, b"Received packet ''\r\
+2025-07-11 17:19:57,26, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:19:57,27, b'---\r\
+2025-07-11 17:19:57,28, b'Raw packet received (5) [92 bytes, RSSI: -47 dBm, SNR: 9.50 dB]: Sender 3:,0, S3M1: ,18.27,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\r\
+2025-07-11 17:20:14,29, b'Checksum validation: Received=5286, Calculated=5286 [VALID]\r\
+2025-07-11 17:20:14,30, b"Received packet 'Sender 3:,0, S3M1: ,18.27,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:20:14,31, b'Sending ACK: ACK3\r\
+2025-07-11 17:20:14,32, b'ACK sent successfully\r\
+2025-07-11 17:20:14,33, b'---\r\
+2025-07-11 17:20:14,34, b'Raw packet received (6) [85 bytes, RSSI: -47 dBm, SNR: 9.50 dB]: er 3:,0, S3M1: ,18.27,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.27,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.27,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.27,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:20:19,35, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:20:19,36, b"Received packet ''\r\
+2025-07-11 17:20:19,37, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:20:19,38, b'---\r\
+2025-07-11 17:20:19,39, b'Raw packet received (7) [92 bytes, RSSI: -46 dBm, SNR: 10.25 dB]: Sender 3:,0, S3M1: ,16.13,S3M2: ,16.85,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\r\
+2025-07-11 17:20:36,40, b'Checksum validation: Received=5275, Calculated=5275 [VALID]\r\
+2025-07-11 17:20:36,41, b"Received packet 'Sender 3:,0, S3M1: ,16.13,S3M2: ,16.85,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:20:37,42, b'Sending ACK: ACK3\r\
+2025-07-11 17:20:37,43, b'ACK sent successfully\r\
+2025-07-11 17:20:37,44, b'---\r\
+2025-07-11 17:20:37,45, b'Raw packet received (8) [85 bytes, RSSI: -46 dBm, SNR: 10.25 dB]: er 3:,0, S3M1: ,16.13,S3M2: ,16.85,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,16.13,S3M2: ,16.85,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,16.13,S3M2: ,16.85,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,16.13,S3M2: ,16.85,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:20:41,46, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:20:41,47, b"Received packet ''\r\
+2025-07-11 17:20:41,48, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:20:41,49, b'---\r\
+2025-07-11 17:20:41,50, b'Raw packet received (9) [92 bytes, RSSI: -46 dBm, SNR: 9.75 dB]: Sender 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\r\
+2025-07-11 17:20:59,51, b'Checksum validation: Received=5278, Calculated=5278 [VALID]\r\
+2025-07-11 17:20:59,52, b"Received packet 'Sender 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:20:59,53, b'Sending ACK: ACK3\r\
+2025-07-11 17:20:59,54, b'ACK sent successfully\r\
+2025-07-11 17:20:59,55, b'---\r\
+2025-07-11 17:20:59,56, b'Raw packet received (10) [85 bytes, RSSI: -46 dBm, SNR: 9.75 dB]: er 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.49,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:21:03,57, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:21:03,58, b"Received packet ''\r\
+2025-07-11 17:21:03,59, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:21:03,60, b'---\r\
+2025-07-11 17:21:03,61, b'Raw packet received (11) [92 bytes, RSSI: -46 dBm, SNR: 10.25 dB]: Sender 3:,0, S3M1: ,17.64,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\r\
+2025-07-11 17:21:21,62, b'Checksum validation: Received=5280, Calculated=5280 [VALID]\r\
+2025-07-11 17:21:21,63, b"Received packet 'Sender 3:,0, S3M1: ,17.64,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:21:21,64, b'Sending ACK: ACK3\r\
+2025-07-11 17:21:21,65, b'ACK sent successfully\r\
+2025-07-11 17:21:21,66, b'---\r\
+2025-07-11 17:21:21,67, b'Raw packet received (12) [85 bytes, RSSI: -46 dBm, SNR: 10.25 dB]: er 3:,0, S3M1: ,17.64,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.64,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.64,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.64,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:21:26,68, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:21:26,69, b"Received packet ''\r\
+2025-07-11 17:21:26,70, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:21:26,71, b'---\r\
+2025-07-11 17:21:26,72, b'Raw packet received (13) [92 bytes, RSSI: -46 dBm, SNR: 10.00 dB]: Sender 3:,0, S3M1: ,18.71,S3M2: ,19.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\r\
+2025-07-11 17:21:43,73, b'Checksum validation: Received=5278, Calculated=5278 [VALID]\r\
+2025-07-11 17:21:43,74, b"Received packet 'Sender 3:,0, S3M1: ,18.71,S3M2: ,19.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:21:43,75, b'Sending ACK: ACK3\r\
+2025-07-11 17:21:43,76, b'ACK sent successfully\r\
+2025-07-11 17:21:43,77, b'---\r\
+2025-07-11 17:21:43,78, b'Raw packet received (14) [85 bytes, RSSI: -46 dBm, SNR: 10.00 dB]: er 3:,0, S3M1: ,18.71,S3M2: ,19.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.71,S3M2: ,19.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.71,S3M2: ,19.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.71,S3M2: ,19.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:21:48,79, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:21:48,80, b"Received packet ''\r\
+2025-07-11 17:21:48,81, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:21:48,82, b'---\r\
+2025-07-11 17:21:48,83, b'Raw packet received (15) [92 bytes, RSSI: -47 dBm, SNR: 9.50 dB]: Sender 3:,0, S3M1: ,17.64,S3M2: ,18.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\r\
+2025-07-11 17:22:05,84, b'Checksum validation: Received=5278, Calculated=5278 [VALID]\r\
+2025-07-11 17:22:05,85, b"Received packet 'Sender 3:,0, S3M1: ,17.64,S3M2: ,18.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:22:06,86, b'Sending ACK: ACK3\r\
+2025-07-11 17:22:06,87, b'ACK sent successfully\r\
+2025-07-11 17:22:06,88, b'---\r\
+2025-07-11 17:22:06,89, b'Raw packet received (16) [85 bytes, RSSI: -47 dBm, SNR: 9.50 dB]: er 3:,0, S3M1: ,17.64,S3M2: ,18.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.64,S3M2: ,18.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.64,S3M2: ,18.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.64,S3M2: ,18.34,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5278\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:22:10,90, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:22:10,91, b"Received packet ''\r\
+2025-07-11 17:22:10,92, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:22:10,93, b'---\r\
+2025-07-11 17:22:10,94, b'Raw packet received (17) [92 bytes, RSSI: -48 dBm, SNR: 9.75 dB]: Sender 3:,0, S3M1: ,17.57,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5282\r\
+2025-07-11 17:22:33,95, b'Checksum validation: Received=5282, Calculated=5282 [VALID]\r\
+2025-07-11 17:22:33,96, b"Received packet 'Sender 3:,0, S3M1: ,17.57,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:22:33,97, b'Sending ACK: ACK3\r\
+2025-07-11 17:22:33,98, b'ACK sent successfully\r\
+2025-07-11 17:22:33,99, b'---\r\
+2025-07-11 17:22:33,100, b'Raw packet received (18) [85 bytes, RSSI: -48 dBm, SNR: 9.75 dB]: er 3:,0, S3M1: ,17.57,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5282\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.57,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5282\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.57,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5282\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.57,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5282\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:22:38,101, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:22:38,102, b"Received packet ''\r\
+2025-07-11 17:22:38,103, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:22:38,104, b'---\r\
+2025-07-11 17:22:38,105, b'Raw packet received (19) [92 bytes, RSSI: -47 dBm, SNR: 10.00 dB]: Sender 3:,0, S3M1: ,18.56,S3M2: ,19.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5283\r\
+2025-07-11 17:22:55,106, b'Checksum validation: Received=5283, Calculated=5283 [VALID]\r\
+2025-07-11 17:22:55,107, b"Received packet 'Sender 3:,0, S3M1: ,18.56,S3M2: ,19.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:22:55,108, b'Sending ACK: ACK3\r\
+2025-07-11 17:22:55,109, b'ACK sent successfully\r\
+2025-07-11 17:22:55,110, b'---\r\
+2025-07-11 17:22:55,111, b'Raw packet received (20) [85 bytes, RSSI: -47 dBm, SNR: 10.00 dB]: er 3:,0, S3M1: ,18.56,S3M2: ,19.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5283\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.56,S3M2: ,19.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5283\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.56,S3M2: ,19.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5283\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.56,S3M2: ,19.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5283\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:23:00,112, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:23:00,113, b"Received packet ''\r\
+2025-07-11 17:23:00,114, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:23:00,115, b'---\r\
+2025-07-11 17:23:00,116, b'Raw packet received (21) [92 bytes, RSSI: -46 dBm, SNR: 10.00 dB]: Sender 3:,0, S3M1: ,17.70,S3M2: ,18.41,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5273\r\
+2025-07-11 17:23:17,117, b'Checksum validation: Received=5273, Calculated=5273 [VALID]\r\
+2025-07-11 17:23:17,118, b"Received packet 'Sender 3:,0, S3M1: ,17.70,S3M2: ,18.41,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:23:18,119, b'Sending ACK: ACK3\r\
+2025-07-11 17:23:18,120, b'ACK sent successfully\r\
+2025-07-11 17:23:18,121, b'---\r\
+2025-07-11 17:23:18,122, b'Raw packet received (22) [85 bytes, RSSI: -46 dBm, SNR: 10.00 dB]: er 3:,0, S3M1: ,17.70,S3M2: ,18.41,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5273\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.70,S3M2: ,18.41,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5273\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.70,S3M2: ,18.41,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5273\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.70,S3M2: ,18.41,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5273\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:23:22,123, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:23:22,124, b"Received packet ''\r\
+2025-07-11 17:23:22,125, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:23:22,126, b'---\r\
+2025-07-11 17:23:22,127, b'Raw packet received (23) [92 bytes, RSSI: -47 dBm, SNR: 9.50 dB]: Sender 3:,0, S3M1: ,14.04,S3M2: ,13.99,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\r\
+2025-07-11 17:23:40,128, b'Checksum validation: Received=5275, Calculated=5275 [VALID]\r\
+2025-07-11 17:23:40,129, b"Received packet 'Sender 3:,0, S3M1: ,14.04,S3M2: ,13.99,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:23:40,130, b'Sending ACK: ACK3\r\
+2025-07-11 17:23:40,131, b'ACK sent successfully\r\
+2025-07-11 17:23:40,132, b'---\r\
+2025-07-11 17:23:40,133, b'Raw packet received (24) [85 bytes, RSSI: -47 dBm, SNR: 9.50 dB]: er 3:,0, S3M1: ,14.04,S3M2: ,13.99,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,14.04,S3M2: ,13.99,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,14.04,S3M2: ,13.99,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,14.04,S3M2: ,13.99,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5275\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:23:44,134, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:23:45,135, b"Received packet ''\r\
+2025-07-11 17:23:45,136, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:23:45,137, b'---\r\
+2025-07-11 17:23:45,138, b'Raw packet received (25) [92 bytes, RSSI: -49 dBm, SNR: 9.50 dB]: Sender 3:,0, S3M1: ,17.91,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5279\r\
+2025-07-11 17:24:20,139, b'Checksum validation: Received=5279, Calculated=5279 [VALID]\r\
+2025-07-11 17:24:20,140, b"Received packet 'Sender 3:,0, S3M1: ,17.91,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:24:20,141, b'Sending ACK: ACK3\r\
+2025-07-11 17:24:20,142, b'ACK sent successfully\r\
+2025-07-11 17:24:20,143, b'---\r\
+2025-07-11 17:24:20,144, b'Raw packet received (26) [85 bytes, RSSI: -49 dBm, SNR: 9.50 dB]: er 3:,0, S3M1: ,17.91,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5279\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.91,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5279\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.91,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5279\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.91,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5279\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:24:25,145, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:24:25,146, b"Received packet ''\r\
+2025-07-11 17:24:25,147, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:24:25,148, b'---\r\
+2025-07-11 17:24:25,149, b'Raw packet received (27) [92 bytes, RSSI: -47 dBm, SNR: 9.75 dB]: Sender 3:,0, S3M1: ,17.98,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\r\
+2025-07-11 17:25:01,150, b'Checksum validation: Received=5286, Calculated=5286 [VALID]\r\
+2025-07-11 17:25:01,151, b"Received packet 'Sender 3:,0, S3M1: ,17.98,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:25:01,152, b'Sending ACK: ACK3\r\
+2025-07-11 17:25:01,153, b'ACK sent successfully\r\
+2025-07-11 17:25:01,154, b'---\r\
+2025-07-11 17:25:01,155, b'Raw packet received (28) [85 bytes, RSSI: -47 dBm, SNR: 9.75 dB]: er 3:,0, S3M1: ,17.98,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.98,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.98,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,17.98,S3M2: ,18.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5286\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:25:05,156, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:25:05,157, b"Received packet ''\r\
+2025-07-11 17:25:05,158, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:25:05,159, b'---\r\
+2025-07-11 17:25:05,160, b'Raw packet received (29) [92 bytes, RSSI: -47 dBm, SNR: 10.00 dB]: Sender 3:,0, S3M1: ,18.12,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\r\
+2025-07-11 17:25:41,161, b'Checksum validation: Received=5280, Calculated=5280 [VALID]\r\
+2025-07-11 17:25:41,162, b"Received packet 'Sender 3:,0, S3M1: ,18.12,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:25:41,163, b'Sending ACK: ACK3\r\
+2025-07-11 17:25:41,164, b'ACK sent successfully\r\
+2025-07-11 17:25:41,165, b'---\r\
+2025-07-11 17:25:41,166, b'Raw packet received (30) [85 bytes, RSSI: -47 dBm, SNR: 10.00 dB]: er 3:,0, S3M1: ,18.12,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.12,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.12,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.12,S3M2: ,18.87,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5280\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:25:46,167, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:25:46,168, b"Received packet ''\r\
+2025-07-11 17:25:46,169, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:25:46,170, b'---\r\
+2025-07-11 17:25:46,171, b'Raw packet received (31) [92 bytes, RSSI: -49 dBm, SNR: 9.75 dB]: Sender 3:,0, S3M1: ,18.79,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5284\r\
+2025-07-11 17:26:22,172, b'Checksum validation: Received=5284, Calculated=5284 [VALID]\r\
+2025-07-11 17:26:22,173, b"Received packet 'Sender 3:,0, S3M1: ,18.79,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:26:22,174, b'Sending ACK: ACK3\r\
+2025-07-11 17:26:22,175, b'ACK sent successfully\r\
+2025-07-11 17:26:22,176, b'---\r\
+2025-07-11 17:26:22,177, b'Raw packet received (32) [85 bytes, RSSI: -49 dBm, SNR: 9.75 dB]: er 3:,0, S3M1: ,18.79,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5284\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.79,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5284\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.79,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5284\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,18.79,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5284\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:26:26,178, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:26:26,179, b"Received packet ''\r\
+2025-07-11 17:26:26,180, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:26:26,181, b'---\r\
+2025-07-11 17:26:26,182, b'Raw packet received (33) [92 bytes, RSSI: -48 dBm, SNR: 9.25 dB]: Sender 3:,0, S3M1: ,14.36,S3M2: ,14.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5272\r\
+2025-07-11 17:26:57,183, b'Checksum validation: Received=5272, Calculated=5272 [VALID]\r\
+2025-07-11 17:26:57,184, b"Received packet 'Sender 3:,0, S3M1: ,14.36,S3M2: ,14.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:26:57,185, b'Sending ACK: ACK3\r\
+2025-07-11 17:26:57,186, b'ACK sent successfully\r\
+2025-07-11 17:26:57,187, b'---\r\
+2025-07-11 17:26:57,188, b'Raw packet received (34) [85 bytes, RSSI: -48 dBm, SNR: 9.25 dB]: er 3:,0, S3M1: ,14.36,S3M2: ,14.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5272\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,14.36,S3M2: ,14.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5272\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,14.36,S3M2: ,14.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5272\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x08F\xc4\xba\xc8\xa1SS\x1c\xf4\x89\xd9mIvA\xa4R\xa7\x0e\xdf\xe3\xf6)\xa2\x86\xa5\x92XT\xc4A(\x9d\x8a\xa2\xf5\x03S\x9cn8\x9fae]\x1d\xa0:1P\xf5+\xe6;\xb4I}%\x1c\x0c=\x10aV\xf6|kR\xd7\xf3\xf6\xc2\x10i\xf3\xdd\x01\x89\x88~?\xa5\xb0\x90ACK3er 3:,0, S3M1: ,14.36,S3M2: ,14.18,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00|5272\xe3u2\xbd\xa9-I\xa4\xa3z\xb5`Xe\xce\xa7kR\x10\x03l\xc1\x81I\xc7\xf1\xc0EF{a\xcaG\xc4DxXJ\xa2.\xc3I\xac|\xe1\xf4\xc3\xe7\xd8\x08wj\x8aa\xe7[w\x00N\xb3\xe3\xeb\x073\\$O\xf3\xf5\x12\xe8`:h\xeeJ\x82\xfb\x00\x01\x08\xc5\x00\x02\x00\xa2\x00\x00\x08\xcd\r\
+2025-07-11 17:27:02,189, b'Checksum validation: Received=0, Calculated=0 [VALID]\r\
+2025-07-11 17:27:02,190, b"Received packet ''\r\
+2025-07-11 17:27:02,191, b'ERROR: Could not extract sender ID from payload\r\
+2025-07-11 17:27:02,192, b'---\r\
+2025-07-11 17:28:08,0, b'LoRa ACK Receiver\r\
+2025-07-11 17:28:09,1, b'LoRa Initializing OK! Waiting for packets...\r\
+2025-07-11 17:28:09,2, b"Received packet 'Sender 3:,0, S3M1: ,19.34,S3M2: ,20.00,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:28:14,3, b"Received packet 'Sender 3:,0, S3M1: ,18.20,S3M2: ,18.94,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:28:35,4, b"Received packet 'Sender 3:,0, S3M1: ,18.49,S3M2: ,19.10,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:28:57,5, b"Received packet 'Sender 3:,0, S3M1: ,19.58,S3M2: ,20.17,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:29:19,6, b"Received packet 'Sender 3:,0, S3M1: ,19.58,S3M2: ,20.17,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:29:24,7, b"Received packet 'Sender 3:,0, S3M1: ,17.04,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:29:46,8, b"Received packet 'Sender 3:,0, S3M1: ,17.04,S3M2: ,18.27,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:29:50,9, b"Received packet 'Sender 3:,0, S3M1: ,18.64,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:30:12,10, b"Received packet 'Sender 3:,0, S3M1: ,18.56,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:30:34,11, b"Received packet 'Sender 3:,0, S3M1: ,18.56,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:30:39,12, b"Received packet 'Sender 3:,0, S3M1: ,18.56,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:30:44,13, b"Received packet 'Sender 3:,0, S3M1: ,18.56,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:30:48,14, b"Received packet 'Sender 3:,0, S3M1: ,17.91,S3M2: ,19.02,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:31:10,15, b"Received packet 'Sender 3:,0, S3M1: ,18.56,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:31:32,16, b"Received packet 'Sender 3:,0, S3M1: ,18.56,S3M2: ,19.50,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:31:38,17, b"Received packet 'Sender 3:,0, S3M1: ,13.95,S3M2: ,15.90,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:32:00,18, b"Received packet 'Sender 3:,0, S3M1: ,17.30,S3M2: ,18.49,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:32:22,19, b"Received packet 'Sender 3:,0, S3M1: ,16.91,S3M2: ,18.20,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:32:44,20, b"Received packet 'Sender 3:,0, S3M1: ,15.90,S3M2: ,17.70,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 17:33:05,21, b"Received packet 'Sender 2:,0, S2M1: ,89.60,S2M2: ,71.94,S2T1: ,-127.00,S2T2: ,31.13,DepthOfRain: ,0.00'\r\
+2025-07-11 17:38:10,22, b"Received packet 'Sender 2:,0, S2M1: ,89.16,S2M2: ,68.73,S2T1: ,-127.00,S2T2: ,31.13,DepthOfRain: ,0.00'\r\
+2025-07-11 17:39:14,23, b"Received packet 'Sender 2:,0, S2M1: ,62.99,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,31.25,DepthOfRain: ,0.00'\r\
+2025-07-11 17:53:59,24, b"Received packet 'Sender 2:,0, S2M1: ,59.51,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,31.25,DepthOfRain: ,0.00'\r\
+2025-07-11 18:08:43,25, b"Received packet 'Sender 2:,0, S2M1: ,59.51,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,31.25,DepthOfRain: ,0.00'\r\
+2025-07-11 18:08:47,26, b"Received packet 'Sender 2:,0, S2M1: ,59.51,S2M2: ,49.31,S2T1: ,-127.00,S2T2: ,31.25,DepthOfRain: ,0.00'\r\
+2025-07-11 18:08:57,27, b"Received packet 'Sender 1:,0, S1M1: ,47.53,S1M2: ,57.68,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:20:44,28, b"Received packet 'Sender 1:,0, S1M1: ,46.79,S1M2: ,56.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:22:25,29, b"Received packet 'Sender 2:,0, S2M1: ,62.99,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,31.31,DepthOfRain: ,0.00'\r\
+2025-07-11 18:23:43,30, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,56.79,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:24:05,31, b"Received packet 'Sender 1:,0, S1M1: ,47.53,S1M2: ,56.79,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:25:46,32, b"Received packet 'Sender 1:,0, S1M1: ,47.28,S1M2: ,55.33,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:27:27,33, b"Received packet 'Sender 1:,0, S1M1: ,47.78,S1M2: ,55.91,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:29:08,34, b"Received packet 'Sender 1:,0, S1M1: ,70.86,S1M2: ,73.42,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:30:49,35, b"Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:32:49,36, b"Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:32:58,37, b"Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:33:02,38, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,57.98,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:34:45,39, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,57.98,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:34:48,40, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:36:29,41, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:38:09,42, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:38:13,43, b"Received packet 'Sender 2:,0, S2M1: ,61.70,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.25,DepthOfRain: ,0.00'\r\
+2025-07-11 18:38:28,44, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:39:54,45, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:41:34,46, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:43:15,47, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:44:56,48, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:44:59,49, b"Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:46:40,50, b"Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:46:43,51, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:48:24,52, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,57.98,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:50:05,53, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:51:46,54, b"Received packet 'Sender 2:,0, S2M1: ,62.34,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.31,DepthOfRain: ,0.00'\r\
+2025-07-11 18:53:12,55, b"Received packet 'Sender 2:,0, S2M1: ,62.34,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.31,DepthOfRain: ,0.00'\r\
+2025-07-11 18:53:16,56, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:53:27,57, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:55:07,58, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:56:48,59, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 18:58:29,60, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:00:10,61, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:01:51,62, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,57.98,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:03:31,63, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:05:12,64, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:06:53,65, b"Received packet 'Sender 2:,0, S2M1: ,62.02,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,31.31,DepthOfRain: ,0.00'\r\
+2025-07-11 19:08:00,66, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:08:34,67, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:10:15,68, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:11:55,69, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:13:36,70, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:15:17,71, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:16:58,72, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,57.68,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:18:39,73, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,57.68,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:20:19,74, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:22:00,75, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:22:04,76, b"Received packet 'Sender 2:,0, S2M1: ,62.34,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,31.38,DepthOfRain: ,0.00'\r\
+2025-07-11 19:22:44,77, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:23:45,78, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,57.68,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:25:25,79, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,57.68,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:27:06,80, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:28:47,81, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:28:51,82, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:28:56,83, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:29:00,84, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:29:04,85, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:29:08,86, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:29:11,87, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:29:19,88, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:29:23,89, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:31:03,90, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:31:08,91, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:32:49,92, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,57.98,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:34:29,93, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,57.98,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:36:10,94, b"Received packet 'Sender 2:,0, S2M1: ,61.38,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.31,DepthOfRain: ,0.00'\r\
+2025-07-11 19:37:28,95, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:37:51,96, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:37:54,97, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:39:35,98, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:41:16,99, b"Received packet ''\r\
+2025-07-11 19:41:19,100, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:42:57,101, b"Received packet ''\r\
+2025-07-11 19:43:00,102, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:43:01,103, b"Received packet ''\r\
+2025-07-11 19:43:04,104, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:43:05,105, b"Received packet ''\r\
+2025-07-11 19:43:08,106, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:44:45,107, b"Received packet ''\r\
+2025-07-11 19:44:49,108, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.82,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:46:26,109, b"Received packet ''\r\
+2025-07-11 19:46:30,110, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:48:07,111, b"Received packet ''\r\
+2025-07-11 19:48:10,112, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:49:48,113, b"Received packet ''\r\
+2025-07-11 19:49:51,114, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:51:29,115, b"Received packet ''\r\
+2025-07-11 19:51:32,116, b"Received packet 'Sender 2:,0, S2M1: ,61.38,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,31.31,DepthOfRain: ,0.00'\r\
+2025-07-11 19:52:12,117, b"Received packet ''\r\
+2025-07-11 19:52:15,118, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:53:09,119, b"Received packet ''\r\
+2025-07-11 19:53:13,120, b"Received packet 'Sender 1:,0, S1M1: ,64.96,S1M2: ,59.82,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:54:50,121, b"Received packet ''\r\
+2025-07-11 19:54:53,122, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:56:31,123, b"Received packet ''\r\
+2025-07-11 19:56:34,124, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:58:12,125, b"Received packet ''\r\
+2025-07-11 19:58:15,126, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 19:59:52,127, b"Received packet ''\r\
+2025-07-11 19:59:56,128, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:01:33,129, b"Received packet ''\r\
+2025-07-11 20:01:37,130, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:01:37,131, b"Received packet ''\r\
+2025-07-11 20:01:41,132, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:01:44,133, b"Received packet ''\r\
+2025-07-11 20:01:47,134, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:01:51,135, b"Received packet ''\r\
+2025-07-11 20:01:54,136, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:03:32,137, b"Received packet ''\r\
+2025-07-11 20:03:35,138, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:05:13,139, b"Received packet ''\r\
+2025-07-11 20:05:16,140, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:06:53,141, b"Received packet ''\r\
+2025-07-11 20:06:57,142, b"Received packet 'Sender 2:,0, S2M1: ,61.70,S2M2: ,51.16,S2T1: ,-127.00,S2T2: ,31.31,DepthOfRain: ,0.00'\r\
+2025-07-11 20:06:59,143, b"Received packet ''\r\
+2025-07-11 20:07:02,144, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:08:34,145, b"Received packet ''\r\
+2025-07-11 20:08:37,146, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:08:39,147, b"Received packet ''\r\
+2025-07-11 20:08:42,148, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:10:19,149, b"Received packet ''\r\
+2025-07-11 20:10:23,150, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:12:00,151, b"Received packet ''\r\
+2025-07-11 20:12:03,152, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:13:41,153, b"Received packet ''\r\
+2025-07-11 20:13:44,154, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:15:21,155, b"Received packet ''\r\
+2025-07-11 20:15:24,156, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:17:01,157, b"Received packet ''\r\
+2025-07-11 20:17:04,158, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:18:41,159, b"Received packet ''\r\
+2025-07-11 20:18:44,160, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:20:21,161, b"Received packet ''\r\
+2025-07-11 20:20:24,162, b"Received packet 'Sender 2:,0, S2M1: ,62.66,S2M2: ,49.57,S2T1: ,-127.00,S2T2: ,31.38,DepthOfRain: ,0.00'\r\
+2025-07-11 20:21:42,163, b"Received packet ''\r\
+2025-07-11 20:21:46,164, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:22:01,165, b"Received packet ''\r\
+2025-07-11 20:22:04,166, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:23:41,167, b"Received packet ''\r\
+2025-07-11 20:23:44,168, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:25:21,169, b"Received packet ''\r\
+2025-07-11 20:25:24,170, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:27:01,171, b"Received packet ''\r\
+2025-07-11 20:27:04,172, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:28:41,173, b"Received packet ''\r\
+2025-07-11 20:28:44,174, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:28:48,175, b"Received packet ''\r\
+2025-07-11 20:28:51,176, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:30:28,177, b"Received packet ''\r\
+2025-07-11 20:30:31,178, b"Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:32:08,179, b"Received packet ''\r\
+2025-07-11 20:32:11,180, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:33:48,181, b"Received packet ''\r\
+2025-07-11 20:33:51,182, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:35:28,183, b"Received packet ''\r\
+2025-07-11 20:35:31,184, b"Received packet 'Sender 2:,0, S2M1: ,61.70,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,31.31,DepthOfRain: ,0.00'\r\
+2025-07-11 20:36:26,185, b"Received packet ''\r\
+2025-07-11 20:36:29,186, b"Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:37:08,187, b"Received packet ''\r\
+2025-07-11 20:37:11,188, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:38:48,189, b"Received packet ''\r\
+2025-07-11 20:38:51,190, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:40:28,191, b"Received packet ''\r\
+2025-07-11 20:40:31,192, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:42:08,193, b"Received packet ''\r\
+2025-07-11 20:42:11,194, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:43:48,195, b"Received packet ''\r\
+2025-07-11 20:43:51,196, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:45:28,197, b"Received packet ''\r\
+2025-07-11 20:45:31,198, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:47:08,199, b"Received packet ''\r\
+2025-07-11 20:47:11,200, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:48:48,201, b"Received packet ''\r\
+2025-07-11 20:48:51,202, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:48:55,203, b"Received packet ''\r\
+2025-07-11 20:48:58,204, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:50:35,205, b"Received packet ''\r\
+2025-07-11 20:50:38,206, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:50:39,207, b"Received packet ''\r\
+2025-07-11 20:50:43,208, b"Received packet 'Sender 2:,0, S2M1: ,61.38,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.25,DepthOfRain: ,0.00'\r\
+2025-07-11 20:51:09,209, b"Received packet ''\r\
+2025-07-11 20:51:13,210, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:52:20,211, b"Received packet ''\r\
+2025-07-11 20:52:23,212, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:54:00,213, b"Received packet ''\r\
+2025-07-11 20:54:04,214, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,57.98,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:55:41,215, b"Received packet ''\r\
+2025-07-11 20:55:44,216, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:57:21,217, b"Received packet ''\r\
+2025-07-11 20:57:24,218, b"Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 20:59:01,219, b"Received packet ''\r\
+2025-07-11 20:59:05,220, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:00:42,221, b"Received packet ''\r\
+2025-07-11 21:00:45,222, b"Received packet 'Sender 1:,0, S1M1: ,48.03,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:00:46,223, b"Received packet ''\r\
+2025-07-11 21:00:49,224, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,57.98,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:02:26,225, b"Received packet ''\r\
+2025-07-11 21:02:30,226, b"Received packet 'Sender 1:,0, S1M1: ,57.68,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:04:07,227, b"Received packet ''\r\
+2025-07-11 21:04:10,228, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.28,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:05:47,229, b"Received packet ''\r\
+2025-07-11 21:05:50,230, b"Received packet 'Sender 2:,0, S2M1: ,62.34,S2M2: ,50.62,S2T1: ,-127.00,S2T2: ,31.19,DepthOfRain: ,0.00'\r\
+2025-07-11 21:05:53,231, b"Received packet ''\r\
+2025-07-11 21:05:56,232, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:07:28,233, b"Received packet ''\r\
+2025-07-11 21:07:31,234, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:09:08,235, b"Received packet ''\r\
+2025-07-11 21:09:11,236, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:10:49,237, b"Received packet ''\r\
+2025-07-11 21:10:52,238, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:12:29,239, b"Received packet ''\r\
+2025-07-11 21:12:32,240, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:14:09,241, b"Received packet ''\r\
+2025-07-11 21:14:13,242, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:15:50,243, b"Received packet ''\r\
+2025-07-11 21:15:53,244, b"Received packet 'Sender 1:,0, S1M1: ,62.66,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:17:30,245, b"Received packet ''\r\
+2025-07-11 21:17:34,246, b"Received packet 'Sender 1:,0, S1M1: ,62.34,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:19:11,247, b"Received packet ''\r\
+2025-07-11 21:19:14,248, b"Received packet 'Sender 2:,0, S2M1: ,61.07,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.25,DepthOfRain: ,0.00'\r\
+2025-07-11 21:20:37,249, b"Received packet ''\r\
+2025-07-11 21:20:40,250, b"Received packet 'Sender 1:,0, S1M1: ,62.99,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:20:51,251, b"Received packet ''\r\
+2025-07-11 21:20:55,252, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:22:32,253, b"Received packet ''\r\
+2025-07-11 21:22:35,254, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:24:12,255, b"Received packet ''\r\
+2025-07-11 21:24:16,256, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:25:53,257, b"Received packet ''\r\
+2025-07-11 21:25:56,258, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:27:33,259, b"Received packet ''\r\
+2025-07-11 21:27:37,260, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:29:14,261, b"Received packet ''\r\
+2025-07-11 21:29:17,262, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:29:18,263, b"Received packet ''\r\
+2025-07-11 21:29:22,264, b"Received packet 'Sender 1:,0, S1M1: ,65.30,S1M2: ,59.82,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:30:59,265, b"Received packet ''\r\
+2025-07-11 21:31:02,266, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:32:39,267, b"Received packet ''\r\
+2025-07-11 21:32:42,268, b"Received packet 'Sender 1:,0, S1M1: ,65.30,S1M2: ,59.82,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:34:20,269, b"Received packet ''\r\
+2025-07-11 21:34:23,270, b"Received packet 'Sender 2:,0, S2M1: ,61.70,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,31.19,DepthOfRain: ,0.00'\r\
+2025-07-11 21:35:20,271, b"Received packet ''\r\
+2025-07-11 21:35:23,272, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:36:00,273, b"Received packet ''\r\
+2025-07-11 21:36:03,274, b"Received packet 'Sender 1:,0, S1M1: ,63.64,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:37:40,275, b"Received packet ''\r\
+2025-07-11 21:37:44,276, b"Received packet 'Sender 1:,0, S1M1: ,65.30,S1M2: ,60.13,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:39:21,277, b"Received packet ''\r\
+2025-07-11 21:39:24,278, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:41:01,279, b"Received packet ''\r\
+2025-07-11 21:41:05,280, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:42:42,281, b"Received packet ''\r\
+2025-07-11 21:42:45,282, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:42:46,283, b"Received packet ''\r\
+2025-07-11 21:42:49,284, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:44:26,285, b"Received packet ''\r\
+2025-07-11 21:44:30,286, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:46:07,287, b"Received packet ''\r\
+2025-07-11 21:46:10,288, b"Received packet 'Sender 1:,0, S1M1: ,65.30,S1M2: ,60.13,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:47:47,289, b"Received packet ''\r\
+2025-07-11 21:47:51,290, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:49:28,291, b"Received packet ''\r\
+2025-07-11 21:49:31,292, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:49:32,293, b"Received packet ''\r\
+2025-07-11 21:49:35,294, b"Received packet 'Sender 2:,0, S2M1: ,62.66,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,31.19,DepthOfRain: ,0.00'\r\
+2025-07-11 21:50:04,295, b"Received packet ''\r\
+2025-07-11 21:50:07,296, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:51:12,297, b"Received packet ''\r\
+2025-07-11 21:51:15,298, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:52:53,299, b"Received packet ''\r\
+2025-07-11 21:52:56,300, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.89,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:54:33,301, b"Received packet ''\r\
+2025-07-11 21:54:36,302, b"Received packet 'Sender 1:,0, S1M1: ,64.30,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:56:14,303, b"Received packet ''\r\
+2025-07-11 21:56:17,304, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,59.20,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:57:54,305, b"Received packet ''\r\
+2025-07-11 21:57:57,306, b"Received packet 'Sender 1:,0, S1M1: ,65.30,S1M2: ,59.82,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:59:34,307, b"Received packet ''\r\
+2025-07-11 21:59:37,308, b"Received packet 'Sender 1:,0, S1M1: ,65.30,S1M2: ,59.82,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 21:59:38,309, b"Received packet ''\r\
+2025-07-11 21:59:42,310, b"Received packet 'Sender 1:,0, S1M1: ,63.31,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 22:01:19,311, b"Received packet ''\r\
+2025-07-11 22:01:22,312, b"Received packet 'Sender 1:,0, S1M1: ,64.63,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 22:02:59,313, b"Received packet ''\r\
+2025-07-11 22:03:03,314, b"Received packet 'Sender 1:,0, S1M1: ,64.63,S1M2: ,59.51,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 22:04:40,315, b"Received packet ''\r\
+2025-07-11 22:04:43,316, b"Received packet 'Sender 2:,0, S2M1: ,61.07,S2M2: ,50.36,S2T1: ,-127.00,S2T2: ,31.13,DepthOfRain: ,0.00'\r\
+2025-07-11 22:04:47,317, b"Received packet ''\r\
+2025-07-11 22:04:50,318, b"Received packet 'Sender 1:,0, S1M1: ,63.97,S1M2: ,58.59,S1T1: ,-127.00,S1T2: ,-127.00,DepthOfRain: ,0.00'\r\
+2025-07-11 22:06:20,319, b"Received packet ''\r\
+2025-07-11 22:06:24,320, b"Received packet 'Sender 2:,0, S2M1: ,63.64,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.13,DepthOfRain: ,0.00'\r\
+2025-07-11 22:19:30,321, b"Received packet 'Sender 2:,0, S2M1: ,63.64,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.13,DepthOfRain: ,0.00'\r\
+2025-07-11 22:19:34,322, b"Received packet 'Sender 2:,0, S2M1: ,62.02,S2M2: ,51.16,S2T1: ,-127.00,S2T2: ,31.06,DepthOfRain: ,0.00'\r\
+2025-07-11 22:34:17,323, b"Received packet ''\r\
+2025-07-11 22:34:20,324, b"Received packet 'Sender 2:,0, S2M1: ,62.34,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.06,DepthOfRain: ,0.00'\r\
+2025-07-11 22:49:00,325, b"Received packet ''\r\
+2025-07-11 22:49:04,326, b"Received packet 'Sender 2:,0, S2M1: ,68.73,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,31.06,DepthOfRain: ,0.00'\r\
+2025-07-11 23:03:44,327, b"Received packet ''\r\
+2025-07-11 23:03:47,328, b"Received packet 'Sender 2:,0, S2M1: ,61.07,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,31.06,DepthOfRain: ,0.00'\r\
+2025-07-11 23:18:27,329, b"Received packet ''\r\
+2025-07-11 23:18:31,330, b"Received packet 'Sender 2:,0, S2M1: ,68.73,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,31.00,DepthOfRain: ,0.00'\r\
+2025-07-11 23:33:10,331, b"Received packet ''\r\
+2025-07-11 23:33:14,332, b"Received packet 'Sender 2:,0, S2M1: ,68.73,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,31.00,DepthOfRain: ,0.00'\r\
+2025-07-11 23:33:14,333, b"Received packet ''\r\
+2025-07-11 23:33:18,334, b"Received packet 'Sender 2:,0, S2M1: ,68.73,S2M2: ,56.49,S2T1: ,-127.00,S2T2: ,31.00,DepthOfRain: ,0.00'\r\
+2025-07-11 23:47:57,335, b"Received packet ''\r\
+2025-07-11 23:48:01,336, b"Received packet 'Sender 2:,0, S2M1: ,68.38,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.94,DepthOfRain: ,0.00'\r\
+2025-07-12 00:02:40,337, b"Received packet ''\r\
+2025-07-12 00:02:43,338, b"Received packet 'Sender 2:,0, S2M1: ,69.08,S2M2: ,57.08,S2T1: ,-127.00,S2T2: ,30.88,DepthOfRain: ,0.00'\r\
+2025-07-12 00:17:26,339, b"Received packet ''\r\
+2025-07-12 00:17:29,340, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,55.62,S2T1: ,-127.00,S2T2: ,30.88,DepthOfRain: ,0.00'\r\
+2025-07-12 00:32:09,341, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,55.62,S2T1: ,-127.00,S2T2: ,30.88,DepthOfRain: ,0.00'\r\
+2025-07-12 00:32:12,342, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,55.62,S2T1: ,-127.00,S2T2: ,30.88,DepthOfRain: ,0.00'\r\
+2025-07-12 00:32:16,343, b"Received packet 'Sender 2:,0, S2M1: ,70.14,S2M2: ,55.62,S2T1: ,-127.00,S2T2: ,30.88,DepthOfRain: ,0.00'\r\
+2025-07-12 00:32:19,344, b"Received packet 'Sender 2:,0, S2M1: ,68.73,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.94,DepthOfRain: ,0.00'\r\
+2025-07-12 00:47:02,345, b"Received packet ''\r\
+2025-07-12 00:47:05,346, b"Received packet 'Sender 2:,0, S2M1: ,69.08,S2M2: ,56.79,S2T1: ,-127.00,S2T2: ,30.88,DepthOfRain: ,0.00'\r\
+2025-07-12 01:01:45,347, b"Received packet 'Sender 2:,0, S2M1: ,69.08,S2M2: ,55.91,S2T1: ,-127.00,S2T2: ,30.81,DepthOfRain: ,0.00'\r\
+2025-07-12 12:45:11,0,LoRa ACK Receiver
+2025-07-12 12:45:12,1,LoRa Initializing OK! Waiting for packets...
+2025-07-12 12:45:12,2,Received packet 'Sender 1:,0, S1M1: ,43.02,S1M2: ,65.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:07:46,3,Received packet ''
+2025-07-12 14:07:49,4,Received packet 'Sender 1:,0, S1M1: ,43.02,S1M2: ,65.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:07:50,5,Received packet ''
+2025-07-12 14:07:53,6,Received packet 'Sender 2:,0, S2M1: ,87.42,S2M2: ,67.68,S2T1: ,-127.00,S2T2: ,31.19,DepthOfRain: ,0.00'
+2025-07-12 14:07:55,7,Received packet ''
+2025-07-12 14:07:59,8,Received packet 'Sender 1:,0, S1M1: ,43.02,S1M2: ,65.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:08:02,9,Received packet ''
+2025-07-12 14:08:05,10,Received packet 'Sender 1:,0, S1M1: ,43.02,S1M2: ,65.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:08:09,11,Received packet ''
+2025-07-12 14:08:12,12,Received packet 'Sender 1:,0, S1M1: ,43.02,S1M2: ,65.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:08:16,13,Received packet ''
+2025-07-12 14:08:20,14,Received packet 'Sender 1:,0, S1M1: ,43.02,S1M2: ,65.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:08:21,15,Received packet ''
+2025-07-12 14:08:24,16,Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,62.99,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:10:03,17,Received packet ''
+2025-07-12 14:10:07,18,Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,62.99,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:10:07,19,Received packet ''
+2025-07-12 14:10:11,20,Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,62.99,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:10:15,21,Received packet ''
+2025-07-12 14:10:19,22,Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,62.99,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:10:22,23,Received packet ''
+2025-07-12 14:10:25,24,Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,62.99,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:10:26,25,Received packet ''
+2025-07-12 14:10:29,26,Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,62.99,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:10:34,27,Received packet ''
+2025-07-12 14:10:37,28,Received packet 'Sender 1:,0, S1M1: ,62.02,S1M2: ,62.99,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:10:38,29,Received packet ''
+2025-07-12 14:10:42,30,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.34,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:12:19,31,Received packet ''
+2025-07-12 14:12:22,32,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.34,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:12:26,33,Received packet ''
+2025-07-12 14:12:29,34,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.34,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:12:32,35,Received packet ''
+2025-07-12 14:12:36,36,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.34,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:12:41,37,Received packet ''
+2025-07-12 14:12:44,38,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.34,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:12:45,39,Received packet ''
+2025-07-12 14:12:48,40,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.99,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:14:25,41,Received packet ''
+2025-07-12 14:14:29,42,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.99,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:14:29,43,Received packet ''
+2025-07-12 14:14:33,44,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.99,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:14:37,45,Received packet ''
+2025-07-12 14:14:40,46,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.99,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:14:43,47,Received packet ''
+2025-07-12 14:14:47,48,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.99,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:14:51,49,Received packet ''
+2025-07-12 14:14:54,50,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,62.99,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:14:57,51,Received packet ''
+2025-07-12 14:15:01,52,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.64,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:16:39,53,Received packet ''
+2025-07-12 14:16:43,54,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.64,S1T1: ,30.00,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:16:46,55,Received packet ''
+2025-07-12 14:16:49,56,Received packet 'Sender 1:,0, S1M1: ,61.70,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:18:26,57,Received packet ''
+2025-07-12 14:18:30,58,Received packet 'Sender 1:,0, S1M1: ,61.70,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:18:30,59,Received packet ''
+2025-07-12 14:18:33,60,Received packet 'Sender 1:,0, S1M1: ,61.70,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:18:34,61,Received packet ''
+2025-07-12 14:18:37,62,Received packet 'Sender 1:,0, S1M1: ,61.70,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:18:44,63,Received packet ''
+2025-07-12 14:18:47,64,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:20:24,65,Received packet ''
+2025-07-12 14:20:28,66,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:20:31,67,Received packet ''
+2025-07-12 14:20:34,68,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:22:11,69,Received packet ''
+2025-07-12 14:22:15,70,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:22:20,71,Received packet ''
+2025-07-12 14:22:24,72,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:22:26,73,Received packet ''
+2025-07-12 14:22:30,74,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:22:30,75,Received packet ''
+2025-07-12 14:22:34,76,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:22:36,77,Received packet ''
+2025-07-12 14:22:40,78,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:22:40,79,Received packet ''
+2025-07-12 14:22:44,80,Received packet 'Sender 2:,0, S2M1: ,62.02,S2M2: ,50.36,S2T1: ,-127.00,S2T2: ,31.38,DepthOfRain: ,0.00'
+2025-07-12 14:22:44,81,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,63.31,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:22:45,82,Received packet ''
+2025-07-12 14:22:48,83,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:24:40,84,Received packet ''
+2025-07-12 14:24:43,85,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:24:47,86,Received packet ''
+2025-07-12 14:24:50,87,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:24:59,88,Received packet ''
+2025-07-12 14:25:02,89,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:26:44,90,Received packet ''
+2025-07-12 14:26:48,91,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:26:48,92,Received packet ''
+2025-07-12 14:26:51,93,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:26:56,94,Received packet ''
+2025-07-12 14:26:59,95,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:27:03,96,Received packet ''
+2025-07-12 14:27:07,97,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:27:08,98,Received packet ''
+2025-07-12 14:27:11,99,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:27:12,100,Received packet ''
+2025-07-12 14:27:16,101,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:27:17,102,Received packet ''
+2025-07-12 14:27:20,103,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:29:08,104,Received packet ''
+2025-07-12 14:29:11,105,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:29:19,106,Received packet ''
+2025-07-12 14:29:22,107,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:29:24,108,Received packet ''
+2025-07-12 14:29:28,109,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:29:32,110,Received packet ''
+2025-07-12 14:29:36,111,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:31:14,112,Received packet ''
+2025-07-12 14:31:18,113,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:31:24,114,Received packet ''
+2025-07-12 14:31:27,115,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:31:31,116,Received packet ''
+2025-07-12 14:31:34,117,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:31:37,118,Received packet ''
+2025-07-12 14:31:41,119,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:33:18,120,Received packet ''
+2025-07-12 14:33:21,121,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:33:22,122,Received packet ''
+2025-07-12 14:33:25,123,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:33:26,124,Received packet ''
+2025-07-12 14:33:30,125,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:35:06,126,Received packet ''
+2025-07-12 14:35:10,127,Received packet 'Sender 1:,0, S1M1: ,61.70,S1M2: ,64.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:36:47,128,Received packet ''
+2025-07-12 14:36:50,129,Received packet 'Sender 1:,0, S1M1: ,61.70,S1M2: ,64.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:36:51,130,Received packet ''
+2025-07-12 14:36:54,131,Received packet 'Sender 2:,0, S2M1: ,61.07,S2M2: ,50.36,S2T1: ,-127.00,S2T2: ,31.38,DepthOfRain: ,0.00'
+2025-07-12 14:37:31,132,Received packet ''
+2025-07-12 14:37:34,133,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:38:31,134,Received packet ''
+2025-07-12 14:38:34,135,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:38:35,136,Received packet ''
+2025-07-12 14:38:38,137,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:38:42,138,Received packet ''
+2025-07-12 14:38:45,139,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:38:46,140,Received packet ''
+2025-07-12 14:38:49,141,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,63.97,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:38:53,142,Received packet ''
+2025-07-12 14:38:56,143,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.63,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:40:33,144,Received packet ''
+2025-07-12 14:40:37,145,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:42:13,146,Received packet ''
+2025-07-12 14:42:17,147,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:42:31,148,Received packet ''
+2025-07-12 14:42:34,149,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:44:28,150,Received packet ''
+2025-07-12 14:44:32,151,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.30,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 14:44:35,152,Received packet ''
+2025-07-12 14:44:38,153,Received packet 'Sender 2:,0, S2M1: ,61.07,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,31.44,DepthOfRain: ,0.25'
+2025-07-12 14:52:09,154,Received packet ''
+2025-07-12 14:52:13,155,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:02:16,156,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.96,S1T1: ,30.06,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:02:21,157,Received packet 'Sender 2:,0, S2M1: ,62.99,S2M2: ,50.89,S2T1: ,-127.00,S2T2: ,31.56,DepthOfRain: ,0.25'
+2025-07-12 15:06:49,158,Received packet ''
+2025-07-12 15:06:52,159,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:08:48,160,Received packet ''
+2025-07-12 15:08:52,161,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:08:52,162,Received packet ''
+2025-07-12 15:08:56,163,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:08:56,164,Received packet ''
+2025-07-12 15:09:00,165,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:09:03,166,Received packet ''
+2025-07-12 15:09:06,167,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:11:04,168,Received packet ''
+2025-07-12 15:11:07,169,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:11:08,170,Received packet ''
+2025-07-12 15:11:11,171,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:11:26,172,Received packet ''
+2025-07-12 15:11:30,173,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:11:31,174,Received packet ''
+2025-07-12 15:11:34,175,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:11:37,176,Received packet ''
+2025-07-12 15:11:41,177,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,63.97,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:13:20,178,Received packet ''
+2025-07-12 15:13:23,179,Received packet 'Sender 2:,0, S2M1: ,61.38,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,31.50,DepthOfRain: ,0.00'
+2025-07-12 15:21:36,180,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:24:37,181,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:24:42,182,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:24:45,183,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:25:12,184,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:27:01,185,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:27:09,186,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:27:15,187,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:27:20,188,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:27:24,189,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:27:28,190,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:11,191,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:14,192,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:18,193,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:21,194,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:25,195,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:33,196,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:36,197,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:40,198,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:29:43,199,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:31:24,200,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:31:27,201,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:31:32,202,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:31:35,203,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.96,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:33:16,204,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.96,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:33:19,205,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.96,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:33:23,206,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.96,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:33:26,207,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.96,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:33:31,208,Received packet 'Sender 1:,0, S1M1: ,59.82,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:35:11,209,Received packet 'Sender 1:,0, S1M1: ,59.82,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:35:15,210,Received packet 'Sender 2:,0, S2M1: ,60.13,S2M2: ,50.09,S2T1: ,-127.00,S2T2: ,31.63,DepthOfRain: ,0.00'
+2025-07-12 15:36:25,211,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:36:56,212,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:37:00,213,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:37:04,214,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:38:45,215,Received packet 'Sender 1:,0, S1M1: ,59.82,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:40:28,216,Received packet 'Sender 1:,0, S1M1: ,59.82,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:40:31,217,Received packet 'Sender 1:,0, S1M1: ,59.82,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:40:36,218,Received packet 'Sender 1:,0, S1M1: ,59.82,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:40:39,219,Received packet 'Sender 1:,0, S1M1: ,59.82,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:40:42,220,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:42:27,221,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:42:34,222,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:42:37,223,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:42:41,224,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:42:44,225,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:42:49,226,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,65.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:42:52,227,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:44:38,228,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:44:42,229,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:44:46,230,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:44:49,231,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:44:52,232,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:44:57,233,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:45:02,234,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:45:04,235,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:45:09,236,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:45:12,237,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.63,S1T1: ,30.19,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:46:55,238,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.63,S1T1: ,30.19,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:46:59,239,Received packet 'Sender 1:,0, S1M1: ,61.38,S1M2: ,65.63,S1T1: ,30.19,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:47:03,240,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:48:43,241,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:48:47,242,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:49:00,243,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:49:04,244,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:49:08,245,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:49:14,246,Received packet 'Sender 1:,0, S1M1: ,61.07,S1M2: ,64.63,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:49:18,247,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:51:01,248,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,64.30,S1T1: ,30.13,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:51:04,249,Received packet 'Sender 2:,0, S2M1: ,60.75,S2M2: ,49.83,S2T1: ,-127.00,S2T2: ,31.63,DepthOfRain: ,0.00'
+2025-07-12 15:51:14,250,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,64.63,S1T1: ,30.19,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:52:45,251,Received packet 'Sender 1:,0, S1M1: ,60.44,S1M2: ,64.63,S1T1: ,30.19,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:52:48,252,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.96,S1T1: ,30.19,S1T2: ,-127.00,DepthOfRain: ,0.00'
+2025-07-12 15:54:29,253,Received packet 'Sender 1:,0, S1M1: ,60.75,S1M2: ,64.96,S1T1: ,30.19,S1T2: ,-127.00,DepthOfRain: ,0.25'
+2025-07-12 15:56:09,254,Received packet 'Sender 1:,0, S1M1: ,60.13,S1M2: ,64.30,S1T1: ,30.19,S1T2: ,-127.00,DepthOfRain: ,0.00'
