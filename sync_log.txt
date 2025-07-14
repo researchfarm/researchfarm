@@ -69921,3 +69921,52 @@ To github.com:researchfarm/researchfarm.git
 ? File copied to repository successfully.
 ? Changes committed successfully.
 ? Changes pushed to GitHub successfully.
+[main 74c5341a] Automated update from local source
+ 1 file changed, 7 insertions(+)
+To github.com:researchfarm/researchfarm.git
+   ed693257..74c5341a  main -> main
+? File copied to repository successfully.
+? Changes committed successfully.
+? Changes pushed to GitHub successfully.
+Traceback (most recent call last):
+  File "/home/pi/researchfarm/upload.py", line 11, in <module>
+    shutil.copyfile(LOCAL_FILE, REPO_FILE)
+  File "/usr/lib/python3.11/shutil.py", line 256, in copyfile
+    with open(src, 'rb') as fsrc:
+         ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/media/pi/9E8E534B8E531B5B1/data/DATA_VIS.txt'
+Traceback (most recent call last):
+  File "/home/pi/researchfarm/upload.py", line 11, in <module>
+    shutil.copyfile(LOCAL_FILE, REPO_FILE)
+  File "/usr/lib/python3.11/shutil.py", line 256, in copyfile
+    with open(src, 'rb') as fsrc:
+         ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/media/pi/9E8E534B8E531B5B1/data/DATA_VIS.txt'
+Traceback (most recent call last):
+  File "/home/pi/researchfarm/upload.py", line 11, in <module>
+    shutil.copyfile(LOCAL_FILE, REPO_FILE)
+  File "/usr/lib/python3.11/shutil.py", line 256, in copyfile
+    with open(src, 'rb') as fsrc:
+         ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/media/pi/9E8E534B8E531B5B1/data/DATA_VIS.txt'
+Traceback (most recent call last):
+  File "/home/pi/researchfarm/upload.py", line 11, in <module>
+    shutil.copyfile(LOCAL_FILE, REPO_FILE)
+  File "/usr/lib/python3.11/shutil.py", line 256, in copyfile
+    with open(src, 'rb') as fsrc:
+         ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/media/pi/9E8E534B8E531B5B1/data/DATA_VIS.txt'
+Traceback (most recent call last):
+  File "/home/pi/researchfarm/upload.py", line 11, in <module>
+    shutil.copyfile(LOCAL_FILE, REPO_FILE)
+  File "/usr/lib/python3.11/shutil.py", line 256, in copyfile
+    with open(src, 'rb') as fsrc:
+         ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/media/pi/9E8E534B8E531B5B1/data/DATA_VIS.txt'
+Traceback (most recent call last):
+  File "/home/pi/researchfarm/upload.py", line 11, in <module>
+    shutil.copyfile(LOCAL_FILE, REPO_FILE)
+  File "/usr/lib/python3.11/shutil.py", line 256, in copyfile
+    with open(src, 'rb') as fsrc:
+         ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/media/pi/9E8E534B8E531B5B1/data/DATA_VIS.txt'
