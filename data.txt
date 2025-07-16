@@ -5010,3 +5010,4 @@
 2025-07-17 02:13:29,180,Received packet 'Sender 2:,0, S2M1: ,51.42,S2M2: ,45.10,S2T1: ,30.31,S2T2: ,30.25,DepthOfRain: ,0.00'
 2025-07-17 02:18:08,181,Received packet 'Sender 1:,0, S1M1: ,45.82,S1M2: ,54.47,S1T1: ,30.00,S1T2: ,29.94,DepthOfRain: ,0.00'
 2025-07-17 02:28:10,182,Received packet 'Sender 2:,0, S2M1: ,51.42,S2M2: ,44.16,S2T1: ,30.25,S2T2: ,30.31,DepthOfRain: ,0.00'
+2025-07-17 02:33:16,183,Received packet 'Sender 1:,0, S1M1: ,46.06,S1M2: ,56.20,S1T1: ,30.00,S1T2: ,29.94,DepthOfRain: ,0.00'
