@@ -5028,3 +5028,5 @@
 2025-07-17 04:04:12,198,Received packet ''
 2025-07-17 04:10:59,199,Received packet 'Sender 2:,0, S2M1: ,51.42,S2M2: ,43.70,S2T1: ,30.13,S2T2: ,30.13,DepthOfRain: ,0.00'
 2025-07-17 04:11:02,200,Received packet ''
+2025-07-17 04:25:40,201,Received packet 'Sender 2:,0, S2M1: ,50.89,S2M2: ,42.57,S2T1: ,30.19,S2T2: ,30.13,DepthOfRain: ,0.00'
+2025-07-17 04:25:43,202,Received packet ''
