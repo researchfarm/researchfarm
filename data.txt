@@ -4864,3 +4864,4 @@
 2025-07-16 15:24:16,34,Received packet 'Sender 2:,0, S2M1: ,50.89,S2M2: ,47.53,S2T1: ,30.00,S2T2: ,30.63,DepthOfRain: ,0.00'
 2025-07-16 15:28:04,35,Received packet 'Sender 1:,0, S1M1: ,7.44,S1M2: ,49.83,S1T1: ,29.69,S1T2: ,30.19,DepthOfRain: ,0.00'
 2025-07-16 15:28:07,36,Received packet ''
+2025-07-16 15:39:56,37,Received packet 'Sender 2:,0, S2M1: ,51.97,S2M2: ,46.54,S2T1: ,30.00,S2T2: ,30.63,DepthOfRain: ,0.00'
