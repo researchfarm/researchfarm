@@ -5030,3 +5030,5 @@
 2025-07-17 04:11:02,200,Received packet ''
 2025-07-17 04:25:40,201,Received packet 'Sender 2:,0, S2M1: ,50.89,S2M2: ,42.57,S2T1: ,30.19,S2T2: ,30.13,DepthOfRain: ,0.00'
 2025-07-17 04:25:43,202,Received packet ''
+2025-07-17 04:34:27,203,Received packet 'Sender 1:,0, S1M1: ,44.39,S1M2: ,53.06,S1T1: ,29.94,S1T2: ,29.75,DepthOfRain: ,0.00'
+2025-07-17 04:34:30,204,Received packet ''
