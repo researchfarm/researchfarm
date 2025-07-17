@@ -5422,3 +5422,5 @@
 2025-07-18 01:13:24,164,Received packet ''
 2025-07-18 01:20:45,165,Received packet 'Sender 1:,0, S1M1: ,45.58,S1M2: ,56.20,S1T1: ,30.69,S1T2: ,31.19,DepthOfRain: ,0.00'
 2025-07-18 01:20:49,166,Received packet ''
+2025-07-18 01:35:54,167,Received packet 'Sender 1:,0, S1M1: ,45.34,S1M2: ,56.49,S1T1: ,30.69,S1T2: ,31.13,DepthOfRain: ,0.00'
+2025-07-18 01:35:58,168,Received packet ''
