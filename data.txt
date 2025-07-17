@@ -5303,3 +5303,5 @@
 2025-07-17 17:20:05,45,Received packet ''
 2025-07-17 17:24:16,46,Received packet 'Sender 1:,0, S1M1: ,45.34,S1M2: ,55.91,S1T1: ,30.13,S1T2: ,31.50,DepthOfRain: ,0.00'
 2025-07-17 17:24:19,47,Received packet ''
+2025-07-17 17:34:46,48,Received packet 'Sender 2:,0, S2M1: ,51.97,S2M2: ,41.90,S2T1: ,30.69,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-07-17 17:34:49,49,Received packet ''
