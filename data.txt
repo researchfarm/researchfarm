@@ -5251,3 +5251,7 @@
 2025-07-17 12:47:43,160,Received packet ''
 2025-07-17 12:47:44,161,Received packet 'Sender 2:,0, S2M1: ,50.36,S2M2: ,39.55,S2T1: ,30.00,S2T2: ,30.63,DepthOfRain: ,0.00'
 2025-07-17 12:47:47,162,Received packet ''
+2025-07-17 13:02:35,163,Received packet 'Sender 2:,0, S2M1: ,51.97,S2M2: ,37.73,S2T1: ,30.06,S2T2: ,30.69,DepthOfRain: ,0.00'
+2025-07-17 13:02:38,164,Received packet ''
+2025-07-17 13:02:42,165,Received packet 'Sender 2:,0, S2M1: ,52.79,S2M2: ,40.81,S2T1: ,30.00,S2T2: ,30.69,DepthOfRain: ,0.00'
+2025-07-17 13:02:45,166,Received packet ''
