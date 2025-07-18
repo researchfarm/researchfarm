@@ -6143,3 +6143,4 @@
 2025-07-19 01:36:37,885,Received packet 'Sender 1:,0, S1M1: ,43.02,S1M2: ,53.34,S1T1: ,31.25,S1T2: ,31.69,DepthOfRain: ,0.00'
 2025-07-19 01:51:50,886,Received packet 'Sender 1:,0, S1M1: ,43.47,S1M2: ,53.06,S1T1: ,31.25,S1T2: ,31.69,DepthOfRain: ,0.00'
 2025-07-19 02:06:59,887,Received packet 'Sender 1:,0, S1M1: ,43.24,S1M2: ,53.62,S1T1: ,31.25,S1T2: ,31.69,DepthOfRain: ,0.00'
+2025-07-19 02:22:08,888,Received packet 'Sender 1:,0, S1M1: ,43.93,S1M2: ,53.06,S1T1: ,31.25,S1T2: ,31.63,DepthOfRain: ,0.00'
