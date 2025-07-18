@@ -5510,3 +5510,4 @@
 2025-07-18 07:39:39,252,Received packet 'Sender 1:,0, S1M1: ,46.79,S1M2: ,62.02,S1T1: ,30.56,S1T2: ,30.44,DepthOfRain: ,0.00'
 2025-07-18 07:50:05,253,Received packet 'Sender 2:,0, S2M1: ,52.24,S2M2: ,41.25,S2T1: ,30.75,S2T2: ,30.69,DepthOfRain: ,0.00'
 2025-07-18 07:54:50,254,Received packet 'Sender 1:,0, S1M1: ,43.70,S1M2: ,57.38,S1T1: ,30.56,S1T2: ,30.38,DepthOfRain: ,0.00'
+2025-07-18 08:04:48,255,Received packet 'Sender 2:,0, S2M1: ,52.24,S2M2: ,42.34,S2T1: ,30.75,S2T2: ,30.63,DepthOfRain: ,0.00'
