@@ -5664,3 +5664,4 @@
 2025-07-18 14:17:13,406,Received packet 'Sender 2:,0, S2M1: ,51.42,S2M2: ,41.25,S2T1: ,30.69,S2T2: ,31.63,DepthOfRain: ,0.00'
 2025-07-18 14:24:51,407,Received packet 'Sender 1:,0, S1M1: ,47.53,S1M2: ,55.33,S1T1: ,30.38,S1T2: ,31.25,DepthOfRain: ,0.00'
 2025-07-18 14:24:56,408,Received packet 'Sender 1:,0, S1M1: ,47.53,S1M2: ,55.33,S1T1: ,30.38,S1T2: ,31.25,DepthOfRain: ,0.00'
+2025-07-18 14:32:03,409,Received packet 'Sender 2:,0, S2M1: ,51.97,S2M2: ,41.68,S2T1: ,30.75,S2T2: ,31.75,DepthOfRain: ,0.00'
