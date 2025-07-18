@@ -5720,3 +5720,7 @@
 2025-07-18 16:44:41,462,Received packet ''
 2025-07-18 16:46:14,463,Received packet 'Sender 2:,0, S2M1: ,51.16,S2M2: ,39.97,S2T1: ,31.00,S2T2: ,32.44,DepthOfRain: ,0.00'
 2025-07-18 16:46:17,464,Received packet ''
+2025-07-18 16:59:53,465,Received packet 'Sender 1:,0, S1M1: ,43.93,S1M2: ,56.20,S1T1: ,30.63,S1T2: ,32.06,DepthOfRain: ,0.00'
+2025-07-18 16:59:57,466,Received packet ''
+2025-07-18 16:59:58,467,Received packet 'Sender 1:,0, S1M1: ,43.93,S1M2: ,56.20,S1T1: ,30.63,S1T2: ,32.06,DepthOfRain: ,0.00'
+2025-07-18 17:00:01,468,Received packet ''
