@@ -6133,3 +6133,5 @@
 2025-07-19 00:18:25,875,Received packet ''
 2025-07-19 00:20:51,876,Received packet 'Sender 1:,0, S1M1: ,48.54,S1M2: ,55.04,S1T1: ,31.19,S1T2: ,31.88,DepthOfRain: ,0.00'
 2025-07-19 00:20:55,877,Received packet ''
+2025-07-19 00:36:00,878,Received packet 'Sender 1:,0, S1M1: ,44.63,S1M2: ,53.90,S1T1: ,31.25,S1T2: ,31.81,DepthOfRain: ,0.00'
+2025-07-19 00:36:04,879,Received packet ''
