@@ -6007,3 +6007,7 @@
 2025-07-18 21:18:52,749,Received packet ''
 2025-07-18 21:18:54,750,Received packet 'Sender 1:,0, S1M1: ,49.05,S1M2: ,51.42,S1T1: ,31.13,S1T2: ,32.25,DepthOfRain: ,0.00'
 2025-07-18 21:18:57,751,Received packet ''
+2025-07-18 21:33:29,752,Received packet 'Sender 2:,0, S2M1: ,51.97,S2M2: ,41.25,S2T1: ,31.50,S2T2: ,32.38,DepthOfRain: ,0.00'
+2025-07-18 21:33:32,753,Received packet ''
+2025-07-18 21:34:03,754,Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,51.16,S1T1: ,31.13,S1T2: ,32.19,DepthOfRain: ,0.00'
+2025-07-18 21:34:07,755,Received packet ''
