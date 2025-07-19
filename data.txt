@@ -6525,3 +6525,5 @@
 2025-07-20 01:10:26,176,Received packet ''
 2025-07-20 01:25:04,177,Received packet 'Sender 2:,0, S2M1: ,48.80,S2M2: ,40.39,S2T1: ,31.88,S2T2: ,32.13,DepthOfRain: ,0.00'
 2025-07-20 01:25:07,178,Received packet ''
+2025-07-20 01:39:45,179,Received packet 'Sender 2:,0, S2M1: ,49.05,S2M2: ,39.55,S2T1: ,31.88,S2T2: ,32.13,DepthOfRain: ,0.00'
+2025-07-20 01:39:48,180,Received packet ''
