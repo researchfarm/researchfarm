@@ -6483,3 +6483,5 @@
 2025-07-19 21:29:57,134,Received packet 'Sender 2:,0, S2M1: ,51.16,S2M2: ,41.25,S2T1: ,31.94,S2T2: ,32.69,DepthOfRain: ,0.00'
 2025-07-19 21:37:56,135,Received packet 'Sender 1:,0, S1M1: ,42.12,S1M2: ,50.62,S1T1: ,31.56,S1T2: ,32.50,DepthOfRain: ,0.00'
 2025-07-19 21:37:59,136,Received packet ''
+2025-07-19 21:44:38,137,Received packet 'Sender 2:,0, S2M1: ,50.36,S2M2: ,41.03,S2T1: ,31.94,S2T2: ,32.69,DepthOfRain: ,0.00'
+2025-07-19 21:44:41,138,Received packet ''
