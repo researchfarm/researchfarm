@@ -6489,3 +6489,5 @@
 2025-07-19 21:53:08,140,Received packet ''
 2025-07-19 22:08:14,141,Received packet 'Sender 1:,0, S1M1: ,42.57,S1M2: ,51.16,S1T1: ,31.56,S1T2: ,32.38,DepthOfRain: ,0.00'
 2025-07-19 22:08:18,142,Received packet ''
+2025-07-19 22:14:01,143,Received packet 'Sender 2:,0, S2M1: ,50.89,S2M2: ,40.60,S2T1: ,32.00,S2T2: ,32.56,DepthOfRain: ,0.00'
+2025-07-19 22:14:04,144,Received packet ''
