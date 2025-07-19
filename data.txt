@@ -6440,3 +6440,7 @@
 2025-07-19 17:20:04,91,Received packet ''
 2025-07-19 17:20:05,92,Received packet 'Sender 1:,0, S1M1: ,41.90,S1M2: ,50.62,S1T1: ,31.19,S1T2: ,32.63,DepthOfRain: ,0.00'
 2025-07-19 17:20:09,93,Received packet ''
+2025-07-19 17:34:44,94,Received packet 'Sender 2:,0, S2M1: ,51.42,S2M2: ,41.03,S2T1: ,31.75,S2T2: ,33.00,DepthOfRain: ,0.00'
+2025-07-19 17:34:47,95,Received packet ''
+2025-07-19 17:35:16,96,Received packet 'Sender 1:,0, S1M1: ,41.68,S1M2: ,50.36,S1T1: ,31.19,S1T2: ,32.69,DepthOfRain: ,0.00'
+2025-07-19 17:35:20,97,Received packet ''
