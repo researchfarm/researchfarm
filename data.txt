@@ -6168,3 +6168,4 @@
 2025-07-19 06:57:41,910,Received packet 'Sender 1:,0, S1M1: ,44.63,S1M2: ,51.69,S1T1: ,31.06,S1T2: ,31.13,DepthOfRain: ,0.00'
 2025-07-19 07:12:52,911,Received packet 'Sender 1:,0, S1M1: ,52.24,S1M2: ,57.68,S1T1: ,31.06,S1T2: ,31.00,DepthOfRain: ,0.00'
 2025-07-19 07:28:04,912,Received packet 'Sender 1:,0, S1M1: ,51.97,S1M2: ,55.04,S1T1: ,31.06,S1T2: ,31.06,DepthOfRain: ,0.00'
+2025-07-19 07:43:17,913,Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,53.06,S1T1: ,31.00,S1T2: ,31.00,DepthOfRain: ,0.00'
