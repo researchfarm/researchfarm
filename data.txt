@@ -6160,3 +6160,5 @@
 2025-07-19 05:54:16,902,Received packet 'Sender 1:,0, S1M1: ,45.10,S1M2: ,52.51,S1T1: ,31.13,S1T2: ,31.19,DepthOfRain: ,0.00'
 2025-07-19 06:09:25,903,Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,53.90,S1T1: ,31.13,S1T2: ,31.19,DepthOfRain: ,0.00'
 2025-07-19 06:17:00,904,Received packet 'Sender 1:,0, S1M1: ,36.57,S1M2: ,52.24,S1T1: ,31.13,S1T2: ,31.13,DepthOfRain: ,0.00'
+2025-07-19 06:27:16,905,Received packet 'Sender 1:,0, S1M1: ,44.39,S1M2: ,51.97,S1T1: ,31.13,S1T2: ,31.13,DepthOfRain: ,0.00'
+2025-07-19 06:27:19,906,Received packet ''
