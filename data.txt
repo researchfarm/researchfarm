@@ -6507,3 +6507,5 @@
 2025-07-19 22:58:14,158,Received packet ''
 2025-07-19 23:12:52,159,Received packet 'Sender 2:,0, S2M1: ,49.83,S2M2: ,39.55,S2T1: ,32.00,S2T2: ,32.44,DepthOfRain: ,0.00'
 2025-07-19 23:12:55,160,Received packet ''
+2025-07-19 23:27:33,161,Received packet 'Sender 2:,0, S2M1: ,49.57,S2M2: ,40.39,S2T1: ,31.94,S2T2: ,32.44,DepthOfRain: ,0.00'
+2025-07-19 23:27:36,162,Received packet ''
