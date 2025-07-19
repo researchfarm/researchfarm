@@ -6454,3 +6454,5 @@
 2025-07-19 18:05:40,105,Received packet ''
 2025-07-19 18:18:52,106,Received packet 'Sender 2:,0, S2M1: ,51.97,S2M2: ,42.34,S2T1: ,31.75,S2T2: ,33.00,DepthOfRain: ,0.00'
 2025-07-19 18:18:56,107,Received packet ''
+2025-07-19 18:20:47,108,Received packet 'Sender 1:,0, S1M1: ,42.79,S1M2: ,51.69,S1T1: ,31.31,S1T2: ,32.75,DepthOfRain: ,0.00'
+2025-07-19 18:20:50,109,Received packet ''
