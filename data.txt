@@ -6543,3 +6543,5 @@
 2025-07-20 07:45:03,194,Received packet ''
 2025-07-20 07:45:44,195,Received packet 'Sender 1:,0, S1M1: ,42.12,S1M2: ,50.89,S1T1: ,31.25,S1T2: ,31.00,DepthOfRain: ,0.00'
 2025-07-20 07:45:47,196,Received packet ''
+2025-07-20 07:59:47,197,Received packet 'Sender 2:,0, S2M1: ,51.42,S2M2: ,41.90,S2T1: ,31.38,S2T2: ,31.25,DepthOfRain: ,0.00'
+2025-07-20 07:59:51,198,Received packet ''
