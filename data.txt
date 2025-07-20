@@ -6779,3 +6779,6 @@
 2025-07-20 15:04:54,430,Received packet ''
 2025-07-20 15:04:56,431,Received packet 'Sender 1:,0, S1M1: ,84.04,S1M2: ,106.06,S1T1: ,31.00,S1T2: ,31.31,DepthOfRain: ,0.25'
 2025-07-20 15:04:59,432,Received packet ''
+2025-07-20 15:19:26,433,Received packet 'Sender 2:,0, S2M1: ,53.62,S2M2: ,51.16,S2T1: ,30.38,S2T2: ,30.81,DepthOfRain: ,0.51'
+2025-07-20 15:19:29,434,Received packet ''
+2025-07-20 15:20:01,435,Received packet 'Sender 1:,0, S1M1: ,88.29,S1M2: ,96.84,S1T1: ,31.00,S1T2: ,31.31,DepthOfRain: ,0.00'
