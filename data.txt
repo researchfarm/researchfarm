@@ -6573,3 +6573,4 @@
 2025-07-20 09:47:48,224,Received packet 'Sender 1:,0, S1M1: ,43.93,S1M2: ,53.62,S1T1: ,31.13,S1T2: ,30.88,DepthOfRain: ,0.00'
 2025-07-20 10:00:38,225,Received packet 'Sender 2:,0, S2M1: ,50.36,S2M2: ,41.90,S2T1: ,31.25,S2T2: ,31.31,DepthOfRain: ,0.00'
 2025-07-20 10:03:04,226,Received packet 'Sender 1:,0, S1M1: ,42.79,S1M2: ,51.97,S1T1: ,31.06,S1T2: ,30.88,DepthOfRain: ,0.00'
+2025-07-20 10:18:17,227,Received packet 'Sender 1:,0, S1M1: ,42.79,S1M2: ,50.36,S1T1: ,31.06,S1T2: ,30.94,DepthOfRain: ,0.25'
