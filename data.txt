@@ -6808,3 +6808,6 @@
 2025-07-20 16:02:09,459,Received packet 'Sender 1:,0, S1M1: ,39.76,S1M2: ,53.06,S1T1: ,31.06,S1T2: ,31.38,DepthOfRain: ,0.00'
 2025-07-20 16:03:04,460,Received packet 'Sender 2:,0, S2M1: ,55.33,S2M2: ,56.49,S2T1: ,30.44,S2T2: ,30.75,DepthOfRain: ,0.00'
 2025-07-20 16:03:05,461,Received packet 'Sender 1:,0, S1M1: ,71.22,S1M2: ,103.57,S1T1: ,31.06,S1T2: ,31.44,DepthOfRain: ,0.00'
+2025-07-20 16:17:42,462,Received packet 'Sender 2:,0, S2M1: ,53.34,S2M2: ,54.47,S2T1: ,30.50,S2T2: ,30.81,DepthOfRain: ,0.51'
+2025-07-20 16:18:15,463,Received packet 'Sender 1:,0, S1M1: ,45.10,S1M2: ,51.97,S1T1: ,31.06,S1T2: ,31.44,DepthOfRain: ,0.00'
+2025-07-20 16:18:20,464,Received packet 'Sender 1:,0, S1M1: ,29.78,S1M2: ,51.16,S1T1: ,31.00,S1T2: ,31.38,DepthOfRain: ,0.00'
