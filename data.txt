@@ -6884,3 +6884,5 @@
 2025-07-21 14:22:52,535,Received packet ''
 2025-07-21 14:22:59,536,Received packet 'Sender 1:,0, S1M1: ,44.63,S1M2: ,51.16,S1T1: ,30.50,S1T2: ,31.19,DepthOfRain: ,0.00'
 2025-07-21 14:23:02,537,Received packet ''
+2025-07-21 14:37:11,538,Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,51.16,S2T1: ,30.75,S2T2: ,31.75,DepthOfRain: ,0.00'
+2025-07-21 14:38:16,539,Received packet 'Sender 1:,0, S1M1: ,43.70,S1M2: ,52.79,S1T1: ,30.50,S1T2: ,31.25,DepthOfRain: ,0.00'
