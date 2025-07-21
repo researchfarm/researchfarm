@@ -7455,3 +7455,4 @@
 2025-07-21 23:35:21,562,Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,55.62,S1T1: ,31.19,S1T2: ,31.69,DepthOfRain: ,0.00'
 2025-07-21 23:35:30,563,Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,55.62,S1T1: ,31.19,S1T2: ,31.69,DepthOfRain: ,0.00'
 2025-07-21 23:35:45,564,Received packet 'Sender 1:,0, S1M1: ,32.64,S1M2: ,54.75,S1T1: ,31.25,S1T2: ,31.63,DepthOfRain: ,0.00'
+2025-07-21 23:43:01,565,Received packet 'Sender 2:,0, S2M1: ,58.59,S2M2: ,53.90,S2T1: ,31.56,S2T2: ,31.75,DepthOfRain: ,0.25'
