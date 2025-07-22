@@ -7528,3 +7528,4 @@
 2025-07-22 21:54:45,635,Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,53.34,S2T1: ,31.94,S2T2: ,32.69,DepthOfRain: ,0.00'
 2025-07-22 21:56:41,636,Received packet 'Sender 1:,0, S1M1: ,64.96,S1M2: ,58.59,S1T1: ,31.50,S1T2: ,32.50,DepthOfRain: ,0.00'
 2025-07-22 22:09:26,637,Received packet 'Sender 2:,0, S2M1: ,54.47,S2M2: ,53.06,S2T1: ,31.94,S2T2: ,32.69,DepthOfRain: ,0.00'
+2025-07-22 22:11:51,638,Received packet 'Sender 1:,0, S1M1: ,64.96,S1M2: ,58.28,S1T1: ,31.50,S1T2: ,32.38,DepthOfRain: ,0.00'
