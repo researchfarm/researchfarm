@@ -7532,3 +7532,4 @@
 2025-07-22 22:24:07,639,Received packet 'Sender 2:,0, S2M1: ,54.75,S2M2: ,53.90,S2T1: ,31.94,S2T2: ,32.63,DepthOfRain: ,0.00'
 2025-07-22 22:27:00,640,Received packet 'Sender 1:,0, S1M1: ,65.97,S1M2: ,59.20,S1T1: ,31.50,S1T2: ,32.44,DepthOfRain: ,0.00'
 2025-07-22 22:38:49,641,Received packet 'Sender 2:,0, S2M1: ,54.19,S2M2: ,53.90,S2T1: ,32.00,S2T2: ,32.69,DepthOfRain: ,0.00'
+2025-07-22 22:42:09,642,Received packet 'Sender 1:,0, S1M1: ,64.63,S1M2: ,59.51,S1T1: ,31.50,S1T2: ,32.38,DepthOfRain: ,0.00'
