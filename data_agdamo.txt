@@ -7813,3 +7813,6 @@
 2025-07-24 04:31:53,920,Received packet 'Sender 2:,0, S2M1: ,209.30,S2M2: ,154.73,S2T1: ,32.44,S2T2: ,32.56,DepthOfRain: ,0.00'
 2025-07-24 04:31:59,921,Received packet 'Sender 2:,0, S2M1: ,210.99,S2M2: ,161.59,S2T1: ,32.44,S2T2: ,32.56,DepthOfRain: ,0.00'
 2025-07-24 04:32:08,922,Received packet 'Sender 2:,0, S2M1: ,202.62,S2M2: ,155.41,S2T1: ,32.44,S2T2: ,32.56,DepthOfRain: ,0.00'
+2025-07-24 05:07:21,923,Received packet 'Sender 2:,0, S2M1: ,121.46,S2M2: ,90.03,S2T1: ,32.31,S2T2: ,32.50,DepthOfRain: ,0.00'
+2025-07-24 05:07:25,924,Received packet 'Sender 2:,0, S2M1: ,116.51,S2M2: ,87.42,S2T1: ,32.38,S2T2: ,32.56,DepthOfRain: ,0.00'
+2025-07-24 05:08:17,925,Received packet 'Sender 2:,0, S2M1: ,207.61,S2M2: ,153.39,S2T1: ,32.38,S2T2: ,32.50,DepthOfRain: ,0.00'
