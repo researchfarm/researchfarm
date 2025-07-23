@@ -7620,3 +7620,4 @@
 2025-07-23 08:55:04,727,Received packet 'Sender 1:,0, S1M1: ,55.04,S1M2: ,55.04,S1T1: ,31.25,S1T2: ,31.06,DepthOfRain: ,0.00'
 2025-07-23 08:55:19,728,Received packet 'Sender 1:,0, S1M1: ,55.04,S1M2: ,55.04,S1T1: ,31.25,S1T2: ,31.06,DepthOfRain: ,0.00'
 2025-07-23 08:55:24,729,Received packet 'Sender 1:,0, S1M1: ,55.04,S1M2: ,55.04,S1T1: ,31.25,S1T2: ,31.06,DepthOfRain: ,0.00'
+2025-07-23 09:08:43,730,Received packet 'Sender 2:,0, S2M1: ,52.79,S2M2: ,43.02,S2T1: ,31.44,S2T2: ,31.44,DepthOfRain: ,0.00'
