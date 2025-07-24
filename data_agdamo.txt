@@ -8343,3 +8343,6 @@
 2025-07-24 22:11:16,214,Received packet 'Sender 2:,0, S2M1: ,51.69,S2M2: ,40.39,S2T1: ,32.00,S2T2: ,32.13,DepthOfRain: ,0.00'
 2025-07-24 22:11:22,215,Received packet 'Sender 2:,0, S2M1: ,51.69,S2M2: ,40.39,S2T1: ,32.00,S2T2: ,32.13,DepthOfRain: ,0.00'
 2025-07-24 22:26:02,216,Received packet 'Sender 2:,0, S2M1: ,52.79,S2M2: ,40.39,S2T1: ,32.00,S2T2: ,32.13,DepthOfRain: ,0.00'
+2025-07-24 22:35:47,217,Received packet 'Sender 1:,0, S1M1: ,47.28,S1M2: ,59.82,S1T1: ,31.81,S1T2: ,31.75,DepthOfRain: ,0.00'
+2025-07-24 22:36:06,218,Received packet 'Sender 1:,0, S1M1: ,47.28,S1M2: ,59.82,S1T1: ,31.81,S1T2: ,31.75,DepthOfRain: ,0.00'
+2025-07-24 22:36:11,219,Received packet 'Sender 1:,0, S1M1: ,47.28,S1M2: ,59.82,S1T1: ,31.81,S1T2: ,31.75,DepthOfRain: ,0.00'
