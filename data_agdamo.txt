@@ -8308,3 +8308,6 @@
 2025-07-24 20:12:09,179,Received packet 'Sender 2:,0, S2M1: ,51.69,S2M2: ,41.03,S2T1: ,32.13,S2T2: ,32.44,DepthOfRain: ,0.00'
 2025-07-24 20:12:14,180,Received packet 'Sender 2:,0, S2M1: ,51.69,S2M2: ,41.03,S2T1: ,32.13,S2T2: ,32.44,DepthOfRain: ,0.00'
 2025-07-24 20:12:18,181,Received packet 'Sender 2:,0, S2M1: ,51.69,S2M2: ,41.03,S2T1: ,32.13,S2T2: ,32.44,DepthOfRain: ,0.00'
+2025-07-24 20:26:59,182,Received packet 'Sender 2:,0, S2M1: ,52.79,S2M2: ,40.18,S2T1: ,32.13,S2T2: ,32.38,DepthOfRain: ,0.00'
+2025-07-24 20:27:04,183,Received packet 'Sender 2:,0, S2M1: ,52.79,S2M2: ,40.18,S2T1: ,32.13,S2T2: ,32.38,DepthOfRain: ,0.00'
+2025-07-24 20:27:09,184,Received packet 'Sender 2:,0, S2M1: ,52.79,S2M2: ,40.18,S2T1: ,32.13,S2T2: ,32.38,DepthOfRain: ,0.00'
