@@ -8026,3 +8026,4 @@
 2025-07-24 09:25:04,1133,Received packet 'Sender 1:,0, S1M1: ,49.31,S1M2: ,57.98,S1T1: ,32.00,S1T2: ,32.00,DepthOfRain: ,0.00'
 2025-07-24 09:25:23,1134,Received packet 'Sender 1:,0, S1M1: ,49.31,S1M2: ,57.98,S1T1: ,32.00,S1T2: ,32.00,DepthOfRain: ,0.00'
 2025-07-24 09:25:28,1135,Received packet 'Sender 1:,0, S1M1: ,49.31,S1M2: ,57.98,S1T1: ,32.00,S1T2: ,32.00,DepthOfRain: ,0.00'
+2025-07-24 09:38:40,1136,Received packet 'Sender 2:,0, S2M1: ,50.09,S2M2: ,40.60,S2T1: ,32.19,S2T2: ,32.25,DepthOfRain: ,0.00'
