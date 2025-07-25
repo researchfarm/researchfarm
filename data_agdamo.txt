@@ -8554,3 +8554,7 @@
 2025-07-25 19:33:14,56,Received packet ''
 2025-07-25 19:34:20,57,Received packet 'Sender 2:,0, S2M1: ,58.28,S2M2: ,52.51,S2T1: ,30.06,S2T2: ,29.81,DepthOfRain: ,0.76'
 2025-07-25 19:34:23,58,Received packet ''
+2025-07-25 19:48:23,59,Received packet 'Sender 1:,0, S1M1: ,44.86,S1M2: ,59.51,S1T1: ,30.63,S1T2: ,30.19,DepthOfRain: ,0.00'
+2025-07-25 19:48:27,60,Received packet ''
+2025-07-25 19:49:33,61,Received packet 'Sender 2:,0, S2M1: ,59.20,S2M2: ,53.62,S2T1: ,30.13,S2T2: ,29.75,DepthOfRain: ,0.25'
+2025-07-25 19:49:36,62,Received packet ''
