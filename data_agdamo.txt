@@ -8600,3 +8600,5 @@
 2025-07-25 22:39:33,102,Received packet ''
 2025-07-25 22:49:39,103,Received packet 'Sender 2:,0, S2M1: ,58.59,S2M2: ,52.51,S2T1: ,30.25,S2T2: ,29.94,DepthOfRain: ,0.25'
 2025-07-25 22:49:42,104,Received packet ''
+2025-07-25 22:54:38,105,Received packet 'Sender 1:,0, S1M1: ,25.44,S1M2: ,60.13,S1T1: ,30.56,S1T2: ,30.00,DepthOfRain: ,0.00'
+2025-07-25 22:54:41,106,Received packet ''
