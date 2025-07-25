@@ -8570,3 +8570,7 @@
 2025-07-25 20:49:27,72,Received packet ''
 2025-07-25 20:51:07,73,Received packet 'Sender 1:,0, S1M1: ,30.70,S1M2: ,60.13,S1T1: ,30.63,S1T2: ,30.13,DepthOfRain: ,0.00'
 2025-07-25 20:51:10,74,Received packet ''
+2025-07-25 21:04:02,75,Received packet 'Sender 2:,0, S2M1: ,57.08,S2M2: ,53.34,S2T1: ,30.25,S2T2: ,29.88,DepthOfRain: ,0.25'
+2025-07-25 21:04:05,76,Received packet ''
+2025-07-25 21:06:20,77,Received packet 'Sender 1:,0, S1M1: ,29.93,S1M2: ,59.20,S1T1: ,30.56,S1T2: ,30.06,DepthOfRain: ,0.00'
+2025-07-25 21:06:24,78,Received packet ''
