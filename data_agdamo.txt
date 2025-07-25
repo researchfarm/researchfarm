@@ -8612,3 +8612,5 @@
 2025-07-25 23:25:06,114,Received packet ''
 2025-07-25 23:34:29,115,Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,53.62,S2T1: ,30.31,S2T2: ,29.94,DepthOfRain: ,0.00'
 2025-07-25 23:34:32,116,Received packet ''
+2025-07-25 23:40:51,117,Received packet 'Sender 1:,0, S1M1: ,24.49,S1M2: ,58.89,S1T1: ,30.50,S1T2: ,29.94,DepthOfRain: ,0.00'
+2025-07-25 23:40:55,118,Received packet ''
