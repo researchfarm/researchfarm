@@ -8582,3 +8582,5 @@
 2025-07-25 21:34:49,84,Received packet ''
 2025-07-25 21:37:23,85,Received packet 'Sender 1:,0, S1M1: ,30.54,S1M2: ,60.13,S1T1: ,30.56,S1T2: ,30.13,DepthOfRain: ,0.00'
 2025-07-25 21:37:26,86,Received packet ''
+2025-07-25 21:49:26,87,Received packet 'Sender 2:,0, S2M1: ,57.98,S2M2: ,53.34,S2T1: ,30.25,S2T2: ,29.94,DepthOfRain: ,0.00'
+2025-07-25 21:49:30,88,Received packet ''
