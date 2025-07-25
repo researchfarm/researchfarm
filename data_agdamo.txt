@@ -8543,3 +8543,5 @@
 2025-07-25 18:32:11,45,Received packet ''
 2025-07-25 18:33:34,46,Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,53.62,S2T1: ,30.00,S2T2: ,29.50,DepthOfRain: ,0.76'
 2025-07-25 18:33:37,47,Received packet ''
+2025-07-25 18:47:21,48,Received packet 'Sender 1:,0, S1M1: ,40.39,S1M2: ,58.59,S1T1: ,30.63,S1T2: ,30.19,DepthOfRain: ,0.00'
+2025-07-25 18:48:26,49,Received packet 'Sender 2:,0, S2M1: ,58.28,S2M2: ,52.51,S2T1: ,30.00,S2T2: ,29.63,DepthOfRain: ,0.51'
