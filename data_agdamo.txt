@@ -8539,3 +8539,7 @@
 2025-07-25 18:17:02,41,Received packet ''
 2025-07-25 18:18:12,42,Received packet 'Sender 2:,0, S2M1: ,58.28,S2M2: ,52.79,S2T1: ,30.00,S2T2: ,29.56,DepthOfRain: ,0.51'
 2025-07-25 18:18:16,43,Received packet ''
+2025-07-25 18:32:08,44,Received packet 'Sender 1:,0, S1M1: ,47.53,S1M2: ,58.89,S1T1: ,30.63,S1T2: ,30.25,DepthOfRain: ,0.00'
+2025-07-25 18:32:11,45,Received packet ''
+2025-07-25 18:33:34,46,Received packet 'Sender 2:,0, S2M1: ,57.68,S2M2: ,53.62,S2T1: ,30.00,S2T2: ,29.50,DepthOfRain: ,0.76'
+2025-07-25 18:33:37,47,Received packet ''
