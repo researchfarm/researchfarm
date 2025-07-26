@@ -8736,3 +8736,5 @@
 2025-07-26 07:39:35,238,Received packet ''
 2025-07-26 07:40:40,239,Received packet 'Sender 1:,0, S1M1: ,19.58,S1M2: ,57.98,S1T1: ,30.13,S1T2: ,29.25,DepthOfRain: ,0.00'
 2025-07-26 07:40:43,240,Received packet ''
+2025-07-26 07:55:53,241,Received packet 'Sender 1:,0, S1M1: ,49.05,S1M2: ,56.49,S1T1: ,30.13,S1T2: ,29.31,DepthOfRain: ,0.00'
+2025-07-26 07:55:56,242,Received packet ''
