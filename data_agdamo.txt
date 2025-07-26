@@ -8859,3 +8859,4 @@
 2025-07-27 02:17:42,55,Invalid packet format - no separator found
 2025-07-27 02:17:47,56,Received packet 'Sender 1:,0, S1M1: ,43.19,S1M2: ,45.90,S1T1: ,30.63,S1T2: ,30.63,DepthOfRain: ,0.00'
 2025-07-27 02:28:49,57,Received packet 'Sender 2:,0, S2M1: ,48.00,S2M2: ,44.08,S2T1: ,30.88,S2T2: ,30.94,DepthOfRain: ,0.00'
+2025-07-27 02:33:06,58,Received packet 'Sender 1:,0, S1M1: ,42.84,S1M2: ,45.90,S1T1: ,30.63,S1T2: ,30.63,DepthOfRain: ,0.00'
