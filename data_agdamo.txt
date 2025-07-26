@@ -8795,3 +8795,4 @@
 2025-07-26 11:50:27,297,Received packet 'Sender 1:,0, S1M1: ,48.80,S1M2: ,55.33,S1T1: ,30.00,S1T2: ,29.56,DepthOfRain: ,0.00'
 2025-07-26 12:03:39,298,Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,51.69,S2T1: ,30.00,S2T2: ,30.06,DepthOfRain: ,0.00'
 2025-07-26 12:05:50,299,Received packet 'Sender 1:,0, S1M1: ,50.09,S1M2: ,55.91,S1T1: ,30.00,S1T2: ,29.63,DepthOfRain: ,0.00'
+2025-07-26 12:18:30,300,Received packet 'Sender 2:,0, S2M1: ,55.04,S2M2: ,51.97,S2T1: ,30.00,S2T2: ,30.19,DepthOfRain: ,0.00'
