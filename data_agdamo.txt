@@ -8820,3 +8820,4 @@
 2025-07-26 22:31:09,16,Invalid packet format - no separator found
 2025-07-26 22:33:42,17,Received packet 'Sender 2:,0, S2M1: ,49.78,S2M2: ,45.53,S2T1: ,30.88,S2T2: ,31.31,DepthOfRain: ,0.00'
 2025-07-26 22:37:23,18,Invalid packet format - no separator found
+2025-07-26 22:48:24,19,Received packet 'Sender 2:,0, S2M1: ,48.78,S2M2: ,45.35,S2T1: ,30.88,S2T2: ,31.31,DepthOfRain: ,0.00'
