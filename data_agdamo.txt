@@ -8902,3 +8902,4 @@
 2025-07-26 14:18:59,404,Received packet 'Sender 1:,0, S1M1: ,43.36,S1M2: ,44.98,S1T1: ,30.25,S1T2: ,30.00,DepthOfRain: ,0.00'
 2025-07-26 14:19:04,405,Received packet 'Sender 1:,0, S1M1: ,43.36,S1M2: ,44.98,S1T1: ,30.25,S1T2: ,30.00,DepthOfRain: ,0.00'
 2025-07-26 14:31:09,406,Received packet 'Sender 2:,0, S2M1: ,55.91,S2M2: ,53.06,S2T1: ,30.19,S2T2: ,30.81,DepthOfRain: ,0.00'
+2025-07-26 14:46:00,407,Received packet 'Sender 2:,0, S2M1: ,56.20,S2M2: ,51.69,S2T1: ,30.19,S2T2: ,30.81,DepthOfRain: ,0.00'
