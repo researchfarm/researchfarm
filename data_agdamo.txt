@@ -8814,3 +8814,4 @@
 2025-07-26 21:49:37,10,Received packet 'Sender 2:,0, S2M1: ,53.75,S2M2: ,50.18,S2T1: ,30.88,S2T2: ,31.38,DepthOfRain: ,0.00'
 2025-07-26 22:04:19,11,Received packet 'Sender 2:,0, S2M1: ,49.58,S2M2: ,45.53,S2T1: ,30.88,S2T2: ,31.38,DepthOfRain: ,0.00'
 2025-07-26 22:05:32,12,Invalid packet format - no separator found
+2025-07-26 22:19:01,13,Received packet 'Sender 2:,0, S2M1: ,49.38,S2M2: ,45.90,S2T1: ,30.88,S2T2: ,31.31,DepthOfRain: ,0.00'
