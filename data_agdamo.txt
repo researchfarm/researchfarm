@@ -8853,3 +8853,4 @@
 2025-07-27 01:46:08,49,Received packet 'Sender 1:,0, S1M1: ,42.67,S1M2: ,46.09,S1T1: ,30.69,S1T2: ,30.63,DepthOfRain: ,0.00'
 2025-07-27 01:46:20,50,Invalid packet format - no separator found
 2025-07-27 01:46:21,51,Invalid packet format - no separator found
+2025-07-27 01:59:26,52,Received packet 'Sender 2:,0, S2M1: ,48.19,S2M2: ,44.25,S2T1: ,30.81,S2T2: ,30.94,DepthOfRain: ,0.00'
