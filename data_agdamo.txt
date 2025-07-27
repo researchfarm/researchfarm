@@ -9010,3 +9010,8 @@
 2025-07-27 16:21:01,206,Invalid packet format - no separator found
 2025-07-27 16:35:35,207,Received packet 'Sender 2:,0, S2M1: ,46.65,S2M2: ,39.65,S2T1: ,30.88,S2T2: ,31.88,DepthOfRain: ,0.00'
 2025-07-27 16:37:10,208,Received packet 'Sender 1:,0, S1M1: ,41.64,S1M2: ,44.98,S1T1: ,31.31,S1T2: ,30.50,DepthOfRain: ,0.00'
+2025-07-27 16:50:19,209,Received packet 'Sender 2:,0, S2M1: ,46.09,S2M2: ,40.14,S2T1: ,30.88,S2T2: ,31.88,DepthOfRain: ,0.00'
+2025-07-27 16:53:01,210,Invalid packet format - no separator found
+2025-07-27 16:53:10,211,Received packet 'Sender 2:,0, S2M1: ,47.61,S2M2: ,40.63,S2T1: ,30.88,S2T2: ,31.94,DepthOfRain: ,0.00'
+2025-07-27 16:53:43,212,Invalid packet format - no separator found
+2025-07-27 16:53:48,213,Invalid packet format - no separator found
