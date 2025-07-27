@@ -8992,3 +8992,5 @@
 2025-07-27 15:00:56,188,Invalid packet format - no separator found
 2025-07-27 15:01:02,189,Invalid packet format - no separator found
 2025-07-27 15:01:28,190,Received packet 'Sender 1:,0, S1M1: ,41.64,S1M2: ,45.72,S1T1: ,30.88,S1T2: ,30.38,DepthOfRain: ,0.00'
+2025-07-27 15:15:39,191,Received packet 'Sender 2:,0, S2M1: ,46.28,S2M2: ,39.33,S2T1: ,30.69,S2T2: ,31.50,DepthOfRain: ,0.00'
+2025-07-27 15:17:08,192,Received packet 'Sender 1:,0, S1M1: ,40.63,S1M2: ,44.98,S1T1: ,30.94,S1T2: ,30.44,DepthOfRain: ,0.00'
