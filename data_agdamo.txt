@@ -8983,3 +8983,8 @@
 2025-07-27 14:43:37,179,Invalid packet format - no separator found
 2025-07-27 14:43:43,180,Invalid packet format - no separator found
 2025-07-27 14:43:50,181,Received packet 'Sender 2:,0, S2M1: ,48.39,S2M2: ,40.63,S2T1: ,30.56,S2T2: ,31.38,DepthOfRain: ,0.00'
+2025-07-27 14:58:39,182,Received packet 'Sender 2:,0, S2M1: ,46.65,S2M2: ,39.82,S2T1: ,30.69,S2T2: ,31.44,DepthOfRain: ,0.00'
+2025-07-27 14:59:18,183,Invalid packet format - no separator found
+2025-07-27 14:59:22,184,Invalid packet format - no separator found
+2025-07-27 14:59:26,185,Received packet 'Sender 1:,0, S1M1: ,41.81,S1M2: ,44.62,S1T1: ,30.94,S1T2: ,30.44,DepthOfRain: ,0.00'
+2025-07-27 14:59:54,186,Invalid packet format - no separator found
