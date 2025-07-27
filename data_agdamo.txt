@@ -9064,3 +9064,4 @@
 2025-07-28 01:56:12,45,Received packet 'Sender 1:,0, S1M1: ,38.23,S1M2: ,46.46,S1T1: ,31.00,S1T2: ,30.94,DepthOfRain: ,0.00'
 2025-07-28 02:11:21,46,Received packet 'Sender 1:,0, S1M1: ,38.23,S1M2: ,46.28,S1T1: ,30.94,S1T2: ,30.94,DepthOfRain: ,0.00'
 2025-07-28 02:26:30,47,Received packet 'Sender 1:,0, S1M1: ,38.23,S1M2: ,46.28,S1T1: ,30.94,S1T2: ,30.94,DepthOfRain: ,0.00'
+2025-07-28 02:41:38,48,Received packet 'Sender 1:,0, S1M1: ,38.86,S1M2: ,46.09,S1T1: ,30.94,S1T2: ,30.94,DepthOfRain: ,0.00'
