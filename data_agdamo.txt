@@ -9027,3 +9027,4 @@
 2025-07-27 18:22:36,8,Received packet 'Sender 2:,0, S2M1: ,49.98,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,31.94,DepthOfRain: ,0.25'
 2025-07-27 18:26:47,9,Received packet 'Sender 1:,0, S1M1: ,41.30,S1M2: ,45.53,S1T1: ,31.56,S1T2: ,30.69,DepthOfRain: ,0.00'
 2025-07-27 18:37:11,10,Received packet 'Sender 2:,0, S2M1: ,49.98,S2M2: ,48.19,S2T1: ,31.06,S2T2: ,31.88,DepthOfRain: ,0.51'
+2025-07-27 18:42:25,11,Received packet 'Sender 1:,0, S1M1: ,41.13,S1M2: ,45.90,S1T1: ,31.56,S1T2: ,30.69,DepthOfRain: ,0.00'
