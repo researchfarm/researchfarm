@@ -9053,3 +9053,4 @@
 2025-07-27 23:06:18,34,Received packet 'Sender 1:,0, S1M1: ,42.15,S1M2: ,46.28,S1T1: ,31.31,S1T2: ,30.94,DepthOfRain: ,0.00'
 2025-07-27 23:21:30,35,Received packet 'Sender 1:,0, S1M1: ,41.81,S1M2: ,46.28,S1T1: ,31.31,S1T2: ,30.94,DepthOfRain: ,0.00'
 2025-07-27 23:36:57,36,Received packet 'Sender 1:,0, S1M1: ,40.14,S1M2: ,46.65,S1T1: ,31.25,S1T2: ,30.94,DepthOfRain: ,0.00'
+2025-07-27 23:52:21,37,Received packet 'Sender 1:,0, S1M1: ,39.49,S1M2: ,46.84,S1T1: ,31.19,S1T2: ,30.94,DepthOfRain: ,0.00'
