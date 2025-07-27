@@ -9006,3 +9006,5 @@
 2025-07-27 16:05:21,202,Invalid packet format - no separator found
 2025-07-27 16:05:46,203,Invalid packet format - no separator found
 2025-07-27 16:06:05,204,Invalid packet format - no separator found
+2025-07-27 16:20:39,205,Received packet 'Sender 2:,0, S2M1: ,48.00,S2M2: ,40.80,S2T1: ,30.75,S2T2: ,31.81,DepthOfRain: ,0.00'
+2025-07-27 16:21:01,206,Invalid packet format - no separator found
