@@ -9016,3 +9016,5 @@
 2025-07-27 16:53:43,212,Invalid packet format - no separator found
 2025-07-27 16:53:48,213,Invalid packet format - no separator found
 2025-07-27 17:09:27,214,Received packet 'Sender 2:,0, S2M1: ,47.80,S2M2: ,47.80,S2T1: ,30.88,S2T2: ,31.94,DepthOfRain: ,0.25'
+2025-07-27 17:24:03,0,Received packet 'Sender 2:,0, S2M1: ,48.58,S2M2: ,47.22,S2T1: ,30.88,S2T2: ,31.63,DepthOfRain: ,0.25'
+2025-07-27 17:25:48,1,Received packet 'Sender 1:,0, S1M1: ,41.47,S1M2: ,45.72,S1T1: ,31.56,S1T2: ,30.63,DepthOfRain: ,0.00'
