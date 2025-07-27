@@ -8978,3 +8978,8 @@
 2025-07-27 14:11:19,174,Invalid packet format - no separator found
 2025-07-27 14:26:40,175,Received packet 'Sender 2:,0, S2M1: ,47.22,S2M2: ,40.14,S2T1: ,30.63,S2T2: ,31.31,DepthOfRain: ,0.00'
 2025-07-27 14:27:55,176,Received packet 'Sender 1:,0, S1M1: ,41.13,S1M2: ,44.98,S1T1: ,30.81,S1T2: ,30.38,DepthOfRain: ,0.00'
+2025-07-27 14:41:32,177,Received packet 'Sender 2:,0, S2M1: ,46.84,S2M2: ,40.14,S2T1: ,30.63,S2T2: ,31.38,DepthOfRain: ,0.00'
+2025-07-27 14:43:15,178,Received packet 'Sender 1:,0, S1M1: ,40.97,S1M2: ,45.16,S1T1: ,30.88,S1T2: ,30.38,DepthOfRain: ,0.00'
+2025-07-27 14:43:37,179,Invalid packet format - no separator found
+2025-07-27 14:43:43,180,Invalid packet format - no separator found
+2025-07-27 14:43:50,181,Received packet 'Sender 2:,0, S2M1: ,48.39,S2M2: ,40.63,S2T1: ,30.56,S2T2: ,31.38,DepthOfRain: ,0.00'
