@@ -9163,3 +9163,5 @@
 2025-07-28 17:49:00,144,Received packet 'Sender 2:,0, S2M1: ,49.78,S2M2: ,43.90,S2T1: ,30.94,S2T2: ,31.56,DepthOfRain: ,0.00'
 2025-07-28 18:03:42,145,Received packet 'Sender 2:,0, S2M1: ,50.59,S2M2: ,43.72,S2T1: ,31.00,S2T2: ,31.56,DepthOfRain: ,0.00'
 2025-07-28 18:18:24,146,Received packet 'Sender 2:,0, S2M1: ,50.59,S2M2: ,43.90,S2T1: ,31.00,S2T2: ,31.56,DepthOfRain: ,0.00'
+2025-07-28 18:32:59,147,Received packet 'Sender 2:,0, S2M1: ,49.78,S2M2: ,44.08,S2T1: ,31.06,S2T2: ,31.50,DepthOfRain: ,0.25'
+2025-07-28 18:38:25,148,Received packet 'Sender 1:,0, S1M1: ,41.81,S1M2: ,45.35,S1T1: ,31.19,S1T2: ,30.69,DepthOfRain: ,0.00'
