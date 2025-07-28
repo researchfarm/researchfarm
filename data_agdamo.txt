@@ -9130,3 +9130,4 @@
 2025-07-28 12:44:18,111,Received packet 'Sender 2:,0, S2M1: ,49.18,S2M2: ,43.19,S2T1: ,30.69,S2T2: ,30.94,DepthOfRain: ,0.00'
 2025-07-28 12:51:00,112,Received packet 'Sender 1:,0, S1M1: ,40.80,S1M2: ,44.62,S1T1: ,30.50,S1T2: ,30.56,DepthOfRain: ,0.00'
 2025-07-28 12:59:08,113,Received packet 'Sender 2:,0, S2M1: ,48.58,S2M2: ,43.54,S2T1: ,30.75,S2T2: ,30.94,DepthOfRain: ,0.00'
+2025-07-28 13:06:27,114,Received packet 'Sender 1:,0, S1M1: ,41.47,S1M2: ,43.90,S1T1: ,30.50,S1T2: ,30.56,DepthOfRain: ,0.00'
