@@ -9123,3 +9123,6 @@
 2025-07-28 11:44:19,104,Received packet 'Sender 2:,0, S2M1: ,50.18,S2M2: ,44.25,S2T1: ,30.75,S2T2: ,30.75,DepthOfRain: ,0.00'
 2025-07-28 11:59:39,105,Received packet 'Sender 2:,0, S2M1: ,48.19,S2M2: ,43.01,S2T1: ,30.75,S2T2: ,30.81,DepthOfRain: ,0.00'
 2025-07-28 12:00:53,106,Received packet 'Sender 1:,0, S1M1: ,40.63,S1M2: ,44.80,S1T1: ,30.38,S1T2: ,30.56,DepthOfRain: ,0.00'
+2025-07-28 12:14:37,107,Received packet 'Sender 2:,0, S2M1: ,48.39,S2M2: ,43.36,S2T1: ,30.69,S2T2: ,30.88,DepthOfRain: ,0.00'
+2025-07-28 12:16:48,108,Received packet 'Sender 1:,0, S1M1: ,40.63,S1M2: ,44.43,S1T1: ,30.38,S1T2: ,30.56,DepthOfRain: ,0.00'
+2025-07-28 12:19:00,109,Received packet 'Sender 1:,0, S1M1: ,41.81,S1M2: ,45.16,S1T1: ,30.38,S1T2: ,30.56,DepthOfRain: ,0.00'
