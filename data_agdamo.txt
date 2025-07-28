@@ -9083,3 +9083,4 @@
 2025-07-28 06:30:46,64,Received packet 'Sender 1:,0, S1M1: ,31.49,S1M2: ,44.25,S1T1: ,30.50,S1T2: ,30.81,DepthOfRain: ,0.00'
 2025-07-28 06:43:05,65,Received packet 'Sender 2:,0, S2M1: ,48.58,S2M2: ,43.36,S2T1: ,31.00,S2T2: ,30.88,DepthOfRain: ,0.25'
 2025-07-28 06:45:56,66,Received packet 'Sender 1:,0, S1M1: ,30.74,S1M2: ,44.25,S1T1: ,30.44,S1T2: ,30.81,DepthOfRain: ,0.00'
+2025-07-28 06:57:48,67,Received packet 'Sender 2:,0, S2M1: ,48.58,S2M2: ,43.90,S2T1: ,30.88,S2T2: ,30.81,DepthOfRain: ,0.00'
