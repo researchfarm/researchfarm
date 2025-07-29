@@ -9288,3 +9288,5 @@
 2025-07-29 10:53:33,269,Received packet 'Sender 1:,0, S1M1: ,41.64,S1M2: ,45.53,S1T1: ,30.00,S1T2: ,30.38,DepthOfRain: ,0.00'
 2025-07-29 11:09:55,270,Received packet 'Sender 2:,0, S2M1: ,48.98,S2M2: ,45.90,S2T1: ,30.06,S2T2: ,30.19,DepthOfRain: ,0.00'
 2025-07-29 11:12:06,271,Received packet 'Sender 2:,0, S2M1: ,51.21,S2M2: ,47.03,S2T1: ,30.06,S2T2: ,30.06,DepthOfRain: ,0.00'
+2025-07-29 11:28:02,272,Received packet 'Sender 2:,0, S2M1: ,48.58,S2M2: ,45.90,S2T1: ,30.13,S2T2: ,30.19,DepthOfRain: ,0.00'
+2025-07-29 11:29:11,273,Received packet 'Sender 1:,0, S1M1: ,41.64,S1M2: ,45.16,S1T1: ,30.06,S1T2: ,30.38,DepthOfRain: ,0.00'
