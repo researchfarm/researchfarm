@@ -9260,3 +9260,4 @@
 2025-07-29 07:22:48,241,Received packet 'Sender 1:,0, S1M1: ,41.13,S1M2: ,44.62,S1T1: ,30.06,S1T2: ,30.56,DepthOfRain: ,0.00'
 2025-07-29 07:33:21,242,Received packet 'Sender 2:,0, S2M1: ,48.39,S2M2: ,45.35,S2T1: ,29.69,S2T2: ,29.44,DepthOfRain: ,0.25'
 2025-07-29 07:38:43,243,Received packet 'Sender 1:,0, S1M1: ,41.30,S1M2: ,45.16,S1T1: ,30.06,S1T2: ,30.56,DepthOfRain: ,0.00'
+2025-07-29 07:48:03,244,Received packet 'Sender 2:,0, S2M1: ,48.78,S2M2: ,46.46,S2T1: ,29.75,S2T2: ,29.50,DepthOfRain: ,0.25'
