@@ -9352,3 +9352,5 @@
 2025-07-29 19:02:08,333,Received packet 'Sender 2:,0, S2M1: ,50.80,S2M2: ,47.61,S2T1: ,30.81,S2T2: ,31.44,DepthOfRain: ,0.00'
 2025-07-29 19:06:21,334,Received packet 'Sender 1:,0, S1M1: ,42.67,S1M2: ,46.46,S1T1: ,31.25,S1T2: ,30.56,DepthOfRain: ,0.00'
 2025-07-29 19:21:34,335,Received packet 'Sender 1:,0, S1M1: ,42.32,S1M2: ,46.09,S1T1: ,31.25,S1T2: ,30.63,DepthOfRain: ,0.00'
+2025-07-29 19:31:25,336,Received packet 'Sender 2:,0, S2M1: ,50.18,S2M2: ,47.42,S2T1: ,30.81,S2T2: ,31.50,DepthOfRain: ,0.25'
+2025-07-29 19:37:31,337,Received packet 'Sender 1:,0, S1M1: ,43.01,S1M2: ,46.65,S1T1: ,31.25,S1T2: ,30.63,DepthOfRain: ,0.00'
