@@ -9449,3 +9449,4 @@
 2025-07-30 09:30:13,430,Received packet 'Sender 1:,0, S1M1: ,41.13,S1M2: ,44.98,S1T1: ,30.06,S1T2: ,30.50,DepthOfRain: ,0.00'
 2025-07-30 09:42:40,431,Received packet 'Sender 2:,0, S2M1: ,48.39,S2M2: ,46.09,S2T1: ,30.56,S2T2: ,30.38,DepthOfRain: ,0.00'
 2025-07-30 09:45:40,432,Received packet 'Sender 1:,0, S1M1: ,42.32,S1M2: ,44.08,S1T1: ,30.06,S1T2: ,30.50,DepthOfRain: ,0.00'
+2025-07-30 09:57:25,433,Received packet 'Sender 2:,0, S2M1: ,49.78,S2M2: ,45.90,S2T1: ,30.56,S2T2: ,30.25,DepthOfRain: ,0.00'
