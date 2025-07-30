@@ -9483,3 +9483,4 @@
 2025-07-30 13:58:47,464,Received packet 'Sender 1:,0, S1M1: ,41.30,S1M2: ,45.16,S1T1: ,30.13,S1T2: ,30.31,DepthOfRain: ,0.00'
 2025-07-30 14:11:44,465,Received packet 'Sender 2:,0, S2M1: ,48.98,S2M2: ,47.03,S2T1: ,30.44,S2T2: ,30.63,DepthOfRain: ,0.00'
 2025-07-30 14:14:47,466,Received packet 'Sender 1:,0, S1M1: ,41.64,S1M2: ,45.16,S1T1: ,30.19,S1T2: ,30.31,DepthOfRain: ,0.00'
+2025-07-30 14:26:34,467,Received packet 'Sender 2:,0, S2M1: ,49.78,S2M2: ,46.28,S2T1: ,30.44,S2T2: ,30.63,DepthOfRain: ,0.00'
