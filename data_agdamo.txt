@@ -9684,3 +9684,4 @@
 2025-08-01 19:10:55,665,Received packet 'Sender 1:,0, S1M1: ,39.82,S1M2: ,50.18,S1T1: ,31.56,S1T2: ,30.56,DepthOfRain: ,0.00'
 2025-08-01 19:26:46,666,Received packet 'Sender 1:,0, S1M1: ,39.02,S1M2: ,51.00,S1T1: ,31.56,S1T2: ,30.56,DepthOfRain: ,0.00'
 2025-08-01 19:41:58,667,Received packet 'Sender 1:,0, S1M1: ,38.70,S1M2: ,50.39,S1T1: ,31.44,S1T2: ,30.63,DepthOfRain: ,0.00'
+2025-08-01 19:57:06,668,Received packet 'Sender 1:,0, S1M1: ,38.23,S1M2: ,50.59,S1T1: ,31.44,S1T2: ,30.63,DepthOfRain: ,0.00'
