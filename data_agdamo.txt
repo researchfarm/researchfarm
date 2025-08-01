@@ -9635,3 +9635,4 @@
 2025-08-01 12:34:40,616,Received packet 'Sender 1:,0, S1M1: ,37.92,S1M2: ,46.84,S1T1: ,-127.00,S1T2: ,30.13,DepthOfRain: ,0.00'
 2025-08-01 12:36:54,617,Received packet 'Sender 1:,0, S1M1: ,23.86,S1M2: ,49.18,S1T1: ,-127.00,S1T2: ,30.13,DepthOfRain: ,0.00'
 2025-08-01 12:39:00,618,Received packet 'Sender 1:,0, S1M1: ,15.10,S1M2: ,53.32,S1T1: ,-127.00,S1T2: ,30.13,DepthOfRain: ,0.00'
+2025-08-01 12:41:01,619,Received packet 'Sender 1:,0, S1M1: ,14.92,S1M2: ,51.21,S1T1: ,-127.00,S1T2: ,30.13,DepthOfRain: ,0.00'
