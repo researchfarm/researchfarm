@@ -9672,3 +9672,4 @@
 2025-08-01 16:23:49,653,Received packet 'Sender 1:,0, S1M1: ,14.19,S1M2: ,49.78,S1T1: ,31.13,S1T2: ,30.31,DepthOfRain: ,0.00'
 2025-08-01 16:25:00,654,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,50.18,S2T1: ,30.63,S2T2: ,31.69,DepthOfRain: ,0.00'
 2025-08-01 16:26:21,655,Received packet 'Sender 1:,0, S1M1: ,14.36,S1M2: ,49.58,S1T1: ,31.19,S1T2: ,30.31,DepthOfRain: ,0.00'
+2025-08-01 16:43:35,656,Received packet 'Sender 2:,0, S2M1: ,52.68,S2M2: ,48.78,S2T1: ,30.75,S2T2: ,31.75,DepthOfRain: ,0.00'
