@@ -9732,3 +9732,5 @@
 2025-08-02 15:37:54,713,Received packet 'Sender 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,30.88,S2T2: ,32.13,DepthOfRain: ,0.00'
 2025-08-02 15:40:11,714,Received packet 'Sender 2:,0, S2M1: ,52.04,S2M2: ,48.98,S2T1: ,30.88,S2T2: ,32.13,DepthOfRain: ,0.00'
 2025-08-02 15:41:17,715,Received packet 'Sender 1:,0, S1M1: ,30.25,S1M2: ,49.98,S1T1: ,31.56,S1T2: ,30.56,DepthOfRain: ,0.00'
+2025-08-02 15:56:29,716,Received packet 'Sender 1:,0, S1M1: ,54.18,S1M2: ,48.00,S1T1: ,31.69,S1T2: ,30.56,DepthOfRain: ,0.00'
+2025-08-02 15:57:38,717,Received packet 'Sender 2:,0, S2M1: ,52.04,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.19,DepthOfRain: ,0.00'
