@@ -9743,3 +9743,4 @@
 2025-08-02 16:36:14,724,Received packet 'Sender 1:,0, S1M1: ,43.90,S1M2: ,49.38,S1T1: ,31.81,S1T2: ,30.63,DepthOfRain: ,0.00'
 2025-08-02 16:39:38,725,Received packet 'Sender 1:,0, S1M1: ,44.25,S1M2: ,49.38,S1T1: ,31.88,S1T2: ,30.63,DepthOfRain: ,0.00'
 2025-08-02 16:49:36,726,Received packet 'Sender 2:,0, S2M1: ,51.62,S2M2: ,49.98,S2T1: ,31.06,S2T2: ,32.38,DepthOfRain: ,0.00'
+2025-08-02 16:56:33,727,Received packet 'Sender 2:,0, S2M1: ,51.42,S2M2: ,50.59,S2T1: ,31.06,S2T2: ,32.44,DepthOfRain: ,0.00'
