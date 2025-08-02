@@ -9770,3 +9770,4 @@
 2025-08-02 18:10:02,751,Received packet 'Sender 1:,0, S1M1: ,43.72,S1M2: ,52.46,S1T1: ,32.06,S1T2: ,30.81,DepthOfRain: ,0.00'
 2025-08-02 18:12:20,752,Received packet 'Sender 1:,0, S1M1: ,44.62,S1M2: ,52.68,S1T1: ,32.06,S1T2: ,30.81,DepthOfRain: ,0.00'
 2025-08-02 18:14:32,753,Received packet 'Sender 1:,0, S1M1: ,41.64,S1M2: ,51.62,S1T1: ,32.13,S1T2: ,30.81,DepthOfRain: ,0.00'
+2025-08-02 18:30:43,754,Received packet 'Sender 1:,0, S1M1: ,50.80,S1M2: ,51.00,S1T1: ,32.19,S1T2: ,30.88,DepthOfRain: ,0.00'
