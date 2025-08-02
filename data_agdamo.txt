@@ -9700,3 +9700,4 @@
 2025-08-01 23:18:17,681,Received packet 'Sender 1:,0, S1M1: ,33.18,S1M2: ,50.39,S1T1: ,31.19,S1T2: ,30.75,DepthOfRain: ,0.00'
 2025-08-01 23:33:25,682,Received packet 'Sender 1:,0, S1M1: ,31.87,S1M2: ,51.83,S1T1: ,31.13,S1T2: ,30.75,DepthOfRain: ,0.00'
 2025-08-02 06:20:55,683,Received packet 'Sender 2:,0, S2M1: ,52.46,S2M2: ,50.80,S2T1: ,30.75,S2T2: ,30.81,DepthOfRain: ,0.00'
+2025-08-02 07:47:38,684,Received packet 'Sender 2:,0, S2M1: ,53.53,S2M2: ,51.00,S2T1: ,30.75,S2T2: ,30.63,DepthOfRain: ,0.00'
