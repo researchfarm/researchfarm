@@ -9883,3 +9883,4 @@
 2025-08-03 15:33:53,864,Received packet 'Sender 2:,0, S2M1: ,50.80,S2M2: ,48.58,S2T1: ,31.13,S2T2: ,31.88,DepthOfRain: ,0.25'
 2025-08-03 15:35:10,865,Received packet 'Sender 1:,0, S1M1: ,41.13,S1M2: ,46.09,S1T1: ,31.44,S1T2: ,30.81,DepthOfRain: ,0.00'
 2025-08-03 15:48:42,866,Received packet 'Sender 2:,0, S2M1: ,50.18,S2M2: ,48.00,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-08-03 15:50:22,867,Received packet 'Sender 1:,0, S1M1: ,41.81,S1M2: ,45.72,S1T1: ,31.56,S1T2: ,30.81,DepthOfRain: ,0.00'
