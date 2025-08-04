@@ -10232,3 +10232,4 @@
 2025-08-05 02:04:51,1213,Received packet 'Sender 1:,0, S1M1: ,47.22,S1M2: ,49.78,S1T1: ,31.19,S1T2: ,31.13,DepthOfRain: ,0.00'
 2025-08-05 02:20:52,1214,Received packet 'Sender 1:,0, S1M1: ,47.22,S1M2: ,49.98,S1T1: ,31.13,S1T2: ,31.13,DepthOfRain: ,0.00'
 2025-08-05 02:37:02,1215,Received packet 'Sender 1:,0, S1M1: ,47.42,S1M2: ,51.42,S1T1: ,31.13,S1T2: ,31.13,DepthOfRain: ,0.00'
+2025-08-05 02:53:32,1216,Received packet 'Sender 1:,0, S1M1: ,45.90,S1M2: ,49.98,S1T1: ,31.06,S1T2: ,31.13,DepthOfRain: ,0.00'
