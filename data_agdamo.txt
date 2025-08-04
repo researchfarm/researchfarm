@@ -10025,3 +10025,4 @@
 2025-08-04 13:43:41,1006,Received packet 'Sender 2:,0, S2M1: ,49.78,S2M2: ,48.00,S2T1: ,30.94,S2T2: ,31.56,DepthOfRain: ,0.00'
 2025-08-04 13:58:29,1007,Received packet 'Sender 2:,0, S2M1: ,50.59,S2M2: ,48.19,S2T1: ,30.94,S2T2: ,31.63,DepthOfRain: ,0.00'
 2025-08-04 14:13:19,1008,Received packet 'Sender 2:,0, S2M1: ,50.39,S2M2: ,47.80,S2T1: ,31.00,S2T2: ,31.69,DepthOfRain: ,0.00'
+2025-08-04 14:28:09,1009,Received packet 'Sender 2:,0, S2M1: ,49.78,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,31.69,DepthOfRain: ,0.00'
