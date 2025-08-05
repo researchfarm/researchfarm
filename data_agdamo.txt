@@ -10380,3 +10380,4 @@
 2025-08-05 19:22:22,1361,Received packet 'Sender 1:,0, S1M1: ,17.38,S1M2: ,113.49,S1T1: ,31.50,S1T2: ,30.75,DepthOfRain: ,0.00'
 2025-08-05 19:24:39,1362,Received packet 'Sender 1:,0, S1M1: ,16.86,S1M2: ,104.33,S1T1: ,31.44,S1T2: ,30.75,DepthOfRain: ,0.00'
 2025-08-05 19:38:28,1363,Received packet 'Sender 1:,0, S1M1: ,17.31,S1M2: ,124.17,S1T1: ,31.50,S1T2: ,30.75,DepthOfRain: ,0.00'
+2025-08-05 19:49:56,1364,Received packet 'Sender 1:,0, S1M1: ,16.73,S1M2: ,125.05,S1T1: ,31.44,S1T2: ,30.75,DepthOfRain: ,0.00'
