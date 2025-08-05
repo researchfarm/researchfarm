@@ -10320,3 +10320,4 @@
 2025-08-05 14:02:04,1301,Received packet 'Sender 2:,0, S2M1: ,49.18,S2M2: ,42.67,S2T1: ,30.75,S2T2: ,31.13,DepthOfRain: ,0.00'
 2025-08-05 14:05:21,1302,Received packet 'Sender 1:,0, S1M1: ,41.98,S1M2: ,46.09,S1T1: ,30.63,S1T2: ,30.63,DepthOfRain: ,0.00'
 2025-08-05 14:16:55,1303,Received packet 'Sender 2:,0, S2M1: ,49.98,S2M2: ,42.32,S2T1: ,30.88,S2T2: ,31.13,DepthOfRain: ,0.00'
+2025-08-05 14:21:22,1304,Received packet 'Sender 1:,0, S1M1: ,41.81,S1M2: ,46.46,S1T1: ,30.69,S1T2: ,30.63,DepthOfRain: ,0.00'
