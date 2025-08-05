@@ -10305,3 +10305,4 @@
 2025-08-05 11:59:18,1286,Received packet 'Sender 1:,0, S1M1: ,41.47,S1M2: ,46.65,S1T1: ,30.38,S1T2: ,30.69,DepthOfRain: ,0.00'
 2025-08-05 12:12:58,1287,Received packet 'Sender 2:,0, S2M1: ,48.78,S2M2: ,43.90,S2T1: ,30.88,S2T2: ,30.81,DepthOfRain: ,0.00'
 2025-08-05 12:15:21,1288,Received packet 'Sender 1:,0, S1M1: ,41.13,S1M2: ,46.09,S1T1: ,30.38,S1T2: ,30.69,DepthOfRain: ,0.00'
+2025-08-05 12:27:48,1289,Received packet 'Sender 2:,0, S2M1: ,49.58,S2M2: ,44.62,S2T1: ,30.88,S2T2: ,30.81,DepthOfRain: ,0.00'
