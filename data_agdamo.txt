@@ -10389,3 +10389,4 @@
 2025-08-05 20:05:48,1370,Received packet 'Sender 1:,0, S1M1: ,17.12,S1M2: ,118.95,S1T1: ,31.56,S1T2: ,30.81,DepthOfRain: ,0.00'
 2025-08-05 20:10:43,1371,Received packet 'Sender 1:,0, S1M1: ,16.99,S1M2: ,113.49,S1T1: ,31.50,S1T2: ,30.81,DepthOfRain: ,0.00'
 2025-08-05 20:13:59,1372,Received packet 'Sender 1:,0, S1M1: ,16.92,S1M2: ,121.97,S1T1: ,31.50,S1T2: ,30.81,DepthOfRain: ,0.00'
+2025-08-06 05:49:08,1373,Received packet 'Sender 1:,0, S1M1: ,15.21,S1M2: ,86.17,S1T1: ,30.50,S1T2: ,30.94,DepthOfRain: ,0.00'
