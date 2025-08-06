@@ -10440,3 +10440,4 @@
 2025-08-06 13:35:57,1421,Received packet 'Sender 2:,0, S2M1: ,51.21,S2M2: ,49.98,S2T1: ,30.00,S2T2: ,30.00,DepthOfRain: ,0.25'
 2025-08-06 13:50:46,1422,Received packet 'Sender 2:,0, S2M1: ,51.21,S2M2: ,49.78,S2T1: ,30.00,S2T2: ,30.06,DepthOfRain: ,0.00'
 2025-08-06 14:05:33,1423,Received packet 'Sender 2:,0, S2M1: ,50.39,S2M2: ,50.18,S2T1: ,30.00,S2T2: ,30.19,DepthOfRain: ,0.00'
+2025-08-06 14:20:21,1424,Received packet 'Sender 2:,0, S2M1: ,51.83,S2M2: ,49.58,S2T1: ,30.06,S2T2: ,30.25,DepthOfRain: ,0.25'
