@@ -10660,3 +10660,5 @@
 2025-08-07 15:23:43,65,Received packet 'Sender 2:,0, S2M1: ,51.83,S2M2: ,47.03,S2T1: ,30.25,S2T2: ,30.69,DepthOfRain: ,0.00'
 2025-08-07 15:25:47,66,Received packet 'Sender 2:,0, S2M1: ,52.04,S2M2: ,46.65,S2T1: ,30.31,S2T2: ,30.69,DepthOfRain: ,0.00'
 2025-08-07 15:27:38,67,Received packet 'Sender 3:,0, S3M1: ,12.58,S3M2: ,13.59,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-07 15:33:36,68,Received packet 'Sender 3:,0, S3M1: ,13.21,S3M2: ,14.25,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-07 15:39:34,69,Received packet 'Sender 3:,0, S3M1: ,9.68,S3M2: ,10.79,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
