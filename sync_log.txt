@@ -15563,3 +15563,13 @@ To github.com:researchfarm/researchfarm.git
 ? File copied to repository successfully.
 ? Changes committed successfully.
 ? Changes pushed to GitHub successfully.
+[main 073f9a5e] Automated update from local source
+ 2 files changed, 12 insertions(+)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+? File copied to repository successfully.
+? Changes committed successfully.
+? Error during Git operations: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
