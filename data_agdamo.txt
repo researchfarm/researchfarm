@@ -10723,3 +10723,4 @@
 2025-08-07 20:39:37,128,Received packet 'Sender 2:,0, S2M1: ,158.85,S2M2: ,139.94,S2T1: ,29.06,S2T2: ,29.00,DepthOfRain: ,0.00'
 2025-08-07 20:43:38,129,Received packet 'Sender 2:,0, S2M1: ,151.48,S2M2: ,132.80,S2T1: ,29.06,S2T2: ,29.00,DepthOfRain: ,0.00'
 2025-08-07 21:42:20,130,Received packet 'Sender 2:,0, S2M1: ,159.38,S2M2: ,141.90,S2T1: ,28.94,S2T2: ,28.81,DepthOfRain: ,0.00'
+2025-08-07 23:09:19,131,Received packet 'Sender 2:,0, S2M1: ,152.51,S2M2: ,135.62,S2T1: ,29.25,S2T2: ,28.69,DepthOfRain: ,0.00'
