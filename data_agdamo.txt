@@ -10685,3 +10685,4 @@
 2025-08-07 17:26:55,90,Received packet 'Sender 3:,0, S3M1: ,26.84,S3M2: ,29.06,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-08-07 17:32:53,91,Received packet 'Sender 3:,0, S3M1: ,22.34,S3M2: ,24.81,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-08-07 17:38:50,92,Received packet 'Sender 3:,0, S3M1: ,24.91,S3M2: ,27.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-07 17:44:48,93,Received packet 'Sender 3:,0, S3M1: ,20.77,S3M2: ,23.31,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
