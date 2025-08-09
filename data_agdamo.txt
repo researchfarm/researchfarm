@@ -11090,3 +11090,6 @@
 2025-08-10 00:45:09,495,Received packet 'Sender 2:,0, S2M1: ,109.83,S2M2: ,99.80,S2T1: ,30.50,S2T2: ,30.81,DepthOfRain: ,0.00'
 2025-08-10 00:47:33,496,Received packet 'Sender 2:,0, S2M1: ,105.88,S2M2: ,96.50,S2T1: ,30.56,S2T2: ,30.69,DepthOfRain: ,0.00'
 2025-08-10 00:49:58,497,Received packet 'Sender 2:,0, S2M1: ,123.28,S2M2: ,112.26,S2T1: ,30.56,S2T2: ,30.75,DepthOfRain: ,0.00'
+2025-08-10 01:11:14,498,Received packet 'Sender 2:,0, S2M1: ,119.37,S2M2: ,110.23,S2T1: ,30.44,S2T2: ,30.69,DepthOfRain: ,0.00'
+2025-08-10 01:13:39,499,Received packet 'Sender 2:,0, S2M1: ,98.32,S2M2: ,90.87,S2T1: ,30.56,S2T2: ,30.69,DepthOfRain: ,0.00'
+2025-08-10 01:19:15,500,Received packet 'Sender 2:,0, S2M1: ,122.84,S2M2: ,113.49,S2T1: ,30.50,S2T2: ,30.63,DepthOfRain: ,0.00'
