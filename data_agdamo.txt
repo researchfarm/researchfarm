@@ -11045,3 +11045,4 @@
 2025-08-09 10:32:41,450,Received packet 'Sender 2:,0, S2M1: ,50.59,S2M2: ,46.09,S2T1: ,29.63,S2T2: ,29.63,DepthOfRain: ,0.00'
 2025-08-09 10:47:47,451,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,29.56,S2T2: ,29.63,DepthOfRain: ,0.00'
 2025-08-09 11:02:39,452,Received packet 'Sender 2:,0, S2M1: ,50.80,S2M2: ,45.90,S2T1: ,29.56,S2T2: ,29.69,DepthOfRain: ,0.00'
+2025-08-09 11:17:31,453,Received packet 'Sender 2:,0, S2M1: ,50.39,S2M2: ,45.90,S2T1: ,29.56,S2T2: ,29.81,DepthOfRain: ,0.00'
