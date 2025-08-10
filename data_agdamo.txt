@@ -11121,3 +11121,4 @@
 2025-08-10 11:53:16,526,Received packet 'Sender 2:,0, S2M1: ,50.18,S2M2: ,46.46,S2T1: ,30.31,S2T2: ,30.75,DepthOfRain: ,0.00'
 2025-08-10 11:56:39,527,Received packet 'Sender 2:,0, S2M1: ,52.04,S2M2: ,48.00,S2T1: ,30.31,S2T2: ,30.75,DepthOfRain: ,0.00'
 2025-08-10 11:59:36,528,Received packet 'Sender 2:,0, S2M1: ,51.83,S2M2: ,48.00,S2T1: ,30.31,S2T2: ,30.69,DepthOfRain: ,0.00'
+2025-08-10 12:14:28,529,Received packet 'Sender 2:,0, S2M1: ,49.98,S2M2: ,46.28,S2T1: ,30.38,S2T2: ,30.81,DepthOfRain: ,0.00'
