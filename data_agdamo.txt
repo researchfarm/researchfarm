@@ -11205,3 +11205,4 @@
 2025-08-11 11:51:02,610,Received packet 'Sender 2:,0, S2M1: ,49.18,S2M2: ,41.98,S2T1: ,30.75,S2T2: ,31.00,DepthOfRain: ,0.00'
 2025-08-11 12:05:53,611,Received packet 'Sender 2:,0, S2M1: ,49.18,S2M2: ,41.30,S2T1: ,30.69,S2T2: ,31.06,DepthOfRain: ,0.00'
 2025-08-11 12:21:53,612,Received packet 'Sender 2:,0, S2M1: ,48.78,S2M2: ,41.30,S2T1: ,30.75,S2T2: ,31.13,DepthOfRain: ,0.00'
+2025-08-11 12:37:03,613,Received packet 'Sender 2:,0, S2M1: ,51.42,S2M2: ,42.49,S2T1: ,30.69,S2T2: ,31.25,DepthOfRain: ,0.00'
