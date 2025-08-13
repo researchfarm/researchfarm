@@ -11448,3 +11448,6 @@
 2025-08-13 11:43:01,853,Received packet 'Sender 2:,0, S2M1: ,53.97,S2M2: ,55.06,S2T1: ,30.88,S2T2: ,31.00,DepthOfRain: ,0.00'
 2025-08-13 11:45:18,854,Received packet 'Sender 2:,0, S2M1: ,53.32,S2M2: ,54.62,S2T1: ,30.88,S2T2: ,31.00,DepthOfRain: ,0.00'
 2025-08-13 11:47:57,855,Received packet 'Sender 2:,0, S2M1: ,53.53,S2M2: ,54.62,S2T1: ,30.88,S2T2: ,31.00,DepthOfRain: ,0.00'
+2025-08-13 12:03:10,856,Received packet 'Sender 1:,0, S1M1: ,23.22,S1M2: ,49.98,S1T1: ,30.88,S1T2: ,31.00,DepthOfRain: ,0.00'
+2025-08-13 12:07:39,857,Received packet 'Sender 2:,0, S2M1: ,53.32,S2M2: ,54.84,S2T1: ,30.88,S2T2: ,31.13,DepthOfRain: ,0.00'
+2025-08-13 12:09:58,858,Received packet 'Sender 2:,0, S2M1: ,53.53,S2M2: ,54.18,S2T1: ,30.81,S2T2: ,31.13,DepthOfRain: ,0.00'
