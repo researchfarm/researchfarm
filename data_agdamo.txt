@@ -11488,3 +11488,7 @@
 2025-08-13 13:44:16,893,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,55.06,S2T1: ,30.94,S2T2: ,31.50,DepthOfRain: ,0.00'
 2025-08-13 13:46:52,894,Received packet 'Sender 2:,0, S2M1: ,52.46,S2M2: ,55.06,S2T1: ,30.94,S2T2: ,31.50,DepthOfRain: ,0.00'
 2025-08-13 13:49:13,895,Received packet 'Sender 2:,0, S2M1: ,52.04,S2M2: ,54.84,S2T1: ,30.94,S2T2: ,31.44,DepthOfRain: ,0.00'
+2025-08-13 13:51:55,896,Received packet 'Sender 2:,0, S2M1: ,53.32,S2M2: ,54.40,S2T1: ,30.94,S2T2: ,31.50,DepthOfRain: ,0.00'
+2025-08-13 13:54:18,897,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,53.97,S2T1: ,30.94,S2T2: ,31.50,DepthOfRain: ,0.00'
+2025-08-13 13:56:35,898,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,54.40,S2T1: ,30.94,S2T2: ,31.50,DepthOfRain: ,0.00'
+2025-08-13 13:58:49,899,Received packet 'Sender 2:,0, S2M1: ,53.32,S2M2: ,55.06,S2T1: ,30.94,S2T2: ,31.56,DepthOfRain: ,0.00'
