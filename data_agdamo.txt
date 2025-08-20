@@ -11628,3 +11628,4 @@
 2025-08-19 11:55:46,1033,Received packet 'Sender 2:,0, S2M1: ,54.62,S2M2: ,49.38,S2T1: ,30.50,S2T2: ,30.44,DepthOfRain: ,0.00'
 2025-08-19 12:00:27,1034,Received packet 'Sender 1:,0, S1M1: ,11.81,S1M2: ,51.83,S1T1: ,30.06,S1T2: ,30.38,DepthOfRain: ,0.00'
 2025-08-19 12:01:32,1035,Received packet 'Sender 2:,0, S2M1: ,53.97,S2M2: ,57.32,S2T1: ,30.44,S2T2: ,30.44,DepthOfRain: ,0.00'
+2025-08-20 07:34:25,1036,Received packet 'Sender 2:,0, S2M1: ,53.97,S2M2: ,47.42,S2T1: ,30.44,S2T2: ,30.19,DepthOfRain: ,0.00'
