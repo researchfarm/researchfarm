@@ -12161,3 +12161,5 @@
 2025-08-22 08:44:43,1566,Received packet 'Sender 1:,0, S1M1: ,44.98,S1M2: ,50.18,S1T1: ,28.94,S1T2: ,29.63,DepthOfRain: ,0.00'
 2025-08-22 08:45:48,1567,Received packet 'Sender 2:,0, S2M1: ,54.18,S2M2: ,58.01,S2T1: ,29.38,S2T2: ,29.06,DepthOfRain: ,0.25'
 2025-08-22 08:48:03,1568,Received packet 'Sender 2:,0, S2M1: ,53.97,S2M2: ,57.32,S2T1: ,29.31,S2T2: ,29.06,DepthOfRain: ,0.25'
+2025-08-22 08:50:15,1569,Received packet 'Sender 2:,0, S2M1: ,54.18,S2M2: ,56.63,S2T1: ,29.38,S2T2: ,29.06,DepthOfRain: ,0.00'
+2025-08-22 08:59:52,1570,Received packet 'Sender 1:,0, S1M1: ,51.83,S1M2: ,55.96,S1T1: ,29.06,S1T2: ,29.63,DepthOfRain: ,0.00'
