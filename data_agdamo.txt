@@ -12165,3 +12165,4 @@
 2025-08-22 08:59:52,1570,Received packet 'Sender 1:,0, S1M1: ,51.83,S1M2: ,55.96,S1T1: ,29.06,S1T2: ,29.63,DepthOfRain: ,0.00'
 2025-08-22 09:15:46,1571,Received packet 'Sender 1:,0, S1M1: ,50.18,S1M2: ,50.59,S1T1: ,29.06,S1T2: ,29.63,DepthOfRain: ,0.00'
 2025-08-22 09:31:36,1572,Received packet 'Sender 1:,0, S1M1: ,52.46,S1M2: ,49.98,S1T1: ,29.00,S1T2: ,29.63,DepthOfRain: ,0.00'
+2025-08-22 09:46:46,1573,Received packet 'Sender 1:,0, S1M1: ,55.29,S1M2: ,51.21,S1T1: ,29.00,S1T2: ,29.63,DepthOfRain: ,0.00'
