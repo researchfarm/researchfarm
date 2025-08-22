@@ -12168,3 +12168,4 @@
 2025-08-22 09:46:46,1573,Received packet 'Sender 1:,0, S1M1: ,55.29,S1M2: ,51.21,S1T1: ,29.00,S1T2: ,29.63,DepthOfRain: ,0.00'
 2025-08-22 10:02:42,1574,Received packet 'Sender 1:,0, S1M1: ,53.32,S1M2: ,49.58,S1T1: ,29.06,S1T2: ,29.56,DepthOfRain: ,0.00'
 2025-08-22 10:18:44,1575,Received packet 'Sender 1:,0, S1M1: ,55.51,S1M2: ,50.80,S1T1: ,29.00,S1T2: ,29.56,DepthOfRain: ,0.00'
+2025-08-22 10:34:36,1576,Received packet 'Sender 1:,0, S1M1: ,52.89,S1M2: ,48.78,S1T1: ,29.00,S1T2: ,29.56,DepthOfRain: ,0.00'
