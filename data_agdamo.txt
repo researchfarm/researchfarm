@@ -12608,3 +12608,4 @@
 2025-08-23 10:30:40,2013,Received packet 'Sender 1:,0, S1M1: ,37.61,S1M2: ,49.18,S1T1: ,28.50,S1T2: ,29.19,DepthOfRain: ,0.00'
 2025-08-23 10:45:47,2014,Received packet 'Sender 1:,0, S1M1: ,37.01,S1M2: ,48.58,S1T1: ,28.50,S1T2: ,29.19,DepthOfRain: ,0.00'
 2025-08-23 11:01:43,2015,Received packet 'Sender 1:,0, S1M1: ,36.41,S1M2: ,48.98,S1T1: ,28.50,S1T2: ,29.19,DepthOfRain: ,0.00'
+2025-08-23 11:17:39,2016,Received packet 'Sender 1:,0, S1M1: ,37.01,S1M2: ,48.19,S1T1: ,28.50,S1T2: ,29.19,DepthOfRain: ,0.00'
