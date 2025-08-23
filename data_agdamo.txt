@@ -12606,3 +12606,4 @@
 2025-08-23 09:59:49,2011,Received packet 'Sender 1:,0, S1M1: ,37.61,S1M2: ,48.78,S1T1: ,28.56,S1T2: ,29.19,DepthOfRain: ,0.00'
 2025-08-23 10:15:32,2012,Received packet 'Sender 1:,0, S1M1: ,38.08,S1M2: ,49.38,S1T1: ,28.56,S1T2: ,29.19,DepthOfRain: ,0.00'
 2025-08-23 10:30:40,2013,Received packet 'Sender 1:,0, S1M1: ,37.61,S1M2: ,49.18,S1T1: ,28.50,S1T2: ,29.19,DepthOfRain: ,0.00'
+2025-08-23 10:45:47,2014,Received packet 'Sender 1:,0, S1M1: ,37.01,S1M2: ,48.58,S1T1: ,28.50,S1T2: ,29.19,DepthOfRain: ,0.00'
