@@ -13060,3 +13060,4 @@
 2025-08-24 09:04:19,2465,Received packet 'Sender 1:,0, S1M1: ,43.72,S1M2: ,47.42,S1T1: ,28.50,S1T2: ,29.00,DepthOfRain: ,0.00'
 2025-08-24 09:19:28,2466,Received packet 'Sender 1:,0, S1M1: ,43.19,S1M2: ,47.42,S1T1: ,28.50,S1T2: ,29.00,DepthOfRain: ,0.00'
 2025-08-24 09:34:37,2467,Received packet 'Sender 1:,0, S1M1: ,41.81,S1M2: ,47.61,S1T1: ,28.44,S1T2: ,29.00,DepthOfRain: ,0.00'
+2025-08-24 09:49:52,2468,Received packet 'Sender 2:,0, S2M1: ,59.90,S2M2: ,63.59,S2T1: ,28.88,S2T2: ,28.69,DepthOfRain: ,0.00'
