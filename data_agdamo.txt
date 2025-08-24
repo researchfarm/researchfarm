@@ -13147,3 +13147,4 @@
 2025-08-24 17:34:31,2552,Received packet 'Sender 2:,0, S2M1: ,53.32,S2M2: ,55.51,S2T1: ,29.19,S2T2: ,29.69,DepthOfRain: ,0.00'
 2025-08-24 17:36:44,2553,Received packet 'Sender 2:,0, S2M1: ,53.32,S2M2: ,54.62,S2T1: ,29.13,S2T2: ,29.69,DepthOfRain: ,0.00'
 2025-08-24 17:38:56,2554,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,55.06,S2T1: ,29.19,S2T2: ,29.69,DepthOfRain: ,0.00'
+2025-08-24 18:47:29,2555,Received packet 'Sender 2:,0, S2M1: ,151.48,S2M2: ,156.18,S2T1: ,29.06,S2T2: ,29.56,DepthOfRain: ,0.00'
