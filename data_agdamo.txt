@@ -13250,3 +13250,6 @@
 2025-08-30 15:55:07,6,Received packet 'Sender 3:,0, S3M1: ,12.95,S3M2: ,13.11,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-08-30 15:57:41,7,Received packet 'Sender 3:,0, S3M1: ,11.60,S3M2: ,11.35,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-08-30 15:59:56,8,Received packet 'Sender 3:,0, S3M1: ,9.53,S3M2: ,9.58,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-30 16:03:53,9,Received packet 'Sender 3:,0, S3M1: ,11.05,S3M2: ,11.40,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-30 16:06:09,10,Received packet 'Sender 3:,0, S3M1: ,11.20,S3M2: ,10.94,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-30 16:08:27,11,Received packet 'Sender 3:,0, S3M1: ,11.50,S3M2: ,11.20,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
