@@ -13272,3 +13272,7 @@
 2025-08-30 16:54:57,7,Receiver is listening...
 2025-08-30 16:58:52,Sender 3:,0, S3M1: ,21.33,S3M2: ,22.25,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00
 2025-08-30 17:01:55,Sender 3:,0, S3M1: ,22.25,S3M2: ,23.86,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00
+2025-08-30 17:14:02,Sender 3:,0, S3M1: ,20.76,S3M2: ,21.49,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00
+2025-08-30 17:17:22,0,LoRa Receiver Gateway - Stable Version
+2025-08-30 17:17:22,1,Receiver is listening...
+2025-08-30 17:18:46,0,Received packet 'Sender 3:,0, S3M1: ,22.16,S3M2: ,23.22,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
