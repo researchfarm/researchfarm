@@ -13284,3 +13284,8 @@
 2025-08-30 17:55:52,0,Received packet 'Sender 3:,0, S3M1: ,22.95,S3M2: ,24.14,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-08-30 17:58:00,1,Received packet 'Sender 3:,0, S3M1: ,34.68,S3M2: ,33.44,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-08-30 18:00:00,2,Received packet 'Sender 3:,0, S3M1: ,34.12,S3M2: ,32.91,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-30 18:02:00,3,Received packet 'Sender 3:,0, S3M1: ,34.96,S3M2: ,33.71,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-30 18:04:00,4,Received packet 'Sender 3:,0, S3M1: ,34.96,S3M2: ,33.58,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-30 18:06:00,5,Received packet 'Sender 3:,0, S3M1: ,31.61,S3M2: ,30.49,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-30 18:08:00,6,Received packet 'Sender 3:,0, S3M1: ,34.68,S3M2: ,33.31,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-08-30 18:10:00,7,Received packet 'Sender 3:,0, S3M1: ,32.25,S3M2: ,30.98,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
