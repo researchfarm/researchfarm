@@ -13324,3 +13324,4 @@
 2025-09-01 12:04:26,1,Received packet 'Sender 3:,0, S3M1: ,19.91,S3M2: ,21.82,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-09-01 12:09:30,2,Received packet 'Sender 3:,0, S3M1: ,19.17,S3M2: ,21.25,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-09-01 12:16:03,0,Received packet 'Sender 3:,0, S3M1: ,22.42,S3M2: ,23.22,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-09-01 12:20:07,1,Received packet 'Sender 3:,0, S3M1: ,23.04,S3M2: ,23.86,S3T1: ,-127.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
