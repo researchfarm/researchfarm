@@ -23329,3 +23329,170 @@
 2025-09-06 18:49:57,6856,Sender 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5093
 2025-09-06 18:49:58,6857,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00'
 2025-09-06 18:49:59,6858,ACK2
+2025-09-06 18:50:04,6859,er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5093)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5093)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5093)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5093)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5093)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5093)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain
+2025-09-06 18:50:04,6860,Received packet ''
+2025-09-06 18:50:04,6861,ERROR: Could not extract sender ID
+2025-09-06 18:50:08,6862,Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098
+2025-09-06 18:50:08,6863,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00'
+2025-09-06 18:50:09,6864,ACK2
+2025-09-06 18:50:14,6865,er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain
+2025-09-06 18:50:14,6866,Received packet ''
+2025-09-06 18:50:14,6867,ERROR: Could not extract sender ID
+2025-09-06 18:51:52,6868,Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080
+2025-09-06 18:51:52,6869,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:51:53,6870,ACK2
+2025-09-06 18:51:58,6871,er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:51:58,6872,Received packet ''
+2025-09-06 18:51:59,6873,ERROR: Could not extract sender ID
+2025-09-06 18:52:06,6874,Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080
+2025-09-06 18:52:06,6875,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:52:07,6876,ACK2
+2025-09-06 18:52:12,6877,er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:52:12,6878,Received packet ''
+2025-09-06 18:52:12,6879,ERROR: Could not extract sender ID
+2025-09-06 18:52:20,6880,Sender 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5081
+2025-09-06 18:52:20,6881,Received packet 'Sender 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:52:21,6882,ACK2
+2025-09-06 18:52:26,6883,er 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.18,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:52:26,6884,Received packet ''
+2025-09-06 18:52:26,6885,ERROR: Could not extract sender ID
+2025-09-06 18:52:58,6886,Sender 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5081
+2025-09-06 18:52:58,6887,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00'
+2025-09-06 18:52:59,6888,ACK2
+2025-09-06 18:53:04,6889,er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5081)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,49.38,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain
+2025-09-06 18:53:04,6890,Received packet ''
+2025-09-06 18:53:04,6891,ERROR: Could not extract sender ID
+2025-09-06 18:53:21,6892,Sender 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00|5084
+2025-09-06 18:53:22,6893,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:53:23,6894,ACK2
+2025-09-06 18:53:28,6895,er 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00|5084)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00|5084)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00|5084)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00|5084)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00|5084)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain: ,0.00|5084)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.78,S2T1: ,31.06,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:53:28,6896,Received packet ''
+2025-09-06 18:53:28,6897,ERROR: Could not extract sender ID
+2025-09-06 18:54:17,6898,Sender 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5085
+2025-09-06 18:54:17,6899,Received packet 'Sender 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:54:18,6900,ACK2
+2025-09-06 18:54:23,6901,er 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5085)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5085)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5085)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5085)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5085)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5085)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,49.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:54:23,6902,Received packet ''
+2025-09-06 18:54:23,6903,ERROR: Could not extract sender ID
+2025-09-06 18:55:21,6904,Sender 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5097
+2025-09-06 18:55:21,6905,Received packet 'Sender 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:55:22,6906,ACK2
+2025-09-06 18:55:27,6907,er 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5097)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5097)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5097)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5097)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5097)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5097)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.68,S2M2: ,49.18,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:55:27,6908,Received packet ''
+2025-09-06 18:55:27,6909,ERROR: Could not extract sender ID
+2025-09-06 18:55:56,6910,Sender 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5088
+2025-09-06 18:55:56,6911,Received packet 'Sender 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:55:57,6912,ACK2
+2025-09-06 18:56:02,6913,er 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5088)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5088)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5088)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5088)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5088)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5088)ZV\4MF?B{ 6-rUYlĭ'IpMЋNK<';}&_Y8-> Ӕ9D'GsȷxѳatS7Z(x\s)<@ΗH:jzZFyD鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:56:02,6914,Received packet ''
+2025-09-06 18:56:02,6915,ERROR: Could not extract sender ID
+2025-09-06 18:56:03,6916,"3J8vW:%Cb1Y.ݕ7{@\E.u5ޚu8]io#8g`0Sb}PHo9^XibZmSy5
+2025-09-06 18:56:03,6917,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L
+2025-09-06 18:56:25,6918,Sender 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5094
+2025-09-06 18:56:25,6919,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00'
+2025-09-06 18:56:26,6920,ACK2
+2025-09-06 18:56:29,6921,er 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5094PHo9^XibZmSy5
+2025-09-06 18:56:30,6922,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5094PHo9^XibZmSy5
+2025-09-06 18:56:30,6923,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5094PHo9^XibZmSy5
+2025-09-06 18:56:30,6924,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5094PHo9^XibZmSy5
+2025-09-06 18:56:31,6925,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5094PHo9^XibZmSy5
+2025-09-06 18:56:31,6926,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5094PHo9^XibZmSy5
+2025-09-06 18:56:31,6927,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.19,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain
+2025-09-06 18:56:31,6928,Received packet ''
+2025-09-06 18:56:31,6929,ERROR: Could not extract sender ID
+2025-09-06 18:56:48,6930,Sender 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5095
+2025-09-06 18:56:48,6931,Received packet 'Sender 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:56:49,6932,ACK2
+2025-09-06 18:56:53,6933,er 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5095PHo9^XibZmSy5
+2025-09-06 18:56:53,6934,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5095PHo9^XibZmSy5
+2025-09-06 18:56:53,6935,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5095PHo9^XibZmSy5
+2025-09-06 18:56:53,6936,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5095PHo9^XibZmSy5
+2025-09-06 18:56:54,6937,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5095PHo9^XibZmSy5
+2025-09-06 18:56:54,6938,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5095PHo9^XibZmSy5
+2025-09-06 18:56:54,6939,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.25,S2M2: ,48.78,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:56:54,6940,Received packet ''
+2025-09-06 18:56:54,6941,ERROR: Could not extract sender ID
+2025-09-06 18:57:25,6942,Sender 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5107
+2025-09-06 18:57:25,6943,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:57:26,6944,ACK2
+2025-09-06 18:57:29,6945,er 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5107PHo9^XibZmSy5
+2025-09-06 18:57:30,6946,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5107PHo9^XibZmSy5
+2025-09-06 18:57:30,6947,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5107PHo9^XibZmSy5
+2025-09-06 18:57:30,6948,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5107PHo9^XibZmSy5
+2025-09-06 18:57:30,6949,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5107PHo9^XibZmSy5
+2025-09-06 18:57:31,6950,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain: ,0.00|5107PHo9^XibZmSy5
+2025-09-06 18:57:31,6951,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:57:31,6952,Received packet ''
+2025-09-06 18:57:31,6953,ERROR: Could not extract sender ID
+2025-09-06 18:57:34,6954,Sender 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5084
+2025-09-06 18:57:34,6955,Received packet 'Sender 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:57:35,6956,ACK2
+2025-09-06 18:57:39,6957,er 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5084PHo9^XibZmSy5
+2025-09-06 18:57:39,6958,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5084PHo9^XibZmSy5
+2025-09-06 18:57:39,6959,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5084PHo9^XibZmSy5
+2025-09-06 18:57:40,6960,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5084PHo9^XibZmSy5
+2025-09-06 18:57:40,6961,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5084PHo9^XibZmSy5
+2025-09-06 18:57:40,6962,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5084PHo9^XibZmSy5
+2025-09-06 18:57:40,6963,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.46,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:57:40,6964,Received packet ''
+2025-09-06 18:57:40,6965,ERROR: Could not extract sender ID
+2025-09-06 18:57:54,6966,Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080
+2025-09-06 18:57:54,6967,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:57:55,6968,ACK2
+2025-09-06 18:57:59,6969,er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080PHo9^XibZmSy5
+2025-09-06 18:57:59,6970,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080PHo9^XibZmSy5
+2025-09-06 18:57:59,6971,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080PHo9^XibZmSy5
+2025-09-06 18:57:59,6972,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080PHo9^XibZmSy5
+2025-09-06 18:58:00,6973,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080PHo9^XibZmSy5
+2025-09-06 18:58:00,6974,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5080PHo9^XibZmSy5
+2025-09-06 18:58:00,6975,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:58:00,6976,Received packet ''
+2025-09-06 18:58:00,6977,ERROR: Could not extract sender ID
+2025-09-06 18:58:08,6978,Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098
+2025-09-06 18:58:08,6979,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00'
+2025-09-06 18:58:09,6980,ACK2
+2025-09-06 18:58:12,6981,er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098PHo9^XibZmSy5
+2025-09-06 18:58:12,6982,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098PHo9^XibZmSy5
+2025-09-06 18:58:13,6983,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098PHo9^XibZmSy5
+2025-09-06 18:58:13,6984,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098PHo9^XibZmSy5
+2025-09-06 18:58:13,6985,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098PHo9^XibZmSy5
+2025-09-06 18:58:14,6986,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain: ,0.00|5098PHo9^XibZmSy5
+2025-09-06 18:58:14,6987,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,30.94,S2T2: ,32.06,DepthOfRain
+2025-09-06 18:58:14,6988,Received packet ''
+2025-09-06 18:58:14,6989,ERROR: Could not extract sender ID
+2025-09-06 18:59:14,6990,Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5086
+2025-09-06 18:59:14,6991,Received packet 'Sender 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00'
+2025-09-06 18:59:15,6992,ACK2
+2025-09-06 18:59:18,6993,er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5086PHo9^XibZmSy5
+2025-09-06 18:59:19,6994,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5086PHo9^XibZmSy5
+2025-09-06 18:59:19,6995,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5086PHo9^XibZmSy5
+2025-09-06 18:59:19,6996,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5086PHo9^XibZmSy5
+2025-09-06 18:59:19,6997,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5086PHo9^XibZmSy5
+2025-09-06 18:59:20,6998,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain: ,0.00|5086PHo9^XibZmSy5
+2025-09-06 18:59:20,6999,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,53.10,S2M2: ,48.98,S2T1: ,31.00,S2T2: ,32.06,DepthOfRain
+2025-09-06 18:59:20,7000,Received packet ''
+2025-09-06 18:59:20,7001,ERROR: Could not extract sender ID
+2025-09-06 18:59:33,7002,Sender 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091
+2025-09-06 18:59:34,7003,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:59:35,7004,ACK2
+2025-09-06 18:59:38,7005,er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:38,7006,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:39,7007,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:39,7008,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:39,7009,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:39,7010,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:40,7011,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:59:40,7012,Received packet ''
+2025-09-06 18:59:40,7013,ERROR: Could not extract sender ID
+2025-09-06 18:59:52,7014,Sender 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091
+2025-09-06 18:59:52,7015,Received packet 'Sender 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00'
+2025-09-06 18:59:53,7016,ACK2
+2025-09-06 18:59:57,7017,er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:57,7018,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:57,7019,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:57,7020,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:58,7021,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:58,7022,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain: ,0.00|5091PHo9^XibZmSy5
+2025-09-06 18:59:58,7023,#4MeL*v7B<ti7ZՖuM{+uĦP[J&H)ӗp3ΙY|K~t؁!`1z96L鲩a|ŋ$q![)ACK2er 2:,0, S2M1: ,52.89,S2M2: ,48.58,S2T1: ,31.00,S2T2: ,32.00,DepthOfRain
+2025-09-06 18:59:58,7024,Received packet ''
+2025-09-06 18:59:58,7025,ERROR: Could not extract sender ID
