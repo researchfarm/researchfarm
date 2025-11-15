@@ -1387,3 +1387,6 @@
 2025-11-15 10:45:21,1072,Received packet 'Sender 4:,0, S4M1: ,29.18,S4M2: ,35.68,S4T1: ,22.94,S4T2: ,23.94,DepthOfRain: ,0.00'
 2025-11-15 10:45:56,1073,Received packet 'Sender 1:,0, S1M1: ,76.00,S1M2: ,72.00,S1T1: ,23.63,S1T2: ,24.69,DepthOfRain: ,0.00'
 2025-11-15 10:48:43,1074,Received packet 'Sender 3:,0, S3M1: ,32.13,S3M2: ,43.01,S3T1: ,22.81,S3T2: ,24.00,DepthOfRain: ,0.00'
+2025-11-15 10:52:12,1075,Received packet 'Sender 0:,0, S0M1: ,38.39,S0M2: ,40.14,S0T1: ,23.69,S0T2: ,24.88,DepthOfRain: ,0.00'
+2025-11-15 10:55:00,1076,Received packet 'Sender 2:,0, S2M1: ,40.80,S2M2: ,38.08,S2T1: ,24.06,S2T2: ,24.31,DepthOfRain: ,0.00'
+2025-11-15 10:59:15,1077,Received packet 'Sender 101:,Pressure_kPa: ,-93.21'
