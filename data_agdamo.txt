@@ -1914,3 +1914,5 @@
 2025-11-16 09:26:58,1599,Received packet 'Sender 2:,0, S2M1: ,38.70,S2M2: ,36.86,S2T1: ,24.00,S2T2: ,24.25,DepthOfRain: ,0.00'
 2025-11-16 09:28:10,1600,Received packet 'Sender 1:,0, S1M1: ,75.00,S1M2: ,72.00,S1T1: ,23.50,S1T2: ,24.56,DepthOfRain: ,0.00'
 2025-11-16 09:29:21,1601,Received packet 'Sender 0:,0, S0M1: ,43.01,S0M2: ,40.30,S0T1: ,23.63,S0T2: ,24.81,DepthOfRain: ,0.00'
+2025-11-16 09:37:41,1602,Received packet 'Sender 3:,0, S3M1: ,31.61,S3M2: ,43.19,S3T1: ,22.38,S3T2: ,23.88,DepthOfRain: ,0.00'
+2025-11-16 09:39:51,1603,Received packet 'Sender 4:,0, S4M1: ,29.06,S4M2: ,35.97,S4T1: ,22.81,S4T2: ,23.81,DepthOfRain: ,0.00'
