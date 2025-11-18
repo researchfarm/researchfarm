@@ -3063,3 +3063,4 @@
 2025-11-18 10:18:28,527,Received packet 'Sender 4:,0, S4M1: ,29.18,S4M2: ,35.83,S4T1: ,22.81,S4T2: ,23.63,DepthOfRain: ,0.00'
 2025-11-18 10:18:57,528,Received packet 'Sender 2:,0, S2M1: ,39.82,S2M2: ,37.77,S2T1: ,24.00,S2T2: ,24.13,DepthOfRain: ,0.00'
 2025-11-18 10:19:49,529,Received packet 'Sender 0:,0, S0M1: ,40.30,S0M2: ,39.82,S0T1: ,23.75,S0T2: ,24.69,DepthOfRain: ,0.00'
+2025-11-18 10:21:44,530,Received packet 'Sender 1:,0, S1M1: ,74.00,S1M2: ,72.00,S1T1: ,23.63,S1T2: ,24.44,DepthOfRain: ,0.00'
