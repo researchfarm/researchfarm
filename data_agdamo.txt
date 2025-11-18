@@ -3249,3 +3249,4 @@
 2025-11-18 18:37:04,713,Received packet 'Sender 4:,0, S4M1: ,29.53,S4M2: ,36.12,S4T1: ,23.63,S4T2: ,23.69,DepthOfRain: ,0.00'
 2025-11-18 18:38:35,714,Received packet 'Sender 3:,0, S3M1: ,29.77,S3M2: ,42.15,S3T1: ,24.38,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-11-18 18:39:47,715,Received packet 'Sender 101:,Pressure_kPa: ,-121.07'
+2025-11-18 18:46:52,716,Received packet 'Sender 1:,0, S1M1: ,74.00,S1M2: ,72.00,S1T1: ,24.63,S1T2: ,24.63,DepthOfRain: ,0.00'
