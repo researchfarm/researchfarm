@@ -4201,3 +4201,6 @@
 2025-11-20 18:58:12,170,Received packet 'Sender 4:,0, S4M1: ,29.29,S4M2: ,36.41,S4T1: ,23.94,S4T2: ,23.88,DepthOfRain: ,0.00'
 2025-11-20 18:59:58,171,Received packet 'Sender 2:,0, S2M1: ,37.61,S2M2: ,35.97,S2T1: ,25.19,S2T2: ,24.69,DepthOfRain: ,0.00'
 2025-11-20 18:59:59,172,Received packet 'Sender 101:,Pressure_kPa: ,-102.01'
+2025-11-20 19:04:34,173,Received packet 'Sender 3:,0, S3M1: ,27.93,S3M2: ,38.86,S3T1: ,24.88,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-11-20 19:05:01,174,Received packet 'Sender 1:,0, S1M1: ,74.00,S1M2: ,72.00,S1T1: ,25.06,S1T2: ,24.88,DepthOfRain: ,0.00'
+2025-11-20 19:07:47,175,Received packet 'Sender 0:,0, S0M1: ,38.23,S0M2: ,40.14,S0T1: ,25.31,S0T2: ,25.25,DepthOfRain: ,0.00'
