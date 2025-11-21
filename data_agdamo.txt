@@ -4603,3 +4603,7 @@
 2025-11-21 12:04:52,572,Received packet 'Sender 3:,0, S3M1: ,27.82,S3M2: ,39.49,S3T1: ,24.00,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-11-21 12:09:05,573,Received packet 'Sender 4:,0, S4M1: ,29.65,S4M2: ,36.41,S4T1: ,23.31,S4T2: ,23.88,DepthOfRain: ,0.00'
 2025-11-21 12:09:15,574,Received packet 'Sender 101:,Pressure_kPa: ,-85.88'
+2025-11-21 12:11:22,575,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,71.00,S1T1: ,24.31,S1T2: ,24.81,DepthOfRain: ,0.00'
+2025-11-21 12:11:35,576,Received packet 'Sender 0:,0, S0M1: ,32.52,S0M2: ,40.80,S0T1: ,24.44,S0T2: ,25.25,DepthOfRain: ,0.00'
+2025-11-21 12:14:01,577,Received packet 'Sender 2:,0, S2M1: ,36.27,S2M2: ,35.54,S2T1: ,24.56,S2T2: ,24.50,DepthOfRain: ,0.00'
+2025-11-21 12:17:04,578,Received packet 'Sender 2:,0, S2M1: ,58.48,S2M2: ,56.63,S2T1: ,24.50,S2T2: ,24.44,DepthOfRain: ,0.00'
