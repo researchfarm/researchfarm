@@ -4909,3 +4909,7 @@
 2025-11-22 00:30:49,878,Received packet 'Sender 0:,0, S0M1: ,34.69,S0M2: ,40.97,S0T1: ,25.31,S0T2: ,25.56,DepthOfRain: ,0.00'
 2025-11-22 00:38:09,879,Received packet 'Sender 3:,0, S3M1: ,27.71,S3M2: ,40.14,S3T1: ,24.25,S3T2: ,-127.00,DepthOfRain: ,0.00'
 2025-11-22 00:39:33,880,Received packet 'Sender 101:,Pressure_kPa: ,-106.41'
+2025-11-22 00:41:46,881,Received packet 'Sender 2:,0, S2M1: ,36.41,S2M2: ,35.68,S2T1: ,25.25,S2T2: ,25.00,DepthOfRain: ,0.00'
+2025-11-22 00:43:25,882,Received packet 'Sender 4:,0, S4M1: ,30.13,S4M2: ,37.61,S4T1: ,23.94,S4T2: ,24.19,DepthOfRain: ,0.00'
+2025-11-22 00:45:16,883,Received packet 'Sender 1:,0, S1M1: ,74.00,S1M2: ,72.00,S1T1: ,25.06,S1T2: ,25.25,DepthOfRain: ,0.00'
+2025-11-22 00:45:50,884,Received packet 'Sender 0:,0, S0M1: ,34.69,S0M2: ,40.80,S0T1: ,25.31,S0T2: ,25.56,DepthOfRain: ,0.00'
