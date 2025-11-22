@@ -5299,3 +5299,7 @@
 2025-11-22 17:42:04,1268,Received packet 'Sender 4:,0, S4M1: ,29.53,S4M2: ,36.56,S4T1: ,24.00,S4T2: ,24.06,DepthOfRain: ,0.00'
 2025-11-22 17:44:36,1269,Received packet 'Sender 2:,0, S2M1: ,37.16,S2M2: ,36.27,S2T1: ,25.13,S2T2: ,24.75,DepthOfRain: ,0.00'
 2025-11-22 17:47:23,1270,Received packet 'Sender 1:,0, S1M1: ,74.00,S1M2: ,72.00,S1T1: ,25.13,S1T2: ,25.00,DepthOfRain: ,0.00'
+2025-11-22 17:50:38,1271,Received packet 'Sender 0:,0, S0M1: ,41.64,S0M2: ,43.72,S0T1: ,25.25,S0T2: ,25.25,DepthOfRain: ,0.00'
+2025-11-22 17:53:23,1272,Received packet 'Sender 101:,Pressure_kPa: ,-107.88'
+2025-11-22 17:58:06,1273,Received packet 'Sender 4:,0, S4M1: ,29.89,S4M2: ,36.41,S4T1: ,24.00,S4T2: ,24.00,DepthOfRain: ,0.00'
+2025-11-22 17:59:37,1274,Received packet 'Sender 2:,0, S2M1: ,36.71,S2M2: ,36.12,S2T1: ,25.19,S2T2: ,24.75,DepthOfRain: ,0.00'
