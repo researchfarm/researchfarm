@@ -5303,3 +5303,6 @@
 2025-11-22 17:53:23,1272,Received packet 'Sender 101:,Pressure_kPa: ,-107.88'
 2025-11-22 17:58:06,1273,Received packet 'Sender 4:,0, S4M1: ,29.89,S4M2: ,36.41,S4T1: ,24.00,S4T2: ,24.00,DepthOfRain: ,0.00'
 2025-11-22 17:59:37,1274,Received packet 'Sender 2:,0, S2M1: ,36.71,S2M2: ,36.12,S2T1: ,25.19,S2T2: ,24.75,DepthOfRain: ,0.00'
+2025-11-22 18:02:25,1275,Received packet 'Sender 1:,0, S1M1: ,74.00,S1M2: ,72.00,S1T1: ,25.13,S1T2: ,25.00,DepthOfRain: ,0.00'
+2025-11-22 18:05:39,1276,Received packet 'Sender 0:,0, S0M1: ,42.67,S0M2: ,42.67,S0T1: ,25.31,S0T2: ,25.31,DepthOfRain: ,0.00'
+2025-11-22 18:08:42,1277,Received packet 'Sender 101:,Pressure_kPa: ,-121.07'
