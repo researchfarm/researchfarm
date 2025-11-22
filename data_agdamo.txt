@@ -5238,3 +5238,6 @@
 2025-11-22 15:05:23,1207,Received packet 'Sender 0:,0, S0M1: ,43.90,S0M2: ,40.30,S0T1: ,24.81,S0T2: ,25.00,DepthOfRain: ,0.00'
 2025-11-22 15:06:16,1208,Received packet 'Sender 101:,Pressure_kPa: ,-131.34'
 2025-11-22 15:09:30,1209,Received packet 'Sender 3:,0, S3M1: ,28.72,S3M2: ,40.63,S3T1: ,24.88,S3T2: ,-127.00,DepthOfRain: ,0.00'
+2025-11-22 15:10:57,1210,Received packet 'Sender 1:,0, S1M1: ,74.00,S1M2: ,71.00,S1T1: ,24.69,S1T2: ,24.88,DepthOfRain: ,0.00'
+2025-11-22 15:12:15,1211,Received packet 'Sender 2:,0, S2M1: ,37.16,S2M2: ,35.97,S2T1: ,24.81,S2T2: ,24.63,DepthOfRain: ,0.00'
+2025-11-22 15:19:52,1212,Received packet 'Sender 4:,0, S4M1: ,29.41,S4M2: ,36.86,S4T1: ,23.81,S4T2: ,23.94,DepthOfRain: ,0.00'
