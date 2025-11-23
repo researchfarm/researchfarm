@@ -5685,3 +5685,4 @@
 2025-11-23 10:47:46,1654,Received packet 'Sender 101:,Pressure_kPa: ,-85.88'
 2025-11-23 10:48:02,1655,Received packet 'Sender 4:,0, S4M1: ,29.18,S4M2: ,35.97,S4T1: ,23.31,S4T2: ,23.94,DepthOfRain: ,0.00'
 2025-11-23 10:49:16,1656,Received packet 'Sender 2:,0, S2M1: ,35.11,S2M2: ,35.68,S2T1: ,24.56,S2T2: ,24.56,DepthOfRain: ,0.00'
+2025-11-23 10:56:45,1657,Received packet 'Sender 0:,0, S0M1: ,42.15,S0M2: ,40.63,S0T1: ,24.38,S0T2: ,-127.00,DepthOfRain: ,0.00'
