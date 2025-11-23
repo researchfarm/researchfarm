@@ -5590,3 +5590,4 @@
 2025-11-23 06:47:05,1559,Received packet 'Sender 1:,0, S1M1: ,74.00,S1M2: ,72.00,S1T1: ,24.50,S1T2: ,25.06,DepthOfRain: ,0.00'
 2025-11-23 06:47:08,1560,Received packet 'Sender 4:,0, S4M1: ,29.65,S4M2: ,36.56,S4T1: ,23.56,S4T2: ,24.06,DepthOfRain: ,0.00'
 2025-11-23 06:47:51,1561,Received packet 'Sender 2:,0, S2M1: ,36.41,S2M2: ,36.56,S2T1: ,24.75,S2T2: ,24.75,DepthOfRain: ,0.00'
+2025-11-23 06:56:22,1562,Received packet 'Sender 0:,0, S0M1: ,43.54,S0M2: ,41.81,S0T1: ,24.69,S0T2: ,25.38,DepthOfRain: ,0.00'
