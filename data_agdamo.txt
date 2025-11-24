@@ -6278,3 +6278,6 @@
 2025-11-24 11:56:03,2247,Received packet 'Sender 101:,Pressure_kPa: ,-77.08'
 2025-11-24 11:56:23,2248,Received packet 'Sender 2:,0, S2M1: ,34.55,S2M2: ,35.11,S2T1: ,24.44,S2T2: ,-127.00,DepthOfRain: ,0.00'
 2025-11-24 11:58:47,2249,Received packet 'Sender 5:,0, S5M1: ,-2.11,S5M2: ,-3.31,S5T1: ,34.75,S5T2: ,34.38,DepthOfRain: ,0.25'
+2025-11-24 12:01:11,2250,Received packet 'Sender 0:,0, S0M1: ,43.72,S0M2: ,40.97,S0T1: ,24.31,S0T2: ,25.13,DepthOfRain: ,0.00'
+2025-11-24 12:02:47,2251,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,72.00,S1T1: ,24.13,S1T2: ,24.81,DepthOfRain: ,0.00'
+2025-11-24 12:08:02,2252,Received packet 'Sender 4:,0, S4M1: ,29.41,S4M2: ,36.41,S4T1: ,23.31,S4T2: ,23.88,DepthOfRain: ,0.00'
