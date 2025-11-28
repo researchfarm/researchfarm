@@ -6483,3 +6483,4 @@
 2025-11-28 17:07:04,142,Received packet 'Sender 0:,0, S0M1: ,45.16,S0M2: ,40.63,S0T1: ,23.88,S0T2: ,24.13,DepthOfRain: ,0.00'
 2025-11-28 17:08:15,143,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,71.00,S1T1: ,23.69,S1T2: ,23.81,DepthOfRain: ,0.00'
 2025-11-28 17:09:34,144,Received packet 'Sender 101:,Pressure_kPa: ,-100.54'
+2025-11-28 17:12:02,145,Received packet 'Sender 2:,0, S2M1: ,33.31,S2M2: ,32.91,S2T1: ,23.94,S2T2: ,-127.00,DepthOfRain: ,0.00'
