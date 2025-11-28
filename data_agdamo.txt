@@ -6506,3 +6506,4 @@
 2025-11-28 18:09:12,165,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,71.00,S1T1: ,23.88,S1T2: ,23.88,DepthOfRain: ,0.00'
 2025-11-28 18:09:43,166,Received packet 'Sender 101:,Pressure_kPa: ,-106.41'
 2025-11-28 18:09:46,167,Received packet 'Sender 5:,0, S5M1: ,-4.19,S5M2: ,-4.19,S5T1: ,17.56,S5T2: ,18.44,DepthOfRain: ,0.00'
+2025-11-28 18:13:02,168,Received packet 'Sender 2:,0, S2M1: ,32.78,S2M2: ,33.31,S2T1: ,24.00,S2T2: ,23.63,DepthOfRain: ,0.00'
