@@ -7079,3 +7079,4 @@
 2025-11-29 18:45:47,205,Received packet 'Sender 5:,0, S5M1: ,-4.19,S5M2: ,-4.19,S5T1: ,19.88,S5T2: ,19.38,DepthOfRain: ,0.00'
 2025-11-29 18:47:49,206,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,71.00,S1T1: ,23.94,S1T2: ,23.94,DepthOfRain: ,0.00'
 2025-11-29 18:48:49,207,Received packet 'Sender 101:,Pressure_kPa: ,-97.61'
+2025-11-29 18:59:13,208,Received packet 'Sender 4:,0, S4M1: ,29.29,S4M2: ,35.83,S4T1: ,22.88,S4T2: ,23.00,DepthOfRain: ,0.00'
