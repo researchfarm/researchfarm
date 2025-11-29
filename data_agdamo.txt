@@ -7030,3 +7030,7 @@
 2025-11-29 16:47:08,156,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,71.00,S1T1: ,23.69,S1T2: ,23.81,DepthOfRain: ,0.00'
 2025-11-29 16:48:14,157,Received packet 'Sender 101:,Pressure_kPa: ,-106.41'
 2025-11-29 16:48:48,158,Received packet 'Sender 3:,0, S3M1: ,25.01,S3M2: ,38.23,S3T1: ,23.94,S3T2: ,23.31,DepthOfRain: ,0.00'
+2025-11-29 16:51:51,159,Received packet 'Sender 4:,0, S4M1: ,29.06,S4M2: ,35.40,S4T1: ,22.75,S4T2: ,22.88,DepthOfRain: ,0.00'
+2025-11-29 16:55:19,160,Received packet 'Sender 2:,0, S2M1: ,33.85,S2M2: ,33.99,S2T1: ,23.94,S2T2: ,-127.00,DepthOfRain: ,0.00'
+2025-11-29 16:56:17,161,Received packet 'Sender 6:,0, S6M1: ,-4.19,S6M2: ,-4.19,S6T1: ,-127.00,S6T2: ,20.69,DepthOfRain: ,0.00'
+2025-11-29 16:58:51,162,Received packet 'Sender 0:,0, S0M1: ,41.81,S0M2: ,40.14,S0T1: ,23.94,S0T2: ,24.19,DepthOfRain: ,0.00'
