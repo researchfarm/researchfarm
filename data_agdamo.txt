@@ -8318,3 +8318,6 @@
 2025-12-01 22:43:30,1444,Received packet 'Sender 0:,0, S0M1: ,49.58,S0M2: ,41.81,S0T1: ,23.94,S0T2: ,24.31,DepthOfRain: ,0.00'
 2025-12-01 22:45:11,1445,Received packet 'Sender 101:,Pressure_kPa: ,-93.21'
 2025-12-01 22:48:20,1446,Received packet 'Sender 4:,0, S4M1: ,30.49,S4M2: ,37.16,S4T1: ,23.00,S4T2: ,23.13,DepthOfRain: ,0.00'
+2025-12-01 22:56:16,1447,Received packet 'Sender 5:,0, S5M1: ,-4.19,S5M2: ,-4.19,S5T1: ,19.50,S5T2: ,18.81,DepthOfRain: ,0.00'
+2025-12-01 22:57:08,1448,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,72.00,S1T1: ,23.81,S1T2: ,24.00,DepthOfRain: ,0.00'
+2025-12-01 22:58:31,1449,Received packet 'Sender 0:,0, S0M1: ,52.04,S0M2: ,41.64,S0T1: ,23.94,S0T2: ,24.31,DepthOfRain: ,0.00'
