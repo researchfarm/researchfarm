@@ -8803,3 +8803,7 @@
 2025-12-02 17:35:16,1929,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,71.00,S1T1: ,24.00,S1T2: ,24.00,DepthOfRain: ,0.00'
 2025-12-02 17:37:08,1930,Received packet 'Sender 3:,0, S3M1: ,25.60,S3M2: ,40.63,S3T1: ,24.19,S3T2: ,23.56,DepthOfRain: ,0.00'
 2025-12-02 17:39:40,1931,Received packet 'Sender 101:,Pressure_kPa: ,-125.47'
+2025-12-02 17:41:39,1932,Received packet 'Sender 4:,0, S4M1: ,29.06,S4M2: ,35.54,S4T1: ,23.25,S4T2: ,23.19,DepthOfRain: ,0.00'
+2025-12-02 17:43:21,1933,Received packet 'Sender 2:,0, S2M1: ,32.25,S2M2: ,33.72,S2T1: ,24.25,S2T2: ,-127.00,DepthOfRain: ,0.00'
+2025-12-02 17:44:33,1934,Received packet 'Sender 5:,0, S5M1: ,-4.19,S5M2: ,-4.19,S5T1: ,21.31,S5T2: ,20.81,DepthOfRain: ,0.00'
+2025-12-02 17:47:42,1935,Received packet 'Sender 0:,0, S0M1: ,52.68,S0M2: ,41.13,S0T1: ,24.13,S0T2: ,24.25,DepthOfRain: ,0.00'
