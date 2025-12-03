@@ -9288,3 +9288,6 @@
 2025-12-03 11:16:19,2414,Received packet 'Sender 101:,Pressure_kPa: ,-100.54'
 2025-12-03 11:19:10,2415,Received packet 'Sender 5:,0, S5M1: ,-4.19,S5M2: ,-4.19,S5T1: ,29.06,S5T2: ,28.19,DepthOfRain: ,2578.10'
 2025-12-03 11:19:11,2416,Received packet 'Sender 1:,0, S1M1: ,72.00,S1M2: ,71.00,S1T1: ,23.19,S1T2: ,23.88,DepthOfRain: ,0.00'
+2025-12-03 11:23:21,2417,Received packet 'Sender 4:,0, S4M1: ,28.72,S4M2: ,35.68,S4T1: ,22.50,S4T2: ,23.06,DepthOfRain: ,0.00'
+2025-12-03 11:23:52,2418,Received packet 'Sender 3:,0, S3M1: ,25.30,S3M2: ,39.65,S3T1: ,22.81,S3T2: ,23.38,DepthOfRain: ,0.00'
+2025-12-03 11:26:53,2419,Received packet 'Sender 2:,0, S2M1: ,31.11,S2M2: ,33.45,S2T1: ,23.63,S2T2: ,23.69,DepthOfRain: ,0.00'
