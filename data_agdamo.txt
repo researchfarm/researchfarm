@@ -9599,3 +9599,8 @@
 2025-12-03 21:25:25,2725,Received packet 'Sender 1:,0, S1M1: ,73.00,S1M2: ,71.00,S1T1: ,23.75,S1T2: ,24.00,DepthOfRain: ,0.00'
 2025-12-03 21:28:02,2726,Received packet 'Sender 6:,0, S6M1: ,-1.85,S6M2: ,-3.03,S6T1: ,-127.00,S6T2: ,13.44,DepthOfRain: ,0.00'
 2025-12-03 21:29:11,2727,Received packet 'Sender 101:,Pressure_kPa: ,-116.67'
+2025-12-03 21:36:09,2728,Received packet 'Sender 4:,0, S4M1: ,29.53,S4M2: ,35.97,S4T1: ,23.00,S4T2: ,23.25,DepthOfRain: ,0.00'
+2025-12-03 21:36:14,2729,Received packet 'Sender 5:,0, S5M1: ,-4.19,S5M2: ,-4.19,S5T1: ,17.13,S5T2: ,16.06,DepthOfRain: ,0.00'
+2025-12-03 21:36:18,2730,Received packet 'Sender 2:,0, S2M1: ,32.00,S2M2: ,33.99,S2T1: ,24.06,S2T2: ,23.81,DepthOfRain: ,0.00'
+2025-12-03 21:38:13,2731,Received packet 'Sender 0:,0, S0M1: ,51.62,S0M2: ,40.47,S0T1: ,23.88,S0T2: ,24.31,DepthOfRain: ,0.00'
+2025-12-03 21:39:18,2732,Received packet 'Sender 3:,0, S3M1: ,25.50,S3M2: ,41.30,S3T1: ,23.25,S3T2: ,23.50,DepthOfRain: ,0.00'
