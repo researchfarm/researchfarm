@@ -10480,3 +10480,4 @@
 2025-12-05 04:17:21,3606,Received packet 'Sender 2:,0, S2M1: ,31.36,S2M2: ,33.45,S2T1: ,-127.00,S2T2: ,-127.00,DepthOfRain: ,0.00'
 2025-12-05 04:18:31,3607,Received packet 'Sender 4:,0, S4M1: ,30.25,S4M2: ,36.71,S4T1: ,22.13,S4T2: ,22.75,DepthOfRain: ,0.00'
 2025-12-05 04:19:47,3608,Received packet 'Sender 101:,Pressure_kPa: ,-125.47'
+2025-12-05 04:23:27,3609,Received packet 'Sender 6:,0, S6M1: ,0.01,S6M2: ,2.07,S6T1: ,8.38,S6T2: ,8.69,DepthOfRain: ,0.00'
