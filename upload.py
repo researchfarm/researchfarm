@@ -4,7 +4,7 @@ import os
 
 # paths defining
 
-LOCAL_FILE = "/media/pi/9E8E534B8E531B5B1/data/AGDaMo_Jul25.txt"
+LOCAL_FILE = "/media/pi/9E8E534B8E531B5B1/data/AGDaMo_Dec9.txt"
 REPO_FILE = "/home/pi/researchfarm/data.txt"
 REPO_PATH = "/home/pi/researchfarm"
 
