@@ -5608,3 +5608,4 @@
 2025-12-18 02:08:26,4851,Received packet 'Sender 101:,Pressure_kPa: ,-147.07 ,Voltage: ,0.010 ,ADC: ,2',Network:,field water management,Lat:,22.316705,Long:,87.313552
 2025-12-18 02:08:34,4852,Received packet 'Sender 1:,0, S1M1: ,32.40,S1M2: ,30.30,S1T1: ,21.56,S1T2: ,22.06,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316338,Long:,87.31381
 2025-12-18 02:09:41,4853,Received packet 'Sender 0:,0, S0M1: ,37.16,S0M2: ,42.67,S0T1: ,21.94,S0T2: ,22.50,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316324,Long:,87.313826
+2025-12-18 02:10:47,4854,Received packet 'Sender 5:,0, S5M1: ,-4.19,S5M2: ,-3.80,S5T1: ,13.63,S5T2: ,15.25,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316323,Long:,87.313813
