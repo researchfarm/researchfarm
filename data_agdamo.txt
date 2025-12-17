@@ -5620,3 +5620,4 @@
 2025-12-18 02:37:31,4863,Received packet 'Sender 4:,0, S4M1: ,28.83,S4M2: ,35.54,S4T1: ,20.88,S4T2: ,21.31,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316667,Long:,87.313562
 2025-12-18 02:38:36,4864,Received packet 'Sender 1:,0, S1M1: ,32.06,S1M2: ,30.77,S1T1: ,21.50,S1T2: ,22.06,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316338,Long:,87.31381
 2025-12-18 02:39:44,4865,Received packet 'Sender 0:,0, S0M1: ,36.71,S0M2: ,43.36,S0T1: ,21.88,S0T2: ,22.50,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316324,Long:,87.313826
+2025-12-18 02:40:49,4866,Received packet 'Sender 5:,0, S5M1: ,-4.19,S5M2: ,-3.80,S5T1: ,13.56,S5T2: ,15.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316323,Long:,87.313813
