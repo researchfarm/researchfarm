@@ -7801,3 +7801,4 @@
 2025-12-21 16:56:02,745,Received packet 'Sender 4:,0, S4M1: ,29.53,S4M2: ,36.41,S4T1: ,20.31,S4T2: ,20.69,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316667,Long:,87.313562
 2025-12-21 16:57:09,746,Received packet 'Sender 1:,0, S1M1: ,28.95,S1M2: ,26.85,S1T1: ,20.63,S1T2: ,21.25,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316338,Long:,87.31381
 2025-12-21 16:58:17,747,Received packet 'Sender 101:,Pressure_kPa: ,-150.00 ,Voltage: ,0.000 ,ADC: ,0',Network:,field water management,Lat:,22.316705,Long:,87.313552
+2025-12-21 17:07:04,748,Received packet 'Sender 2:,0, S2M1: ,27.71,S2M2: ,28.83,S2T1: ,21.31,S2T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316661,Long:,87.313573
