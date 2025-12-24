@@ -9844,3 +9844,5 @@
 2025-12-25 04:58:09,2788,Received packet 'Sender 2:,0, S2M1: ,40.97,S2M2: ,36.56,S2T1: ,21.38,S2T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316661,Long:,87.313573
 2025-12-25 04:59:18,2789,Received packet 'Sender 101:,Pressure_kPa: ,-150.00 ,Voltage: ,0.000 ,ADC: ,0',Network:,field water management,Lat:,22.316705,Long:,87.313552
 2025-12-25 04:59:26,2790,Received packet 'Sender 4:,0, S4M1: ,29.53,S4M2: ,38.70,S4T1: ,20.38,S4T2: ,20.88,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316667,Long:,87.313562
+2025-12-25 05:04:17,2791,Received packet 'Sender 6:,0, S6M1: ,0.65,S6M2: ,4.10,S6T1: ,11.94,S6T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316357,Long:,87.313724
+2025-12-25 05:06:25,2792,Received packet 'Sender 5:,0, S5M1: ,-2.48,S5M2: ,-2.75,S5T1: ,12.00,S5T2: ,13.44,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316323,Long:,87.313813
