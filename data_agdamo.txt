@@ -10877,3 +10877,6 @@
 2025-12-27 00:56:22,3821,Received packet 'Sender 5:,0, S5M1: ,-3.22,S5M2: ,-2.94,S5T1: ,10.81,S5T2: ,13.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316323,Long:,87.313813
 2025-12-27 00:58:35,3822,Received packet 'Sender 4:,0, S4M1: ,28.15,S4M2: ,37.31,S4T1: ,19.50,S4T2: ,20.19,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316667,Long:,87.313562
 2025-12-27 00:59:40,3823,Received packet 'Sender 6:,0, S6M1: ,1.11,S6M2: ,0.88,S6T1: ,9.56,S6T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316357,Long:,87.313724
+2025-12-27 01:00:50,3824,Received packet 'Sender 3:,0, S3M1: ,25.80,S3M2: ,37.31,S3T1: ,19.13,S3T2: ,20.19,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316297,Long:,87.313709
+2025-12-27 01:01:56,3825,Received packet 'Sender 101:,Pressure_kPa: ,-150.00 ,Voltage: ,0.000 ,ADC: ,0',Network:,field water management,Lat:,22.316705,Long:,87.313552
+2025-12-27 01:03:02,3826,Received packet 'Sender 1:,0, S1M1: ,29.39,S1M2: ,27.25,S1T1: ,20.31,S1T2: ,20.94,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316338,Long:,87.31381
