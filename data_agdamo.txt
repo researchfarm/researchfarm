@@ -12254,3 +12254,6 @@
 2025-12-31 21:03:14,1068,Received packet 'Sender 0:,0, S0M1: ,28.95,S0M2: ,42.32,S0T1: ,19.00,S0T2: ,19.75,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316324,Long:,87.313826
 2025-12-31 21:06:38,1069,Received packet 'Sender 0:,0, S0M1: ,29.06,S0M2: ,42.15,S0T1: ,19.00,S0T2: ,19.69,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316324,Long:,87.313826
 2025-12-31 21:09:58,1070,Received packet 'Sender 0:,0, S0M1: ,29.53,S0M2: ,41.30,S0T1: ,19.00,S0T2: ,19.69,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316324,Long:,87.313826
+2025-12-31 21:13:17,1071,Received packet 'Sender 0:,0, S0M1: ,30.49,S0M2: ,42.49,S0T1: ,19.00,S0T2: ,19.75,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316324,Long:,87.313826
+2025-12-31 21:16:35,1072,Received packet 'Sender 0:,0, S0M1: ,30.25,S0M2: ,43.54,S0T1: ,19.00,S0T2: ,19.75,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316324,Long:,87.313826
+2025-12-31 21:19:52,1073,Received packet 'Sender 0:,0, S0M1: ,30.86,S0M2: ,42.32,S0T1: ,19.00,S0T2: ,19.75,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316324,Long:,87.313826
