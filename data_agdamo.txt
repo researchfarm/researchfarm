@@ -13845,3 +13845,9 @@
 2026-01-03 11:44:15,838,Received packet 'Sender 6:,0, S6M1: ,8.03,S6M2: ,-1.32,S6T1: ,34.63,S6T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316357,Long:,87.313724
 2026-01-03 11:47:18,839,Received packet 'Sender 6:,0, S6M1: ,8.08,S6M2: ,-1.23,S6T1: ,34.81,S6T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316357,Long:,87.313724
 2026-01-03 11:49:49,840,Received packet 'Sender 1:,0, S1M1: ,28.95,S1M2: ,28.08,S1T1: ,19.00,S1T2: ,19.69,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316338,Long:,87.31381
+2026-01-03 11:50:19,841,Received packet 'Sender 6:,0, S6M1: ,7.97,S6M2: ,-1.15,S6T1: ,35.75,S6T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316357,Long:,87.313724
+2026-01-03 11:53:37,842,Received packet 'Sender 6:,0, S6M1: ,7.71,S6M2: ,-1.23,S6T1: ,36.13,S6T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316357,Long:,87.313724
+2026-01-03 11:56:38,843,Received packet 'Sender 6:,0, S6M1: ,7.82,S6M2: ,-1.15,S6T1: ,36.88,S6T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316357,Long:,87.313724
+2026-01-03 11:56:41,844,Received packet 'Sender 4:,0, S4M1: ,28.49,S4M2: ,37.01,S4T1: ,18.31,S4T2: ,18.94,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316667,Long:,87.313562
+2026-01-03 11:59:03,845,Received packet 'Sender 2:,0, S2M1: ,32.25,S2M2: ,32.25,S2T1: ,18.94,S2T2: ,19.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316661,Long:,87.313573
+2026-01-03 11:59:40,846,Received packet 'Sender 6:,0, S6M1: ,7.66,S6M2: ,-1.15,S6T1: ,36.69,S6T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316357,Long:,87.313724
