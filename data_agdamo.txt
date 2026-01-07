@@ -14579,3 +14579,4 @@
 2026-01-07 10:14:36,697,Received packet 'Sender 2:,0, S2M1: ,31.23,S2M2: ,32.52,S2T1: ,18.44,S2T2: ,18.75,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316661,Long:,87.313573
 2026-01-07 10:15:29,698,Received packet 'Sender 4:,0, S4M1: ,28.83,S4M2: ,37.46,S4T1: ,17.63,S4T2: ,18.56,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316667,Long:,87.313562
 2026-01-07 10:17:34,699,Received packet 'Sender 3:,0, S3M1: ,23.04,S3M2: ,36.27,S3T1: ,17.06,S3T2: ,-127.00,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316297,Long:,87.313709
+2026-01-07 10:29:24,700,Received packet 'Sender 1:,0, S1M1: ,29.39,S1M2: ,28.80,S1T1: ,18.38,S1T2: ,19.38,DepthOfRain: ,0.00',Network:,field water management,Lat:,22.316338,Long:,87.31381
