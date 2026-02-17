@@ -4,7 +4,7 @@ import os
 
 # paths defining
 LOCAL_FILE = "/media/pi/9E8E534B8E531B5B1/data/AGDaMo_Dec9.txt"
-REPO_FILE = "/home/pi/researchfarm/data_agdamo.txt"
+REPO_FILE = "/home/pi/researchfarm/data.txt"
 REPO_PATH = "/home/pi/researchfarm"
 
 
@@ -29,4 +29,6 @@ try:
     print("? Changes pushed to GitHub successfully.")
 
 except subprocess.CalledProcessError as e:
-    print(f"? Error during Git operations: {e}")
+    print(f"? Error during Git operations.")
+    print(f"STDOUT: {e.stdout}")
+    print(f"STDERR: {e.stderr}") # This is where the real secret is!
